@@ -1,0 +1,5 @@
+{'profileIconId': 709, 'summonerLevel': 30, 'revisionDate': 1414276349000L, 'id': 8907, 'name': 'StaticFrog'}
+{'profileIconId': 8, 'summonerLevel': 13, 'revisionDate': 1391295941000L, 'id': 8905, 'name': 'PQcKswnCg3'}
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1378291414000L, 'id': 33758, 'name': 'DOMKIRE'}
+{'profileIconId': 581, 'summonerLevel': 30, 'revisionDate': 1414251160000L, 'id': 2914, 'name': 'ironii'}
+{'profileIconId': 579, 'summonerLevel': 30, 'revisionDate': 1411097092000L, 'id': 42317, 'name': 'Khajios'}
