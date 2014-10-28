@@ -12,7 +12,7 @@ api = RiotWatcher('17dd8043-3e16-4cad-a388-985bfd93d275')
 cnt = 0
 
 # The number of summoners we would like to generate
-numSummoners = 5
+numSummoners = 1
 
 def main():
     # Check if we have API calls remaining
@@ -41,21 +41,14 @@ def Generate_Summoner_ID():
 
         random_summoner = api.get_summoner(None, random_id)
 
-        # Check if the summoner name is good
-        # This is to avoid summoners like: IS148be5be2f2d180191298
-        check_name = str(random_summoner).split("name': u'", 1)[1]
+        # Check if the summoner exists
+        if Check_Summoner(random_id, random_summoner):
+            # Check the summoner's ranking
+            if Check_Rank(random_id):
+                # Write the summoner to a text doc
+                Write_Summoner(random_summoner)
 
-        if(check_name[0:3].__contains__("IS1")):
-            print("Summoner ID " + str(random_id) + " has been culled (fake)")
-        else:
-            # Increment the counter if a real summoner is found
-            global cnt;
-            cnt = cnt + 1
 
-            print "Summoner ID " + str(random_id) + " Exists!"
-
-            # Write the summoner to a text doc
-            Write_Summoner(random_summoner)
 
     # If the random summoner ID isn't a real summoner, catch error
     except LoLException:
@@ -66,6 +59,35 @@ def random_with_N_digits(n):
     range_start = 10**(n-1)
     range_end = (10**n)-1
     return randint(range_start, range_end)
+
+# Check if the summoner name is good
+# This is to avoid summoners like: IS148be5be2f2d180191298
+def Check_Summoner(random_id, random_summoner):
+    check_name = str(random_summoner).split("name': u'", 1)[1]
+
+    if(check_name[0:3].__contains__("IS1")):
+        print("Summoner ID " + str(random_id) + " has been culled (fake)")
+        return False
+    else:
+        # Increment the counter if a real summoner is found
+        global cnt;
+        cnt = cnt + 1
+
+        print "Summoner ID " + str(random_id) + " Exists!"
+
+        return True
+
+# Checks if the given summoner ID is in Gold or Platinum
+def Check_Rank(random_id):
+    check_rank = api.get_league(str(random_id))
+
+    # Only check the first 40 characters (in case GOLD is in username/elsewhere)
+    if str(check_rank)[0:40].__contains__("GOLD") | \
+       str(check_rank)[0:40].__contains__("PLATINUM"):
+        return True
+    else:
+        print("Summoner ID " + str(random_id) + " is not in GOLD or PLATINUM")
+        return False
 
 # Write this summoner to a text document
 def Write_Summoner(summoner):

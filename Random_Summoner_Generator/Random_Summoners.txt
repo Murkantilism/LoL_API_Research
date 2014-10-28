@@ -3,3 +3,19 @@
 {'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1378291414000L, 'id': 33758, 'name': 'DOMKIRE'}
 {'profileIconId': 581, 'summonerLevel': 30, 'revisionDate': 1414251160000L, 'id': 2914, 'name': 'ironii'}
 {'profileIconId': 579, 'summonerLevel': 30, 'revisionDate': 1411097092000L, 'id': 42317, 'name': 'Khajios'}
+{'profileIconId': 15, 'summonerLevel': 12, 'revisionDate': 1307741504000L, 'id': 8869, 'name': 'keingott'}
+{'profileIconId': 11, 'summonerLevel': 28, 'revisionDate': 1402421088000L, 'id': 9769, 'name': 'UtZivo5XWS'}
+{'profileIconId': 36, 'summonerLevel': 30, 'revisionDate': 1409718112000L, 'id': 59109, 'name': 'DogOfThunder'}
+{'profileIconId': 659, 'summonerLevel': 30, 'revisionDate': 1411723762000L, 'id': 8601, 'name': 'Magus'}
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1414021445000L, 'id': 7922, 'name': 'Geotoxic'}
+{'profileIconId': 16, 'summonerLevel': 30, 'revisionDate': 1395477155000L, 'id': 6071, 'name': 'Fuzzygreeneye'}
+{'profileIconId': -1, 'summonerLevel': 1, 'revisionDate': 1374903096000L, 'id': 3667, 'name': 'buckfitches13'}
+{'profileIconId': 30, 'summonerLevel': 30, 'revisionDate': 1368269967000L, 'id': 5734, 'name': 'OneWayTrip2Hell'}
+{'profileIconId': 607, 'summonerLevel': 30, 'revisionDate': 1409812126000L, 'id': 482610, 'name': 'Jeseiscool'}
+{'profileIconId': 25, 'summonerLevel': 5, 'revisionDate': 1364437834000L, 'id': 6088, 'name': 'Vengeful Blades'}
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1413921448000L, 'id': 2960, 'name': 'Walt'}
+{'profileIconId': 14, 'summonerLevel': 3, 'revisionDate': 1372230657000L, 'id': 9170, 'name': 'fxsyoda'}
+{'profileIconId': 502, 'summonerLevel': 30, 'revisionDate': 1414272133000L, 'id': 1526, 'name': 'Sarusta'}
+{'profileIconId': 550, 'summonerLevel': 30, 'revisionDate': 1414461948000L, 'id': 513255, 'name': 'KaeChoy'}
+{'profileIconId': 0, 'summonerLevel': 12, 'revisionDate': 1260289490000L, 'id': 23929, 'name': 'justadot'}
+{'profileIconId': 533, 'summonerLevel': 30, 'revisionDate': 1410649772000L, 'id': 3123, 'name': 'Duffie'}
