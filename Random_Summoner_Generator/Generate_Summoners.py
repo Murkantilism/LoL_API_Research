@@ -12,7 +12,7 @@ api = RiotWatcher('17dd8043-3e16-4cad-a388-985bfd93d275')
 cnt = 0
 
 # The number of summoners we would like to generate
-numSummoners = 1
+numSummoners = 300
 
 def main():
     # Check if we have API calls remaining
@@ -70,7 +70,7 @@ def Check_Summoner(random_id, random_summoner):
         return False
     else:
         # Increment the counter if a real summoner is found
-        global cnt;
+        global cnt
         cnt = cnt + 1
 
         print "Summoner ID " + str(random_id) + " Exists!"
@@ -97,7 +97,7 @@ def Write_Summoner(summoner):
     # Cull all extraneous u' characters (leaving ' character)
     summoner = re.sub(r"([u]+['])", r"'", str(summoner))
 
-    f = open('Random_Summoners.txt', 'a')
+    f = open('Random_Summoners_1000.txt', 'a')
     f.write(str(summoner))
     f.close()
 

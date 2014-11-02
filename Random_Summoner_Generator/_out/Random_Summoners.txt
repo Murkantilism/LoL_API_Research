@@ -1,0 +1,18 @@
+{'profileIconId': 26, 'summonerLevel': 30, 'revisionDate': 1408670328000L, 'id': 8315, 'name': 'SilkEStylez'}
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1413783826000L, 'id': 61212, 'name': 'Monstro'}
+{'profileIconId': 547, 'summonerLevel': 30, 'revisionDate': 1409021362000L, 'id': 7936, 'name': 'Skoof'}
+{'profileIconId': 582, 'summonerLevel': 30, 'revisionDate': 1391274862000L, 'id': 7144, 'name': 'M u D'}
+{'profileIconId': 4, 'summonerLevel': 30, 'revisionDate': 1414830049000L, 'id': 6240, 'name': 'clownhair'}
+{'profileIconId': -1, 'summonerLevel': 1, 'revisionDate': 1392913898000L, 'id': 58397, 'name': 'Modulus'}
+{'profileIconId': 548, 'summonerLevel': 30, 'revisionDate': 1412281434000L, 'id': 2822, 'name': 'nightmancomeths'}
+{'profileIconId': 18, 'summonerLevel': 30, 'revisionDate': 1408154835000L, 'id': 67839, 'name': 'supersede'}
+{'profileIconId': 22, 'summonerLevel': 30, 'revisionDate': 1378291414000L, 'id': 9078, 'name': 'wickeR'}
+{'profileIconId': 14, 'summonerLevel': 3, 'revisionDate': 1369782702000L, 'id': 2688, 'name': 'wotabc'}
+{'profileIconId': 15, 'summonerLevel': 30, 'revisionDate': 1391560505000L, 'id': 12588, 'name': 'soupy'}
+{'profileIconId': 589, 'summonerLevel': 30, 'revisionDate': 1414783623000L, 'id': 4568, 'name': 'slinkchinq'}
+{'profileIconId': 27, 'summonerLevel': 30, 'revisionDate': 1355406030000L, 'id': 8025, 'name': 'Biffi'}
+{'profileIconId': 24, 'summonerLevel': 30, 'revisionDate': 1378291414000L, 'id': 7140, 'name': 'Winter'}
+{'profileIconId': 544, 'summonerLevel': 30, 'revisionDate': 1412493508000L, 'id': 2781, 'name': 'drkdx64'}
+{'profileIconId': 28, 'summonerLevel': 22, 'revisionDate': 1353289204000L, 'id': 484239, 'name': 'Stynkfist'}
+{'profileIconId': 582, 'summonerLevel': 30, 'revisionDate': 1411807631000L, 'id': 278834, 'name': 'uncleanfinger'}
+{'profileIconId': 11, 'summonerLevel': 17, 'revisionDate': 1392599501000L, 'id': 98640, 'name': 'YxRY6pnzv5'}
