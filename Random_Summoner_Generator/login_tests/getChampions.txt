@@ -1,0 +1,30 @@
+*** Settings ***
+
+Documentation  A test suite with a single test for valid login. This test has
+...            a workflow that is created using keywords from the resource file.
+Resource       common_resource.txt
+
+*** Variables ***
+
+${LOGIN URL}     http://loldb.gameguyz.com/
+${search}        35548366
+
+*** Test Cases ***
+
+Open Browser To Login Page
+    Open Browser  ${LOGIN URL}  ${BROWSER}
+    Maximize Browser Window
+    Set Selenium Speed  ${DELAY}
+    Title Should Be  League of Legends Database,Summoner Stats and Champion Guide - LOLDB
+    Input Search  35548366
+    Submit Search
+    Wait Until Page Contains Most Used Champion, 30
+    Wait Until Page Loaded, 30
+    Capture Page Screenshot
+    Wait For Condition false
+
+Input Search  [Arguments]  ${search}
+    Input Text  step3  ${search}
+
+Submit Search
+    Click Button  step4  don't wait

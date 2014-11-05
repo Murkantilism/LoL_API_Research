@@ -1,0 +1,48 @@
+Nov 04, 2014 8:35:30 PM org.openqa.grid.selenium.GridLauncher main
+INFO: Launching a standalone server
+20:35:31.172 INFO - Java: Oracle Corporation 25.25-b02
+20:35:31.172 INFO - OS: Windows 7 6.1 amd64
+20:35:31.172 INFO - v2.21.0, with Core v2.21.0. Built from revision 16552
+20:35:31.362 INFO - RemoteWebDriver instances should connect to: http://127.0.0.1:4444/wd/hub
+20:35:31.362 INFO - Version Jetty/5.1.x
+20:35:31.362 INFO - Started HttpContext[/selenium-server,/selenium-server]
+20:35:31.560 INFO - Started org.openqa.jetty.jetty.servlet.ServletHandler@17ed40e0
+20:35:31.561 INFO - Started HttpContext[/wd,/wd]
+20:35:31.561 INFO - Started HttpContext[/selenium-server/driver,/selenium-server/driver]
+20:35:31.561 INFO - Started HttpContext[/,/]
+20:35:31.567 INFO - Started SocketListener on 0.0.0.0:4444
+20:35:31.567 INFO - Started org.openqa.jetty.jetty.Server@34a245ab
+20:35:31.661 INFO - Checking Resource aliases
+20:35:31.664 INFO - Checking Resource aliases
+20:35:31.670 INFO - Command request: getNewBrowserSession[*googlechrome, http://loldb.gameguyz.com/, , addCustomRequestHeaders=true] on session null
+20:35:31.673 INFO - creating new remote session
+20:35:31.830 INFO - Allocated session 916e0be2aabc43ea9bb2d995be0d9317 for http://loldb.gameguyz.com/, launching...
+20:35:31.830 INFO - Launching Google Chrome...
+20:35:36.534 INFO - Started SocketListener on 0.0.0.0:51350
+20:35:36.721 INFO - Got result: OK,916e0be2aabc43ea9bb2d995be0d9317 on session 916e0be2aabc43ea9bb2d995be0d9317
+20:35:36.733 INFO - Command request: setTimeout[5000.0, ] on session 916e0be2aabc43ea9bb2d995be0d9317
+20:35:36.767 INFO - Got result: OK on session 916e0be2aabc43ea9bb2d995be0d9317
+20:35:36.778 INFO - Command request: open[http://loldb.gameguyz.com/, True] on session 916e0be2aabc43ea9bb2d995be0d9317
+20:35:36.964 INFO - Started SocketListener on 0.0.0.0:51361
+20:35:37.698 INFO - Started SocketListener on 0.0.0.0:51364
+20:35:37.961 INFO - Started SocketListener on 0.0.0.0:51367
+20:35:41.830 INFO - Got result: Timed out after 5000.0ms on session 916e0be2aabc43ea9bb2d995be0d9317
+20:35:41.834 INFO - Couldn't proxy to http://ofhtwlgq/ because host not found
+20:35:41.834 INFO - Couldn't proxy to http://ikvohjotn/ because host not found
+20:35:41.835 INFO - Couldn't proxy to http://rqicagdvoox/ because host not found
+20:35:41.838 INFO - Command request: captureScreenshotToString[, ] on session 916e0be2aabc43ea9bb2d995be0d9317
+20:35:41.841 INFO - Creating Robot
+20:35:42.808 INFO - Got result: [base64 encoded PNG] on session 916e0be2aabc43ea9bb2d995be0d9317
+20:35:42.943 INFO - Command request: type[step3, 35548366] on session 916e0be2aabc43ea9bb2d995be0d9317
+20:35:42.981 INFO - Got result: OK on session 916e0be2aabc43ea9bb2d995be0d9317
+20:35:42.993 INFO - Command request: getLocation[, ] on session 916e0be2aabc43ea9bb2d995be0d9317
+20:35:43.178 INFO - Got result: OK,http://loldb.gameguyz.com/ on session 916e0be2aabc43ea9bb2d995be0d9317
+20:35:43.188 INFO - Command request: click[xpath=//input[@id="step4" or @name="step4" or @value="step4" or @src="step4" or @src="http://loldb.gameguyz.com/step4"], ] on session 916e0be2aabc43ea9bb2d995be0d9317
+20:35:43.239 INFO - Got result: OK on session 916e0be2aabc43ea9bb2d995be0d9317
+20:35:43.409 INFO - Command request: shutDownSeleniumServer[, ] on session null
+20:35:43.409 INFO - Shutdown command received
+20:35:43.410 INFO - Got result: OK on session null
+20:35:43.410 INFO - initiating shutdown
+20:35:43.779 INFO - Couldn't proxy to http://jp.loldb.gameguyz.com/setcookie.php?id=6s6mhof8ur351a4nm6nqqsl9s4 because host not found
+20:35:43.912 INFO - Shutting down...
+20:35:43.912 INFO - Stopping Acceptor ServerSocket[addr=0.0.0.0/0.0.0.0,localport=4444]
