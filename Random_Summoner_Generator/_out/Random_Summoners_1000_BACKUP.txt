@@ -1,12 +1,9 @@
 {'profileIconId': 666, 'summonerLevel': 30, 'revisionDate': 1413956833000L, 'id': 95680, 'name': 'MAlNWORD'}
-'mostUsedChampion': Amumu 
 {'profileIconId': 6, 'summonerLevel': 30, 'revisionDate': 1376401918000L, 'id': 54329, 'name': 'Maccattack'}
 {'profileIconId': 552, 'summonerLevel': 30, 'revisionDate': 1374123447000L, 'id': 1777, 'name': 'Merr'}
 {'profileIconId': 7, 'summonerLevel': 26, 'revisionDate': 1407428210000L, 'id': 63261, 'name': 'Supahowie'}
 {'profileIconId': 566, 'summonerLevel': 30, 'revisionDate': 1414824000000L, 'id': 2097, 'name': 'Matt'}
-'mostUsedChampion': Annie 
 {'profileIconId': 502, 'summonerLevel': 30, 'revisionDate': 1414869558000L, 'id': 3477, 'name': 'Mistryl'}
-'mostUsedChampion': Annie 
 {'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1367290039000L, 'id': 5089, 'name': 'Snuggles'}
 {'profileIconId': 30, 'summonerLevel': 30, 'revisionDate': 1378291414000L, 'id': 48489, 'name': 'FishStix'}
 {'profileIconId': 3, 'summonerLevel': 30, 'revisionDate': 1414291369000L, 'id': 9178, 'name': 'mrdotn'}
@@ -773,7 +770,6 @@
 {'profileIconId': 10, 'summonerLevel': 30, 'revisionDate': 1406917171000L, 'id': 9642, 'name': 'Change Of Heart'}
 {'profileIconId': 9, 'summonerLevel': 14, 'revisionDate': 1348793200000L, 'id': 1598, 'name': 'SexTehRobear'}
 {'profileIconId': 566, 'summonerLevel': 30, 'revisionDate': 1414876134000L, 'id': 2097, 'name': 'Matt'}
-'mostUsedChampion': Annie 
 {'profileIconId': 11, 'summonerLevel': 30, 'revisionDate': 1414638750000L, 'id': 6552, 'name': 'Swatt'}
 {'profileIconId': 658, 'summonerLevel': 30, 'revisionDate': 1409193316000L, 'id': 4216, 'name': 'Pandemonium'}
 {'profileIconId': 26, 'summonerLevel': 3, 'revisionDate': 1366483613000L, 'id': 140170, 'name': 'c0ck of l0ve'}

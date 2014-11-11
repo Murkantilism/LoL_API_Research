@@ -70,11 +70,3 @@ def pairChampions(champs):
 
 if __name__ == "__main__":
     main()
-
-
-
-    '''
-        result = re.search("id': (.*)}", champions)
-        list_of_champion_ids.append(result)
-        print result.group(1)
-'''
