@@ -121,15 +121,19 @@ def writeMostUsedChampion(summoner_id, mostUsedChampion):
             print 'RESULT: ' + str(result) + ' SUMMONER ID: ' +\
                   str(summoner_id)
 
-            # append the most used champion at the end of the line
+            # Append the most used champion at the end of the line
 
             print random_summoners_1k[lineCnt]
+			
+			# Strip out the newlines so we can append most used champ at the end
             line.rstrip('\n')
+			# Append most used champion at the end FIXME: Still isn't appending at the end of line
             random_summoners_1k[lineCnt] += "'mostUsedChampion': " +\
                                             str(mostUsedChampion) + " "
-            random_summoners_1k[lineCnt] += '\n'
+            # Write the newline back in
+            random_summoners_1k[lineCnt] += '\n' # FIXME: perhaps this is the problem?
 
-
+            # Write the new version of the line into the file
             with open('_out/Random_Summoners_1000.txt', 'w') as file:
                 file.writelines(random_summoners_1k)
 
