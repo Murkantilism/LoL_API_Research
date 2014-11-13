@@ -43,9 +43,12 @@ def getSummoners():
 def getSummonerStats(summoner_id):
     try:
         summoner_stats = api.get_ranked_stats(summoner_id, region=None, season=None)
-        parseSummonerStats(summoner_stats, summoner_id)
     except LoLException:
         print "GAME DATA NOT FOUND FOR SUMMONER: " + str(summoner_id)
+        summoner_stats = "{u'modifyDate': 1406927571000L, u'summonerId': 0000, u'champions': [{u'stats': {u'totalPhysicalDamageDealt': 152101, u'totalTurretsKilled': 1, u'totalSessionsPlayed': 1000, u'totalAssists': 10, u'totalDamageDealt': 158764, u'mostChampionKillsPerSession': 2, u'totalPentaKills': 0, u'mostSpellsCast': 0, u'totalDoubleKills': 0, u'maxChampionsKilled': 2, u'totalDeathsPerSession': 8, u'totalSessionsWon': 0, u'totalGoldEarned': 12405, u'totalTripleKills': 0, u'totalChampionKills': 2, u'maxNumDeaths': 8, u'totalMinionKills': 199, u'totalMagicDamageDealt': 5315, u'totalQuadraKills': 0, u'totalUnrealKills': 0, u'totalDamageTaken': 17519, u'totalSessionsLost': 1, u'totalFirstBlood': 0}, u'id': XX}, 2]}"
+        summoner_id += "XX"
+
+    parseSummonerStats(summoner_stats, summoner_id)
 
 # Given the ranked stats, parse it to get the totalSessionsPlayed and
 # corresponding champion id value
@@ -84,50 +87,40 @@ def getChampionTitle(mostUsedCHampionPair, summoner_id):
     for line in champions:
         line = line.split(' | ')
         if line[0] == mostUsedCHampionPair[1]:
-            #print str(line[0]) + "|" + str(mostUsedCHampionPair[1])
-            mostUsedChampion = line[1]
-            print "MOST USED CHAMPION FOR ID: " + str(summoner_id) +\
-                  " IS : " + str(mostUsedChampion)
+            if summoner_id.__contains__("XX"):
+                mostUsedChampion = "GAME DATA NOT FOUND"
+            else:
+                mostUsedChampion = line[1]
+            print "MOST USED CHAMPION FOR ID #" + str(summoner_id).strip("XX") +\
+                  " IS :" + str(mostUsedChampion)
+
             writeMostUsedChampion(summoner_id, mostUsedChampion)
 
+# Write the most used champion back into Random_Summoners_1000.txt
 def writeMostUsedChampion(summoner_id, mostUsedChampion):
     start = "'id': "
     end = ", '"
 
-    lineCnt = -1
+    lineCnt = 0
 
     # For every random summoner
     for line in random_summoners_1k:
-        lineCnt += 1
         # Find the summoner ID
         result = re.search("%s(.*)%s" % (start, end), str(line)).group(1)
 
         # Once we've found the line where the passed in summoner id resides,
-        if result == summoner_id:
-            print 'RESULT: ' + str(result) + ' SUMMONER ID: ' +\
-                  str(summoner_id)
-
-            # Append the most used champion at the end of the line
-
-            print random_summoners_1k[lineCnt]
-
-            #print "PRE-STRIP:" + repr(line)
-
-            # Strip out the newlines so we can append most used champ at the end
-            line = line.strip('\n')
-
-            #print "POST-STRIP: " + repr(line)
-            print lineCnt
-            # Append most used champion at the end FIXME: Still isn't appending at the end of line
-            random_summoners_1k[lineCnt] = random_summoners_1k[lineCnt] + "'mostUsedChampion': " +\
-                                            str(mostUsedChampion) + " "
-            # Write the newline back in
-            random_summoners_1k[lineCnt] += '\n' # FIXME: perhaps this is the problem?
+        if result == str(summoner_id).strip("XX"):
+            # Strip out newlines so we can append most used champ at end,
+            # append most used champion at end, then write newline back in.
+            random_summoners_1k[lineCnt] = ''.join([line.strip('\n'),
+                                           (" 'mostUsedChampion': " +
+                                            str(mostUsedChampion) + " "), '\n'])
 
             # Write the new version of the line into the file
             with open('_out/Random_Summoners_1000.txt', 'w') as file:
                 file.writelines(random_summoners_1k)
 
+        lineCnt += 1
 
 if __name__ == "__main__":
     main()
