@@ -12,7 +12,7 @@ allChampionsUsed = []
 
 f = open('loChampionPairs', 'r')
 champions = f.read()
-champions = champions.split('\n')
+champions = champions.splitlines()
 
 with open('_out/Random_Summoners_1000.txt', 'r') as file:
     # read a list of lines into data
@@ -23,24 +23,13 @@ def main():
     if(api.can_make_request()):
         getSummoners()
 
-        #summoner_stats = api.get_ranked_stats(summoner_id="86413", region=None, season=None)
-        #f = open('Summoner_Stats.txt', 'a')
-        #f.write(str(summoner_stats))
-
-        #f.write("\n\n\n")
-
-        #game = api.get_recent_games(summoner_id="86413", region=None)
-        #f.write(str(summoner_stats))
-        #f.close()
-
-
         # Keyword: u'id':
         # Keyword: u'totalSessionsPlayed':
 
 def getSummoners():
     f = open('_out/Random_Summoners_1000.txt', 'r')
     summoners = f.read()
-    summoners = summoners.split('\n')
+    summoners = summoners.splitlines()
 
     for s in summoners:
         # Lots of info we don't care about, get just the key (champion name)
@@ -70,14 +59,11 @@ def parseSummonerStats(summoner_stats, summoner_id):
     end1 = "}"
 
     for s in summoner_stats:
-        #print str(s) + "\n"
         # Get the number of totalSessionsPlayed
         result = re.search("%s(.*)%s" % (start, end), str(s)).group(1)
         # And the corresponding champion
         result1 = re.search("%s(.*)%s" % (start1, end1), str(s)).group(1)
         # And create a pair [totalSessionsPlayed, id]
-        #print 'RESULT: ' + str(result) + '\n'
-        #print 'RESULT ONE: ' + str(result) + '\n'
         allChampionsUsed.append([result, result1])
 
     sortChampions(summoner_id)
@@ -124,11 +110,16 @@ def writeMostUsedChampion(summoner_id, mostUsedChampion):
             # Append the most used champion at the end of the line
 
             print random_summoners_1k[lineCnt]
-			
-			# Strip out the newlines so we can append most used champ at the end
-            line.rstrip('\n')
-			# Append most used champion at the end FIXME: Still isn't appending at the end of line
-            random_summoners_1k[lineCnt] += "'mostUsedChampion': " +\
+
+            #print "PRE-STRIP:" + repr(line)
+
+            # Strip out the newlines so we can append most used champ at the end
+            line = line.strip('\n')
+
+            #print "POST-STRIP: " + repr(line)
+            print lineCnt
+            # Append most used champion at the end FIXME: Still isn't appending at the end of line
+            random_summoners_1k[lineCnt] = random_summoners_1k[lineCnt] + "'mostUsedChampion': " +\
                                             str(mostUsedChampion) + " "
             # Write the newline back in
             random_summoners_1k[lineCnt] += '\n' # FIXME: perhaps this is the problem?
