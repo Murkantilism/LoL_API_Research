@@ -1,0 +1,377 @@
+{'profileIconId': 508, 'summonerLevel': 30, 'revisionDate': 1402511882000L, 'id': 77962, 'name': 'Zero Maverick'} 'mostUsedChampion': Varus
+{'profileIconId': 555, 'summonerLevel': 30, 'revisionDate': 1414709402000L, 'id': 4424, 'name': 'WildSloth'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 588, 'summonerLevel': 30, 'revisionDate': 1415990922000L, 'id': 2830, 'name': 'Malkorh'} 'mostUsedChampion': Ezreal
+{'profileIconId': 685, 'summonerLevel': 30, 'revisionDate': 1416157123000L, 'id': 1889, 'name': 'Tethyr'} 'mostUsedChampion': Olaf
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1410974582000L, 'id': 6896, 'name': 'Kaithe'} 'mostUsedChampion': FiddleSticks 
+ {'profileIconId': 654, 'summonerLevel': 30, 'revisionDate': 1416213404000L, 'id': 479806, 'name': 'Vanguard78'} 'mostUsedChampion': Riven
+{'profileIconId': 24, 'summonerLevel': 30, 'revisionDate': 1404972460000L, 'id': 4224, 'name': 'Cobwebs'} 'mostUsedChampion': Sona
+{'profileIconId': 20, 'summonerLevel': 30, 'revisionDate': 1407115995000L, 'id': 232919, 'name': 'TaPsomB0NG'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 533, 'summonerLevel': 30, 'revisionDate': 1414742971000L, 'id': 8768, 'name': 'Tychii'} 'mostUsedChampion': Jinx 
+{'profileIconId': 658, 'summonerLevel': 30, 'revisionDate': 1409193316000L, 'id': 4216, 'name': 'Pandemonium'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1414632651000L, 'id': 4667, 'name': 'Harasame'} 'mostUsedChampion': DrMundo
+{'profileIconId': 517, 'summonerLevel': 30, 'revisionDate': 1416176945000L, 'id': 8151, 'name': 'Shadowkirbyness'} 'mostUsedChampion': Varus
+{'profileIconId': 552, 'summonerLevel': 30, 'revisionDate': 1398883205000L, 'id': 29677, 'name': 'Ironhyde'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 664, 'summonerLevel': 30, 'revisionDate': 1413610089000L, 'id': 398909, 'name': 'TSM Bjergasm'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 507, 'summonerLevel': 30, 'revisionDate': 1416198907000L, 'id': 71722, 'name': 'Itszuvalex'} 'mostUsedChampion': Varus
+{'profileIconId': 711, 'summonerLevel': 30, 'revisionDate': 1414714731000L, 'id': 23470, 'name': 'Arbaxas'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 607, 'summonerLevel': 30, 'revisionDate': 1401475405000L, 'id': 8414, 'name': 'syc2'} 'mostUsedChampion': Jinx 
+{'profileIconId': 504, 'summonerLevel': 30, 'revisionDate': 1416025535000L, 'id': 4765, 'name': 'Ysera'} 'mostUsedChampion': Riven
+{'profileIconId': 693, 'summonerLevel': 30, 'revisionDate': 1414527358000L, 'id': 2742, 'name': 'Zarox'} 'mostUsedChampion': Jinx 
+{'profileIconId': 566, 'summonerLevel': 30, 'revisionDate': 1414824000000L, 'id': 2097, 'name': 'Matt'} 'mostUsedChampion': Annie  'mostUsedChampion': FiddleSticks 
+{'profileIconId': 22, 'summonerLevel': 30, 'revisionDate': 1413857534000L, 'id': 98240, 'name': 'Antipater'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1414782362000L, 'id': 29652, 'name': 'Cortilian'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1415163152000L, 'id': 32680, 'name': 'Pekk'} 'mostUsedChampion': Varus
+ {'profileIconId': 673, 'summonerLevel': 30, 'revisionDate': 1416261991000L, 'id': 18914, 'name': 'Nprime'} 'mostUsedChampion': Riven
+{'profileIconId': 709, 'summonerLevel': 30, 'revisionDate': 1414657399000L, 'id': 6621, 'name': 'Norathek'} 'mostUsedChampion': FiddleSticks 
+ {'profileIconId': 715, 'summonerLevel': 30, 'revisionDate': 1415979553000L, 'id': 534279, 'name': 'Drahciraz'} 'mostUsedChampion': Riven{'profileIconId': 4, 'summonerLevel': 30, 'revisionDate': 1405299908000L, 'id': 4885, 'name': 'Alestria'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 11, 'summonerLevel': 30, 'revisionDate': 1414632815000L, 'id': 3492, 'name': 'Vicious'} 'mostUsedChampion': Jinx 
+ {'profileIconId': 14, 'summonerLevel': 30, 'revisionDate': 1412025092000L, 'id': 6871, 'name': 'Arcanix'} 'mostUsedChampion': Riven
+{'profileIconId': 533, 'summonerLevel': 30, 'revisionDate': 1409789855000L, 'id': 4426, 'name': 'Malkir'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1414571038000L, 'id': 5178, 'name': 'AttackBacon'} 'mostUsedChampion': Jinx 
+{'profileIconId': 711, 'summonerLevel': 30, 'revisionDate': 1414868334000L, 'id': 225967, 'name': 'WildSide'} 'mostUsedChampion': Jinx 
+{'profileIconId': 546, 'summonerLevel': 30, 'revisionDate': 1413765363000L, 'id': 287531, 'name': 'Kawakami Momoyo'} 'mostUsedChampion': Jinx 
+{'profileIconId': 522, 'summonerLevel': 30, 'revisionDate': 1415844497000L, 'id': 4920, 'name': 'Epimyth'} 'mostUsedChampion': Riven
+ {'profileIconId': 546, 'summonerLevel': 30, 'revisionDate': 1416258055000L, 'id': 1679, 'name': 'Infernal'} 'mostUsedChampion': Riven
+{'profileIconId': 7, 'summonerLevel': 30, 'revisionDate': 1416261042000L, 'id': 83802, 'name': 'itsStephers'} 'mostUsedChampion': Riven
+{'profileIconId': 27, 'summonerLevel': 30, 'revisionDate': 1414632366000L, 'id': 74421, 'name': 'Dont Feed Mid K'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 536, 'summonerLevel': 30, 'revisionDate': 1408167370000L, 'id': 271100, 'name': 'neubee'} 'mostUsedChampion': Jinx 
+{'profileIconId': 711, 'summonerLevel': 30, 'revisionDate': 1414548089000L, 'id': 6322, 'name': 'JaydenBug'} 'mostUsedChampion': FiddleSticks 
+ {'profileIconId': 588, 'summonerLevel': 30, 'revisionDate': 1409279868000L, 'id': 4225, 'name': 'BigiD'} 'mostUsedChampion': Riven
+{'profileIconId': 717, 'summonerLevel': 30, 'revisionDate': 1416073190000L, 'id': 1706, 'name': 'allistrom'} 'mostUsedChampion': Varus
+{'profileIconId': 13, 'summonerLevel': 30, 'revisionDate': 1413241441000L, 'id': 24040, 'name': 'TheDuke'} 'mostUsedChampion': Varus
+{'profileIconId': 709, 'summonerLevel': 30, 'revisionDate': 1414577005000L, 'id': 3791, 'name': 'daze'} 'mostUsedChampion': Jinx 
+{'profileIconId': 659, 'summonerLevel': 30, 'revisionDate': 1414393381000L, 'id': 72978, 'name': 'Wammi'} 'mostUsedChampion': FiddleSticks 
+ {'profileIconId': 522, 'summonerLevel': 30, 'revisionDate': 1411960827000L, 'id': 76620, 'name': 'Tymed'} 'mostUsedChampion': Riven
+{'profileIconId': 607, 'summonerLevel': 30, 'revisionDate': 1412054400000L, 'id': 42514, 'name': 'Kopakz'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 21, 'summonerLevel': 30, 'revisionDate': 1400768159000L, 'id': 2659, 'name': 'Breathmints'} 'mostUsedChampion': Jinx 
+{'profileIconId': 660, 'summonerLevel': 30, 'revisionDate': 1414041131000L, 'id': 6261, 'name': 'cpsubrian'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 558, 'summonerLevel': 30, 'revisionDate': 1415456974000L, 'id': 2234, 'name': 'Jpeg'} 'mostUsedChampion': Varus
+{'profileIconId': 660, 'summonerLevel': 30, 'revisionDate': 1414471800000L, 'id': 97764, 'name': 'Old Swarlz'} 'mostUsedChampion': Jinx 
+{'profileIconId': 7, 'summonerLevel': 30, 'revisionDate': 1412111217000L, 'id': 50859, 'name': 'Priscila'} 'mostUsedChampion': Jinx 
+{'profileIconId': 505, 'summonerLevel': 30, 'revisionDate': 1414677810000L, 'id': 1222, 'name': 'cPang'} 'mostUsedChampion': Jinx 
+{'profileIconId': 576, 'summonerLevel': 30, 'revisionDate': 1414725142000L, 'id': 262815, 'name': 'ChickenWalker'} 'mostUsedChampion': Nocturne
+{'profileIconId': 8, 'summonerLevel': 30, 'revisionDate': 1416090020000L, 'id': 32800, 'name': 'Blacksurt'} 'mostUsedChampion': Sona
+{'profileIconId': 10, 'summonerLevel': 30, 'revisionDate': 1402705388000L, 'id': 2466, 'name': 'Potius'} 'mostUsedChampion': Tristana
+{'profileIconId': 518, 'summonerLevel': 30, 'revisionDate': 1416040737000L, 'id': 6117, 'name': 'TheCheat'} 'mostUsedChampion': DrMundo
+ {'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1415933942000L, 'id': 63728, 'name': 'Tryhardasaurus'} 'mostUsedChampion': Riven
+{'profileIconId': 24, 'summonerLevel': 30, 'revisionDate': 1407983255000L, 'id': 7185, 'name': 'Squirtle'} 'mostUsedChampion': Varus
+{'profileIconId': 534, 'summonerLevel': 30, 'revisionDate': 1416008490000L, 'id': 9870, 'name': 'instakiller'} 'mostUsedChampion': Vayne
+{'profileIconId': 627, 'summonerLevel': 30, 'revisionDate': 1411667230000L, 'id': 2130, 'name': 'DemonMonkeyXIII'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 588, 'summonerLevel': 30, 'revisionDate': 1412325663000L, 'id': 62999, 'name': 'Fables'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 682, 'summonerLevel': 30, 'revisionDate': 1416062631000L, 'id': 20538, 'name': 'Valmane'} 'mostUsedChampion': Riven
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1415930158000L, 'id': 6831, 'name': 'Kipacky'} 'mostUsedChampion': Varus
+ {'profileIconId': 583, 'summonerLevel': 30, 'revisionDate': 1392170438000L, 'id': 91564, 'name': 'magusprime'} 'mostUsedChampion': Riven
+{'profileIconId': 550, 'summonerLevel': 30, 'revisionDate': 1416200178000L, 'id': 22403, 'name': '3 Hours Dungeon'} 'mostUsedChampion': Jinx
+{'profileIconId': 687, 'summonerLevel': 30, 'revisionDate': 1416130828000L, 'id': 7108, 'name': 'Nehemoth'} 'mostUsedChampion': Varus
+{'profileIconId': 685, 'summonerLevel': 30, 'revisionDate': 1415259400000L, 'id': 7481, 'name': 'Snipedown'} 'mostUsedChampion': Varus
+{'profileIconId': 507, 'summonerLevel': 30, 'revisionDate': 1414561677000L, 'id': 9876, 'name': 'lts K'} 'mostUsedChampion': Jinx 
+{'profileIconId': 6, 'summonerLevel': 30, 'revisionDate': 1415937334000L, 'id': 22902, 'name': 'RanGeR'} 'mostUsedChampion': Varus
+{'profileIconId': 659, 'summonerLevel': 30, 'revisionDate': 1414718063000L, 'id': 52534, 'name': 'lexile'} 'mostUsedChampion': Jinx 
+{'profileIconId': 716, 'summonerLevel': 30, 'revisionDate': 1415798897000L, 'id': 4887, 'name': 'Lockys'} 'mostUsedChampion': Varus
+ {'profileIconId': 505, 'summonerLevel': 30, 'revisionDate': 1416118743000L, 'id': 4374, 'name': 'Celermortus'} 'mostUsedChampion': Riven
+{'profileIconId': 660, 'summonerLevel': 30, 'revisionDate': 1410242822000L, 'id': 3763, 'name': 'statuskuo'} 'mostUsedChampion': Jinx 
+{'profileIconId': 580, 'summonerLevel': 30, 'revisionDate': 1416189771000L, 'id': 15529, 'name': 'Rupture'} 'mostUsedChampion': Varus
+{'profileIconId': 8, 'summonerLevel': 30, 'revisionDate': 1414348110000L, 'id': 6317, 'name': 'Altace'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 580, 'summonerLevel': 30, 'revisionDate': 1394265496000L, 'id': 395384, 'name': 'hailstorm350'} 'mostUsedChampion': Jinx 
+ {'profileIconId': 14, 'summonerLevel': 30, 'revisionDate': 1405210973000L, 'id': 73131, 'name': 'Elhaym'} 'mostUsedChampion': Riven
+{'profileIconId': 716, 'summonerLevel': 30, 'revisionDate': 1416127722000L, 'id': 77360, 'name': 'Kiritoo'} 'mostUsedChampion': Ezreal
+ {'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1416106380000L, 'id': 2685, 'name': 'Zer0'} 'mostUsedChampion': Riven
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1416194500000L, 'id': 167386, 'name': 'Megalomax'} 'mostUsedChampion': Riven
+{'profileIconId': 684, 'summonerLevel': 30, 'revisionDate': 1415833122000L, 'id': 8168, 'name': 'Hpnotiq'} 'mostUsedChampion': Kayle
+{'profileIconId': 20, 'summonerLevel': 30, 'revisionDate': 1413004290000L, 'id': 99783, 'name': 'Dayozee'} 'mostUsedChampion': Vayne
+{'profileIconId': 716, 'summonerLevel': 30, 'revisionDate': 1416218529000L, 'id': 9986, 'name': 'DivineOwnage'} 'mostUsedChampion': Varus
+{'profileIconId': 659, 'summonerLevel': 30, 'revisionDate': 1414534526000L, 'id': 8082, 'name': 'BigbyWolf'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 0, 'summonerLevel': 30, 'revisionDate': 1414767285000L, 'id': 74992, 'name': 'Utinni'} 'mostUsedChampion': Jinx 
+ {'profileIconId': 607, 'summonerLevel': 30, 'revisionDate': 1402651866000L, 'id': 435062, 'name': 'Type 0'} 'mostUsedChampion': Riven
+{'profileIconId': 657, 'summonerLevel': 30, 'revisionDate': 1416171725000L, 'id': 7013, 'name': 'Aito'} 'mostUsedChampion': Varus
+{'profileIconId': 687, 'summonerLevel': 30, 'revisionDate': 1414594468000L, 'id': 4179, 'name': 'iShyGuy'} 'mostUsedChampion': Morgana 
+{'profileIconId': 642, 'summonerLevel': 30, 'revisionDate': 1414361027000L, 'id': 36023, 'name': 'Boostinks'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1416197417000L, 'id': 1871, 'name': 'Nam3less'} 'mostUsedChampion': Talon
+{'profileIconId': 661, 'summonerLevel': 30, 'revisionDate': 1415957407000L, 'id': 1575, 'name': 'Silverest'} 'mostUsedChampion': Xerath
+{'profileIconId': 502, 'summonerLevel': 30, 'revisionDate': 1415936595000L, 'id': 67514, 'name': 'SpecialT'} 'mostUsedChampion': Varus
+{'profileIconId': 627, 'summonerLevel': 30, 'revisionDate': 1412035225000L, 'id': 83226, 'name': 'holy anarchy'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 621, 'summonerLevel': 30, 'revisionDate': 1416193886000L, 'id': 4251, 'name': 'rjkat'} 'mostUsedChampion': Varus
+{'profileIconId': 10, 'summonerLevel': 30, 'revisionDate': 1410544857000L, 'id': 2260, 'name': 'Peetch'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 22, 'summonerLevel': 30, 'revisionDate': 1415131995000L, 'id': 2588, 'name': 'Chiklay'} 'mostUsedChampion': Amumu
+ {'profileIconId': 508, 'summonerLevel': 30, 'revisionDate': 1409271457000L, 'id': 1850, 'name': 'Ethernal'} 'mostUsedChampion': Riven
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1416201200000L, 'id': 37804, 'name': 'Bassethound'} 'mostUsedChampion': Sona
+{'profileIconId': 20, 'summonerLevel': 30, 'revisionDate': 1407909081000L, 'id': 4877, 'name': 'Lord Shifty Sands'} 'mostUsedChampion': Volibear
+{'profileIconId': 6, 'summonerLevel': 30, 'revisionDate': 1414741595000L, 'id': 2573, 'name': 'Zyloch'} 'mostUsedChampion': Jinx 
+{'profileIconId': 607, 'summonerLevel': 30, 'revisionDate': 1413447420000L, 'id': 410683, 'name': 'Nasss'} 'mostUsedChampion': Jinx 
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1407616572000L, 'id': 5276, 'name': 'Morpheus'} 'mostUsedChampion': Talon
+{'profileIconId': 580, 'summonerLevel': 30, 'revisionDate': 1414638955000L, 'id': 4277, 'name': 'Chubbs'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 18, 'summonerLevel': 30, 'revisionDate': 1414885721000L, 'id': 76296, 'name': 'Rastaphari'} 'mostUsedChampion': DrMundo
+{'profileIconId': 580, 'summonerLevel': 30, 'revisionDate': 1412750852000L, 'id': 4024, 'name': 'Poopybuns'} 'mostUsedChampion': Jinx 
+{'profileIconId': 557, 'summonerLevel': 30, 'revisionDate': 1414081455000L, 'id': 14962, 'name': 'Art F0rm'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 627, 'summonerLevel': 30, 'revisionDate': 1414819545000L, 'id': 57802, 'name': 'Dyca'} 'mostUsedChampion': Varus
+{'profileIconId': 21, 'summonerLevel': 30, 'revisionDate': 1414117895000L, 'id': 234387, 'name': 'Brohemoth'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 709, 'summonerLevel': 30, 'revisionDate': 1414630879000L, 'id': 8422, 'name': 'NoSnitchin'} 'mostUsedChampion': Jinx 
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1411694518000L, 'id': 7118, 'name': 'psychoguy817'} 'mostUsedChampion': Riven
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1416167622000L, 'id': 60976, 'name': 'Sha0z'} 'mostUsedChampion': Riven
+{'profileIconId': 547, 'summonerLevel': 30, 'revisionDate': 1410741424000L, 'id': 37601, 'name': 'Snapplemonkey'} 'mostUsedChampion': Varus
+{'profileIconId': 582, 'summonerLevel': 30, 'revisionDate': 1414426086000L, 'id': 9348, 'name': 'Shikuya'} 'mostUsedChampion': Jinx 
+{'profileIconId': 710, 'summonerLevel': 30, 'revisionDate': 1414863331000L, 'id': 2552, 'name': 'Bic Boi'} 'mostUsedChampion': Jinx 
+{'profileIconId': 665, 'summonerLevel': 30, 'revisionDate': 1405451278000L, 'id': 9672, 'name': 'Trick2Rick'} 'mostUsedChampion': Varus
+{'profileIconId': 527, 'summonerLevel': 30, 'revisionDate': 1414302958000L, 'id': 215709, 'name': 'Ryrk'} 'mostUsedChampion': Varus
+{'profileIconId': 22, 'summonerLevel': 30, 'revisionDate': 1415745649000L, 'id': 4747, 'name': 'Rayzor'} 'mostUsedChampion': Varus
+{'profileIconId': 658, 'summonerLevel': 30, 'revisionDate': 1416178277000L, 'id': 155985, 'name': 'Spintar'} 'mostUsedChampion': Varus
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1414961626000L, 'id': 70003, 'name': 'PandORAAA'} 'mostUsedChampion': Varus
+{'profileIconId': 580, 'summonerLevel': 30, 'revisionDate': 1416118820000L, 'id': 70781, 'name': 'Some Scrub'} 'mostUsedChampion': DrMundo
+{'profileIconId': 692, 'summonerLevel': 30, 'revisionDate': 1414554965000L, 'id': 16243, 'name': 'Splitz'} 'mostUsedChampion': Jinx 
+{'profileIconId': 664, 'summonerLevel': 30, 'revisionDate': 1413106726000L, 'id': 1779, 'name': 'SugoiCholo'} 'mostUsedChampion': Jinx 
+{'profileIconId': 505, 'summonerLevel': 30, 'revisionDate': 1416205629000L, 'id': 2380, 'name': 'Tassenix'} 'mostUsedChampion': Tristana
+{'profileIconId': 548, 'summonerLevel': 30, 'revisionDate': 1411004786000L, 'id': 5421, 'name': 'Heimdal'} 'mostUsedChampion': Riven
+ {'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1416204686000L, 'id': 91245, 'name': 'Xandrai'} 'mostUsedChampion': Riven
+{'profileIconId': 597, 'summonerLevel': 30, 'revisionDate': 1416158655000L, 'id': 8668, 'name': 'Pray'} 'mostUsedChampion': Riven
+{'profileIconId': 544, 'summonerLevel': 30, 'revisionDate': 1415690511000L, 'id': 9534, 'name': 'Deathstyle'} 'mostUsedChampion': Varus
+{'profileIconId': 25, 'summonerLevel': 30, 'revisionDate': 1396798574000L, 'id': 37396, 'name': 'Danger'} 'mostUsedChampion': Leona
+{'profileIconId': 664, 'summonerLevel': 30, 'revisionDate': 1412398998000L, 'id': 84483, 'name': 'NearDeath'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 605, 'summonerLevel': 30, 'revisionDate': 1413155101000L, 'id': 98951, 'name': 'JackRandom'} 'mostUsedChampion': Varus
+ {'profileIconId': 534, 'summonerLevel': 30, 'revisionDate': 1390378612000L, 'id': 8734, 'name': 'Akatosh'} 'mostUsedChampion': Riven
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1414115319000L, 'id': 246863, 'name': 'Indigo Girls'} 'mostUsedChampion': Jinx 
+{'profileIconId': 711, 'summonerLevel': 30, 'revisionDate': 1414466006000L, 'id': 6812, 'name': 'RukeMaker'} 'mostUsedChampion': Jinx 
+{'profileIconId': 664, 'summonerLevel': 30, 'revisionDate': 1416193369000L, 'id': 7115, 'name': 'Steve Biski'} 'mostUsedChampion': Amumu
+{'profileIconId': 550, 'summonerLevel': 30, 'revisionDate': 1414116918000L, 'id': 8976, 'name': 'TokenAsianGuy'} 'mostUsedChampion': FiddleSticks 
+ {'profileIconId': 657, 'summonerLevel': 30, 'revisionDate': 1416205316000L, 'id': 199975, 'name': 'Stryk3r99'} 'mostUsedChampion': Riven
+{'profileIconId': 588, 'summonerLevel': 30, 'revisionDate': 1416043322000L, 'id': 91925, 'name': 'Silmaril'} 'mostUsedChampion': Varus
+{'profileIconId': 507, 'summonerLevel': 30, 'revisionDate': 1397011763000L, 'id': 15876, 'name': 'deviantAJ'} 'mostUsedChampion': DrMundo
+{'profileIconId': 8, 'summonerLevel': 30, 'revisionDate': 1414564194000L, 'id': 250006, 'name': 'aslanthe1'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 689, 'summonerLevel': 30, 'revisionDate': 1414382754000L, 'id': 66883, 'name': 'OrangeGeeGee'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 9, 'summonerLevel': 30, 'revisionDate': 1411340123000L, 'id': 8437, 'name': 'ando'} 'mostUsedChampion': Varus
+{'profileIconId': 688, 'summonerLevel': 30, 'revisionDate': 1416174500000L, 'id': 2607, 'name': 'Blitzcrunk'} 'mostUsedChampion': Varus
+{'profileIconId': 673, 'summonerLevel': 30, 'revisionDate': 1416216127000L, 'id': 4602, 'name': 'Keith Alan'} 'mostUsedChampion': Varus
+{'profileIconId': 688, 'summonerLevel': 30, 'revisionDate': 1416195480000L, 'id': 96965, 'name': 'Jqua'} 'mostUsedChampion': Varus
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1413058686000L, 'id': 6709, 'name': 'RedMaple'} 'mostUsedChampion': Varus
+{'profileIconId': 665, 'summonerLevel': 30, 'revisionDate': 1413277343000L, 'id': 88916, 'name': 'Arkadious'} 'mostUsedChampion': Jinx 
+{'profileIconId': 689, 'summonerLevel': 30, 'revisionDate': 1414118671000L, 'id': 497940, 'name': 'MrHickoryHam'} 'mostUsedChampion': Varus
+{'profileIconId': 27, 'summonerLevel': 30, 'revisionDate': 1411077133000L, 'id': 51589, 'name': 'Coldhearted'} 'mostUsedChampion': DrMundo
+{'profileIconId': 533, 'summonerLevel': 30, 'revisionDate': 1391033809000L, 'id': 28712, 'name': 'Asez'} 'mostUsedChampion': Jinx 
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1414215653000L, 'id': 86413, 'name': 'erafor'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 564, 'summonerLevel': 30, 'revisionDate': 1414638615000L, 'id': 6525, 'name': 'XxXStalin'} 'mostUsedChampion': Jinx 
+{'profileIconId': 673, 'summonerLevel': 30, 'revisionDate': 1413169322000L, 'id': 78204, 'name': 'Dakx Flame'} 'mostUsedChampion': Ezreal
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1414678812000L, 'id': 7866, 'name': 'Brainfreeze'} 'mostUsedChampion': Jinx 
+{'profileIconId': 25, 'summonerLevel': 30, 'revisionDate': 1414618746000L, 'id': 2045, 'name': 'Barsk'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 22, 'summonerLevel': 30, 'revisionDate': 1414476231000L, 'id': 31296, 'name': 'deathjester'} 'mostUsedChampion': Jinx 
+{'profileIconId': 26, 'summonerLevel': 30, 'revisionDate': 1409837099000L, 'id': 8084, 'name': 'Fooey'} 'mostUsedChampion': Jinx 
+{'profileIconId': 607, 'summonerLevel': 30, 'revisionDate': 1414540950000L, 'id': 61216, 'name': 'madsid'} 'mostUsedChampion': Jinx 
+{'profileIconId': 24, 'summonerLevel': 30, 'revisionDate': 1415435638000L, 'id': 22391, 'name': 'Fawp'} 'mostUsedChampion': Xerath
+ {'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1415479771000L, 'id': 8070, 'name': 'Azubu Livingston'} 'mostUsedChampion': Riven
+{'profileIconId': 716, 'summonerLevel': 30, 'revisionDate': 1415952567000L, 'id': 9860, 'name': 'cptsmexypants'} 'mostUsedChampion': Ezreal
+{'profileIconId': 547, 'summonerLevel': 30, 'revisionDate': 1415165328000L, 'id': 4695, 'name': 'Kantil The Grue'} 'mostUsedChampion': DrMundo
+{'profileIconId': 654, 'summonerLevel': 30, 'revisionDate': 1416175534000L, 'id': 78412, 'name': 'Vaapaad'} 'mostUsedChampion': Sona
+ {'profileIconId': 665, 'summonerLevel': 30, 'revisionDate': 1412738715000L, 'id': 66381, 'name': 'Conall'} 'mostUsedChampion': Riven
+{'profileIconId': 18, 'summonerLevel': 30, 'revisionDate': 1413888136000L, 'id': 9743, 'name': 'Powersquad'} 'mostUsedChampion': Morgana 
+{'profileIconId': 18, 'summonerLevel': 30, 'revisionDate': 1414023002000L, 'id': 71596, 'name': 'Kushrynada'} 'mostUsedChampion': Vayne
+{'profileIconId': 715, 'summonerLevel': 30, 'revisionDate': 1415856530000L, 'id': 14926, 'name': 'Turbo'} 'mostUsedChampion': Varus
+{'profileIconId': 710, 'summonerLevel': 30, 'revisionDate': 1414819003000L, 'id': 2915, 'name': 'SevenSevenSeven'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 578, 'summonerLevel': 30, 'revisionDate': 1411453482000L, 'id': 7540, 'name': 'Raigore'} 'mostUsedChampion': Varus
+{'profileIconId': 21, 'summonerLevel': 30, 'revisionDate': 1415422370000L, 'id': 76139, 'name': 'Busuzima'} 'mostUsedChampion': Varus
+ {'profileIconId': 659, 'summonerLevel': 30, 'revisionDate': 1415940561000L, 'id': 1759, 'name': 'Flakdot'} 'mostUsedChampion': Riven
+{'profileIconId': 588, 'summonerLevel': 30, 'revisionDate': 1411095442000L, 'id': 2182, 'name': 'Sad Panda Shiba'} 'mostUsedChampion': Nocturne
+{'profileIconId': 588, 'summonerLevel': 30, 'revisionDate': 1394352744000L, 'id': 4712, 'name': 'Garddragon'} 'mostUsedChampion': Jinx 
+{'profileIconId': 26, 'summonerLevel': 30, 'revisionDate': 1413691241000L, 'id': 3626, 'name': 'screamapillar'} 'mostUsedChampion': Varus
+{'profileIconId': 535, 'summonerLevel': 30, 'revisionDate': 1414211526000L, 'id': 3827, 'name': 'Heyo'} 'mostUsedChampion': Vayne
+{'profileIconId': 16, 'summonerLevel': 30, 'revisionDate': 1416218374000L, 'id': 75976, 'name': 'GreatWeelo'} 'mostUsedChampion': Varus
+{'profileIconId': 712, 'summonerLevel': 30, 'revisionDate': 1416209092000L, 'id': 9453, 'name': 'Osyrus'} 'mostUsedChampion': Amumu
+{'profileIconId': 505, 'summonerLevel': 30, 'revisionDate': 1404177514000L, 'id': 53028, 'name': 'Sprayed'} 'mostUsedChampion': Sona
+{'profileIconId': 711, 'summonerLevel': 30, 'revisionDate': 1415856033000L, 'id': 304479, 'name': 'Dmc3321'} 'mostUsedChampion': Varus
+{'profileIconId': 717, 'summonerLevel': 30, 'revisionDate': 1415992231000L, 'id': 3539, 'name': 'Ezul'} 'mostUsedChampion': Varus
+{'profileIconId': 548, 'summonerLevel': 30, 'revisionDate': 1415943130000L, 'id': 7414, 'name': 'Mozymandias'} 'mostUsedChampion': Sona
+{'profileIconId': 517, 'summonerLevel': 30, 'revisionDate': 1414868725000L, 'id': 3226, 'name': 'Kevoun'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 1, 'summonerLevel': 30, 'revisionDate': 1414361760000L, 'id': 97058, 'name': 'Galicus'} 'mostUsedChampion': Jinx 
+{'profileIconId': 693, 'summonerLevel': 30, 'revisionDate': 1414815433000L, 'id': 8166, 'name': 'Nightwind'} 'mostUsedChampion': Jinx 
+{'profileIconId': 716, 'summonerLevel': 30, 'revisionDate': 1416161607000L, 'id': 536122, 'name': 'Azn Heat'} 'mostUsedChampion': Elise
+{'profileIconId': 23, 'summonerLevel': 30, 'revisionDate': 1410585252000L, 'id': 28968, 'name': 'ArcticSl0th'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 588, 'summonerLevel': 30, 'revisionDate': 1413796727000L, 'id': 32170, 'name': 'Ransack'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 8, 'summonerLevel': 30, 'revisionDate': 1416204983000L, 'id': 7557, 'name': 'Aceronin'} 'mostUsedChampion': Riven
+{'profileIconId': 578, 'summonerLevel': 30, 'revisionDate': 1414870717000L, 'id': 33021, 'name': 'Tinman'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 716, 'summonerLevel': 30, 'revisionDate': 1415935555000L, 'id': 9183, 'name': 'Zombie Dobby'} 'mostUsedChampion': Ezreal
+{'profileIconId': 502, 'summonerLevel': 30, 'revisionDate': 1414869558000L, 'id': 3477, 'name': 'Mistryl'} 'mostUsedChampion': Annie 
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1414870078000L, 'id': 54249, 'name': 'diddymao'} 'mostUsedChampion': Jinx 
+{'profileIconId': 603, 'summonerLevel': 30, 'revisionDate': 1410837414000L, 'id': 3258, 'name': 'Zapperkhan'} 'mostUsedChampion': Nocturne
+{'profileIconId': 517, 'summonerLevel': 30, 'revisionDate': 1411844152000L, 'id': 4725, 'name': 'Zanius'} 'mostUsedChampion': Varus
+{'profileIconId': 22, 'summonerLevel': 30, 'revisionDate': 1410067648000L, 'id': 72758, 'name': 'Voluted'} 'mostUsedChampion': Varus
+{'profileIconId': 0, 'summonerLevel': 30, 'revisionDate': 1416254369000L, 'id': 74992, 'name': 'Utinni'} 'mostUsedChampion': DrMundo
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1416025019000L, 'id': 3512, 'name': 'Adobe'} 'mostUsedChampion': Varus
+{'profileIconId': 22, 'summonerLevel': 30, 'revisionDate': 1416257063000L, 'id': 5335, 'name': 'The Black Fog'} 'mostUsedChampion': Riven
+ {'profileIconId': 544, 'summonerLevel': 30, 'revisionDate': 1415690511000L, 'id': 9534, 'name': 'Deathstyle'} 'mostUsedChampion': Riven
+{'profileIconId': 718, 'summonerLevel': 30, 'revisionDate': 1416202937000L, 'id': 39683, 'name': 'Snarky'} 'mostUsedChampion': Varus
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1415743196000L, 'id': 357155, 'name': 'Paperzelda'} 'mostUsedChampion': Vayne
+{'profileIconId': 641, 'summonerLevel': 30, 'revisionDate': 1414555075000L, 'id': 2941, 'name': 'Sen'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 588, 'summonerLevel': 30, 'revisionDate': 1414218763000L, 'id': 48159, 'name': 'Tasad'} 'mostUsedChampion': Jinx 
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1401480559000L, 'id': 37210, 'name': 'Fenix257'} 'mostUsedChampion': Varus
+{'profileIconId': 547, 'summonerLevel': 30, 'revisionDate': 1416191088000L, 'id': 8300, 'name': 'Rudeous'} 'mostUsedChampion': Sejuani
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1390120954000L, 'id': 4682, 'name': 'kabob83'} 'mostUsedChampion': Varus
+{'profileIconId': 507, 'summonerLevel': 30, 'revisionDate': 1414106625000L, 'id': 73270, 'name': 'Whimmy Wham Wham Whazzle'} 'mostUsedChampion': Jinx 
+{'profileIconId': 677, 'summonerLevel': 30, 'revisionDate': 1416200573000L, 'id': 2915, 'name': 'SevenSevenSeven'} 'mostUsedChampion': Varus
+ {'profileIconId': 502, 'summonerLevel': 30, 'revisionDate': 1415568211000L, 'id': 8721, 'name': 'Kharhaz'} 'mostUsedChampion': Riven
+{'profileIconId': 507, 'summonerLevel': 30, 'revisionDate': 1406859020000L, 'id': 61008, 'name': 'PhamBAM'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 22, 'summonerLevel': 30, 'revisionDate': 1416197572000L, 'id': 5335, 'name': 'The Black Fog'} 'mostUsedChampion': Varus
+{'profileIconId': 577, 'summonerLevel': 30, 'revisionDate': 1416162908000L, 'id': 67961, 'name': 'Sn00w'} 'mostUsedChampion': Varus
+{'profileIconId': 665, 'summonerLevel': 30, 'revisionDate': 1412395012000L, 'id': 1827, 'name': 'Patrik'} 'mostUsedChampion': Varus
+{'profileIconId': 3, 'summonerLevel': 30, 'revisionDate': 1413546758000L, 'id': 33798, 'name': 'smoothietime'} 'mostUsedChampion': Varus
+{'profileIconId': 607, 'summonerLevel': 30, 'revisionDate': 1415446438000L, 'id': 5787, 'name': 'K3ny'} 'mostUsedChampion': Jinx
+{'profileIconId': 551, 'summonerLevel': 30, 'revisionDate': 1413499873000L, 'id': 19938, 'name': 'black Lagoon'} 'mostUsedChampion': Jinx 
+{'profileIconId': 554, 'summonerLevel': 30, 'revisionDate': 1414454228000L, 'id': 2404, 'name': 'h34dhun73r'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 23, 'summonerLevel': 30, 'revisionDate': 1414130630000L, 'id': 8364, 'name': 'warbirdd'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 548, 'summonerLevel': 30, 'revisionDate': 1406270892000L, 'id': 5583, 'name': 'theclassic1'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1410974582000L, 'id': 6896, 'name': 'Kaithe'} 'mostUsedChampion': Varus
+{'profileIconId': 666, 'summonerLevel': 30, 'revisionDate': 1413956833000L, 'id': 95680, 'name': 'MAlNWORD'} 'mostUsedChampion': Amumu 
+{'profileIconId': 548, 'summonerLevel': 30, 'revisionDate': 1414800693000L, 'id': 7414, 'name': 'Mozymandias'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 659, 'summonerLevel': 30, 'revisionDate': 1412657887000L, 'id': 1925, 'name': 'zYn'} 'mostUsedChampion': Jinx 
+{'profileIconId': 579, 'summonerLevel': 30, 'revisionDate': 1415597331000L, 'id': 74052, 'name': 'jaffy'} 'mostUsedChampion': Varus
+{'profileIconId': 693, 'summonerLevel': 30, 'revisionDate': 1414858668000L, 'id': 7070, 'name': 'Alankevis'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1414393668000L, 'id': 429177, 'name': 'Tambo'} 'mostUsedChampion': Jinx 
+{'profileIconId': 580, 'summonerLevel': 30, 'revisionDate': 1416210892000L, 'id': 9645, 'name': '0ffense'} 'mostUsedChampion': Leona
+{'profileIconId': 711, 'summonerLevel': 30, 'revisionDate': 1414723701000L, 'id': 26569, 'name': 'babygunner'} 'mostUsedChampion': Jinx 
+ {'profileIconId': 584, 'summonerLevel': 30, 'revisionDate': 1415854213000L, 'id': 11852, 'name': 'The Choob'} 'mostUsedChampion': Riven
+{'profileIconId': 21, 'summonerLevel': 30, 'revisionDate': 1413663000000L, 'id': 8527, 'name': 'Mfkingjaewon'} 'mostUsedChampion': Varus
+{'profileIconId': 554, 'summonerLevel': 30, 'revisionDate': 1414720392000L, 'id': 3467, 'name': 'Casual Friday'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 660, 'summonerLevel': 30, 'revisionDate': 1414878759000L, 'id': 46658, 'name': 'Ubor'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 657, 'summonerLevel': 30, 'revisionDate': 1415226435000L, 'id': 200601, 'name': 'LordBlackstar'} 'mostUsedChampion': Varus
+{'profileIconId': 22, 'summonerLevel': 30, 'revisionDate': 1407278280000L, 'id': 85675, 'name': 'Igorek'} 'mostUsedChampion': Xerath
+{'profileIconId': 504, 'summonerLevel': 30, 'revisionDate': 1416168995000L, 'id': 7995, 'name': 'Synyster'} 'mostUsedChampion': Varus
+{'profileIconId': 654, 'summonerLevel': 30, 'revisionDate': 1414566541000L, 'id': 189444, 'name': 'axxer'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 10, 'summonerLevel': 30, 'revisionDate': 1405782338000L, 'id': 32746, 'name': 'AylBlue'} 'mostUsedChampion': Amumu
+{'profileIconId': 580, 'summonerLevel': 30, 'revisionDate': 1412750852000L, 'id': 4024, 'name': 'Poopybuns'} 'mostUsedChampion': Amumu
+{'profileIconId': 658, 'summonerLevel': 30, 'revisionDate': 1414560616000L, 'id': 97642, 'name': 'Rithm'} 'mostUsedChampion': Jinx 
+{'profileIconId': 709, 'summonerLevel': 30, 'revisionDate': 1416190934000L, 'id': 6417, 'name': 'Alex'} 'mostUsedChampion': Riven
+{'profileIconId': 709, 'summonerLevel': 30, 'revisionDate': 1414729473000L, 'id': 8269, 'name': 'zatarazie'} 'mostUsedChampion': FiddleSticks 
+ {'profileIconId': 16, 'summonerLevel': 30, 'revisionDate': 1416186436000L, 'id': 2637, 'name': 'Disbnivek'} 'mostUsedChampion': Riven
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1407391521000L, 'id': 87408, 'name': 't0kenss'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 685, 'summonerLevel': 30, 'revisionDate': 1416200225000L, 'id': 12235, 'name': 'Zeero'} 'mostUsedChampion': Amumu
+{'profileIconId': 607, 'summonerLevel': 30, 'revisionDate': 1408647706000L, 'id': 79601, 'name': 'David Wong'} 'mostUsedChampion': Jinx 
+{'profileIconId': 657, 'summonerLevel': 30, 'revisionDate': 1415850091000L, 'id': 71514, 'name': 'robopromethius'} 'mostUsedChampion': Amumu
+{'profileIconId': 673, 'summonerLevel': 30, 'revisionDate': 1415314546000L, 'id': 1264, 'name': 'Mr Bigglesworth'} 'mostUsedChampion': Riven
+ {'profileIconId': 5, 'summonerLevel': 30, 'revisionDate': 1412451317000L, 'id': 68580, 'name': 'DaTuro'} 'mostUsedChampion': Riven
+{'profileIconId': 662, 'summonerLevel': 30, 'revisionDate': 1414596322000L, 'id': 12932, 'name': 'BlackCircle'} 'mostUsedChampion': Jinx 
+{'profileIconId': 7, 'summonerLevel': 30, 'revisionDate': 1412304230000L, 'id': 8733, 'name': 'xToy'} 'mostUsedChampion': Jinx 
+{'profileIconId': 659, 'summonerLevel': 30, 'revisionDate': 1416160816000L, 'id': 390506, 'name': 'Bo Vice'} 'mostUsedChampion': Varus
+{'profileIconId': 581, 'summonerLevel': 30, 'revisionDate': 1404279789000L, 'id': 7636, 'name': 'Evilless'} 'mostUsedChampion': Jinx 
+{'profileIconId': 23, 'summonerLevel': 30, 'revisionDate': 1409609034000L, 'id': 233211, 'name': 'Del23'} 'mostUsedChampion': Jinx 
+{'profileIconId': 659, 'summonerLevel': 30, 'revisionDate': 1416213593000L, 'id': 8904, 'name': 'wisken'} 'mostUsedChampion': Jinx
+{'profileIconId': 725, 'summonerLevel': 30, 'revisionDate': 1416192358000L, 'id': 597994, 'name': 'Minotaur556'} 'mostUsedChampion': Varus
+{'profileIconId': 709, 'summonerLevel': 30, 'revisionDate': 1416033057000L, 'id': 53938, 'name': 'thejman719'} 'mostUsedChampion': Varus
+{'profileIconId': 552, 'summonerLevel': 30, 'revisionDate': 1415859935000L, 'id': 464542, 'name': 'SU RageofTiamat'} 'mostUsedChampion': Varus
+{'profileIconId': 709, 'summonerLevel': 30, 'revisionDate': 1415944312000L, 'id': 74112, 'name': 'MtMan'} 'mostUsedChampion': Varus
+{'profileIconId': 7, 'summonerLevel': 30, 'revisionDate': 1415921371000L, 'id': 7645, 'name': 'FlashStep'} 'mostUsedChampion': Varus
+{'profileIconId': 547, 'summonerLevel': 30, 'revisionDate': 1408171765000L, 'id': 7874, 'name': 'Johoseph'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 3, 'summonerLevel': 30, 'revisionDate': 1414291369000L, 'id': 9178, 'name': 'mrdotn'} 'mostUsedChampion': Annie 
+{'profileIconId': 552, 'summonerLevel': 30, 'revisionDate': 1411505461000L, 'id': 446372, 'name': 'Kid Ray'} 'mostUsedChampion': Leona
+{'profileIconId': 522, 'summonerLevel': 30, 'revisionDate': 1415053207000L, 'id': 8834, 'name': 'Bertyo'} 'mostUsedChampion': Ezreal
+{'profileIconId': 7, 'summonerLevel': 30, 'revisionDate': 1415087323000L, 'id': 33895, 'name': 'azsxder'} 'mostUsedChampion': Varus
+{'profileIconId': 711, 'summonerLevel': 30, 'revisionDate': 1415341073000L, 'id': 9007, 'name': 'Grystor'} 'mostUsedChampion': Riven
+{'profileIconId': 548, 'summonerLevel': 30, 'revisionDate': 1415850134000L, 'id': 7758, 'name': 'MadnessHero'} 'mostUsedChampion': Varus
+{'profileIconId': 593, 'summonerLevel': 30, 'revisionDate': 1414489248000L, 'id': 2696, 'name': 'kimcheeZy'} 'mostUsedChampion': Jinx 
+{'profileIconId': 654, 'summonerLevel': 30, 'revisionDate': 1410659687000L, 'id': 5606, 'name': 'CTO'} 'mostUsedChampion': Varus
+{'profileIconId': 579, 'summonerLevel': 30, 'revisionDate': 1416146479000L, 'id': 189758, 'name': 'zabuzaa'} 'mostUsedChampion': Varus
+{'profileIconId': 682, 'summonerLevel': 30, 'revisionDate': 1414869712000L, 'id': 537880, 'name': 'Wanganator'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1416103019000L, 'id': 38449, 'name': 'XiuXi'} 'mostUsedChampion': Varus
+{'profileIconId': 588, 'summonerLevel': 30, 'revisionDate': 1414796992000L, 'id': 4648, 'name': 'Lanfear'} 'mostUsedChampion': Jinx 
+{'profileIconId': 21, 'summonerLevel': 30, 'revisionDate': 1405799093000L, 'id': 8800, 'name': 'Alexander'} 'mostUsedChampion': Jinx 
+{'profileIconId': 710, 'summonerLevel': 30, 'revisionDate': 1416210204000L, 'id': 6854, 'name': 'OcelotVarn'} 'mostUsedChampion': Kayle
+{'profileIconId': 577, 'summonerLevel': 30, 'revisionDate': 1416179438000L, 'id': 349790, 'name': 'Kaid980'} 'mostUsedChampion': Amumu
+{'profileIconId': 607, 'summonerLevel': 30, 'revisionDate': 1416085248000L, 'id': 41849, 'name': 'givenugahug'} 'mostUsedChampion': Varus
+ {'profileIconId': 7, 'summonerLevel': 30, 'revisionDate': 1415969073000L, 'id': 20970, 'name': 'Downtime'} 'mostUsedChampion': Riven
+{'profileIconId': 504, 'summonerLevel': 30, 'revisionDate': 1414724770000L, 'id': 413658, 'name': 'Summoner Mayday'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 642, 'summonerLevel': 30, 'revisionDate': 1414462280000L, 'id': 550996, 'name': 'Taigi'} 'mostUsedChampion': Varus
+{'profileIconId': 552, 'summonerLevel': 30, 'revisionDate': 1413255293000L, 'id': 153050, 'name': 'Dumbo Drop'} 'mostUsedChampion': DrMundo
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1389930154000L, 'id': 7426, 'name': 'kursed'} 'mostUsedChampion': Jinx 
+{'profileIconId': 22, 'summonerLevel': 30, 'revisionDate': 1414243695000L, 'id': 9089, 'name': 'Tok3n'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 607, 'summonerLevel': 30, 'revisionDate': 1402294111000L, 'id': 2940, 'name': 'Turmoil'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 551, 'summonerLevel': 30, 'revisionDate': 1414202677000L, 'id': 424278, 'name': 'Blood Rhonin'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1415786830000L, 'id': 2734, 'name': 'bechtol449'} 'mostUsedChampion': Varus
+{'profileIconId': 18, 'summonerLevel': 30, 'revisionDate': 1409337701000L, 'id': 5160, 'name': 'MagicChicken'} 'mostUsedChampion': DrMundo
+ {'profileIconId': 711, 'summonerLevel': 30, 'revisionDate': 1416117098000L, 'id': 96384, 'name': 'Ersan'} 'mostUsedChampion': Riven
+{'profileIconId': 16, 'summonerLevel': 30, 'revisionDate': 1414870581000L, 'id': 56243, 'name': 'ykseP'} 'mostUsedChampion': Elise 
+ {'profileIconId': 16, 'summonerLevel': 30, 'revisionDate': 1407458391000L, 'id': 254981, 'name': 'Zethrum'} 'mostUsedChampion': Riven
+{'profileIconId': 718, 'summonerLevel': 30, 'revisionDate': 1416183847000L, 'id': 169847, 'name': 'DarkVizard'} 'mostUsedChampion': Varus
+{'profileIconId': 663, 'summonerLevel': 30, 'revisionDate': 1405018156000L, 'id': 2397, 'name': 'Akrazo'} 'mostUsedChampion': Varus
+{'profileIconId': 673, 'summonerLevel': 30, 'revisionDate': 1414098785000L, 'id': 8351, 'name': 'Xehnon'} 'mostUsedChampion': Jinx 
+ {'profileIconId': 709, 'summonerLevel': 30, 'revisionDate': 1416158562000L, 'id': 8244, 'name': 'Holowchuk'} 'mostUsedChampion': Riven
+{'profileIconId': 552, 'summonerLevel': 30, 'revisionDate': 1413862725000L, 'id': 537048, 'name': 'Xaell'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1414440590000L, 'id': 403673, 'name': 'brianabanks'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 693, 'summonerLevel': 30, 'revisionDate': 1416185523000L, 'id': 3305, 'name': 'XSCBO'} 'mostUsedChampion': Varus
+ {'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1408948290000L, 'id': 7020, 'name': 'Mervinus'} 'mostUsedChampion': Riven
+{'profileIconId': 546, 'summonerLevel': 30, 'revisionDate': 1415588053000L, 'id': 9572, 'name': 'Tattle'} 'mostUsedChampion': Ezreal
+{'profileIconId': 20, 'summonerLevel': 30, 'revisionDate': 1416000255000L, 'id': 35091, 'name': 'Malachi Stone'} 'mostUsedChampion': Varus
+{'profileIconId': 660, 'summonerLevel': 30, 'revisionDate': 1414860326000L, 'id': 3478, 'name': 'Bank Alt'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 513, 'summonerLevel': 30, 'revisionDate': 1415657422000L, 'id': 93624, 'name': 'Beliall'} 'mostUsedChampion': Riven
+{'profileIconId': 580, 'summonerLevel': 30, 'revisionDate': 1411092244000L, 'id': 1926, 'name': 'Nosaj'} 'mostUsedChampion': Varus
+{'profileIconId': 579, 'summonerLevel': 30, 'revisionDate': 1416191880000L, 'id': 19632, 'name': 'Kenshue'} 'mostUsedChampion': Varus
+{'profileIconId': 588, 'summonerLevel': 30, 'revisionDate': 1415862603000L, 'id': 6251, 'name': 'ImmaNinja'} 'mostUsedChampion': Nocturne
+{'profileIconId': 583, 'summonerLevel': 30, 'revisionDate': 1406186755000L, 'id': 4353, 'name': 'Urza'} 'mostUsedChampion': Nocturne
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1413677099000L, 'id': 76649, 'name': 'Raoden'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 709, 'summonerLevel': 30, 'revisionDate': 1414818269000L, 'id': 64261, 'name': 'BillBert'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 10, 'summonerLevel': 30, 'revisionDate': 1407395329000L, 'id': 81424, 'name': 'Nanaz'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 716, 'summonerLevel': 30, 'revisionDate': 1415849090000L, 'id': 3467, 'name': 'Casual Friday'} 'mostUsedChampion': Varus
+{'profileIconId': 584, 'summonerLevel': 30, 'revisionDate': 1390069054000L, 'id': 202276, 'name': '\xc0ggressor'} 'mostUsedChampion': Jinx 
+{'profileIconId': 657, 'summonerLevel': 30, 'revisionDate': 1413492473000L, 'id': 377162, 'name': 'Rans\xf8M'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 663, 'summonerLevel': 30, 'revisionDate': 1416196400000L, 'id': 14388, 'name': 'Its Sunday Mang'} 'mostUsedChampion': Varus
+{'profileIconId': 19, 'summonerLevel': 30, 'revisionDate': 1415991458000L, 'id': 2076, 'name': 'zorbocop'} 'mostUsedChampion': Varus
+{'profileIconId': 666, 'summonerLevel': 30, 'revisionDate': 1416170560000L, 'id': 6021, 'name': 'Arkanis'} 'mostUsedChampion': Varus
+{'profileIconId': 578, 'summonerLevel': 30, 'revisionDate': 1412052768000L, 'id': 7864, 'name': 'zRobertez'} 'mostUsedChampion': Jinx 
+{'profileIconId': 550, 'summonerLevel': 30, 'revisionDate': 1416109791000L, 'id': 7405, 'name': 'SabinMightyFist'} 'mostUsedChampion': Varus
+{'profileIconId': 642, 'summonerLevel': 30, 'revisionDate': 1414626530000L, 'id': 148614, 'name': 'Dogadewd'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 693, 'summonerLevel': 30, 'revisionDate': 1416222250000L, 'id': 42680, 'name': 'Fulgore007'} 'mostUsedChampion': Varus
+{'profileIconId': 676, 'summonerLevel': 30, 'revisionDate': 1416113702000L, 'id': 159553, 'name': 'OmniAzure'} 'mostUsedChampion': Varus
+{'profileIconId': 607, 'summonerLevel': 30, 'revisionDate': 1409870424000L, 'id': 74426, 'name': 'PinkTyGRR'} 'mostUsedChampion': FiddleSticks 
+ {'profileIconId': 661, 'summonerLevel': 30, 'revisionDate': 1416263358000L, 'id': 396244, 'name': 'Skipperdoodle'} 'mostUsedChampion': Riven
+{'profileIconId': 502, 'summonerLevel': 30, 'revisionDate': 1416191518000L, 'id': 5326, 'name': 'snipun'} 'mostUsedChampion': Varus
+ {'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1416263208000L, 'id': 1320, 'name': '2stinky1pinky'} 'mostUsedChampion': Riven
+{'profileIconId': 580, 'summonerLevel': 30, 'revisionDate': 1413395264000L, 'id': 1775, 'name': 'PuMa'} 'mostUsedChampion': Ezreal
+{'profileIconId': 607, 'summonerLevel': 30, 'revisionDate': 1416082091000L, 'id': 7317, 'name': 'TUNF'} 'mostUsedChampion': Varus
+{'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1416177756000L, 'id': 1828, 'name': 'NickLovin'} 'mostUsedChampion': Varus
+ {'profileIconId': 24, 'summonerLevel': 30, 'revisionDate': 1409267822000L, 'id': 33778, 'name': 'Tom Hanks'} 'mostUsedChampion': Riven
+{'profileIconId': 660, 'summonerLevel': 30, 'revisionDate': 1414636780000L, 'id': 8205, 'name': 'TweiT LovE'} 'mostUsedChampion': Jinx 
+{'profileIconId': 18, 'summonerLevel': 30, 'revisionDate': 1416188011000L, 'id': 49165, 'name': 'cuco'} 'mostUsedChampion': Varus
+{'profileIconId': 555, 'summonerLevel': 30, 'revisionDate': 1414726148000L, 'id': 2281, 'name': 'Blackwind'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 712, 'summonerLevel': 30, 'revisionDate': 1416229436000L, 'id': 1112, 'name': 'myself'} 'mostUsedChampion': Varus
+{'profileIconId': 715, 'summonerLevel': 30, 'revisionDate': 1416040797000L, 'id': 7984, 'name': 'Kasim'} 'mostUsedChampion': DrMundo
+{'profileIconId': 688, 'summonerLevel': 30, 'revisionDate': 1415040461000L, 'id': 38528, 'name': 'Dunian'} 'mostUsedChampion': Varus
+ {'profileIconId': 717, 'summonerLevel': 30, 'revisionDate': 1416212360000L, 'id': 8533, 'name': 'DunkinHOnuts'} 'mostUsedChampion': Riven
+{'profileIconId': 713, 'summonerLevel': 30, 'revisionDate': 1416207632000L, 'id': 4245, 'name': 'ThUndertaker'} 'mostUsedChampion': Riven
+{'profileIconId': 514, 'summonerLevel': 30, 'revisionDate': 1404890300000L, 'id': 4389, 'name': 'Abanndon'} 'mostUsedChampion': Riven
+{'profileIconId': 558, 'summonerLevel': 30, 'revisionDate': 1416010173000L, 'id': 521955, 'name': 'WildTurtle'} 'mostUsedChampion': Riven
+{'profileIconId': 505, 'summonerLevel': 30, 'revisionDate': 1405230485000L, 'id': 3176, 'name': 'Onyxia'} 'mostUsedChampion': Jinx 
+{'profileIconId': 576, 'summonerLevel': 30, 'revisionDate': 1414120675000L, 'id': 28767, 'name': 'Zenx'} 'mostUsedChampion': Jinx 
+{'profileIconId': 673, 'summonerLevel': 30, 'revisionDate': 1416188361000L, 'id': 77311, 'name': 'aNthological'} 'mostUsedChampion': Varus
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1413001335000L, 'id': 7283, 'name': 'DannyMeister'} 'mostUsedChampion': DrMundo
+{'profileIconId': 23, 'summonerLevel': 30, 'revisionDate': 1414866175000L, 'id': 5118, 'name': 'popo'} 'mostUsedChampion': Varus
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1413083580000L, 'id': 51079, 'name': 'SecretGamerMan'} 'mostUsedChampion': Riven
+{'profileIconId': 677, 'summonerLevel': 30, 'revisionDate': 1416216589000L, 'id': 92068, 'name': 'Taxicrab'} 'mostUsedChampion': Varus
+{'profileIconId': 579, 'summonerLevel': 30, 'revisionDate': 1416201752000L, 'id': 350827, 'name': 'Erratum'} 'mostUsedChampion': Varus
+{'profileIconId': 507, 'summonerLevel': 30, 'revisionDate': 1416232954000L, 'id': 67824, 'name': 'Freese'} 'mostUsedChampion': Riven
+ {'profileIconId': 709, 'summonerLevel': 30, 'revisionDate': 1416197883000L, 'id': 450668, 'name': 'Nightsshadow'} 'mostUsedChampion': Riven
+{'profileIconId': 548, 'summonerLevel': 30, 'revisionDate': 1413004590000L, 'id': 84468, 'name': 'ChrisHansen'} 'mostUsedChampion': Jinx 
+{'profileIconId': 717, 'summonerLevel': 30, 'revisionDate': 1416112135000L, 'id': 4299, 'name': 'stygx'} 'mostUsedChampion': Tristana
+{'profileIconId': 607, 'summonerLevel': 30, 'revisionDate': 1410980395000L, 'id': 8119, 'name': 'BloodyTide'} 'mostUsedChampion': Chogath
+{'profileIconId': 661, 'summonerLevel': 30, 'revisionDate': 1412032431000L, 'id': 65335, 'name': 'Logie'} 'mostUsedChampion': Varus
+{'profileIconId': 654, 'summonerLevel': 30, 'revisionDate': 1406441509000L, 'id': 74839, 'name': 'Rothrinim'} 'mostUsedChampion': Amumu
+{'profileIconId': 577, 'summonerLevel': 30, 'revisionDate': 1416173206000L, 'id': 1248, 'name': 'liz'} 'mostUsedChampion': Sona
+{'profileIconId': 597, 'summonerLevel': 30, 'revisionDate': 1416191589000L, 'id': 5869, 'name': 'HREParabola'} 'mostUsedChampion': Amumu
+{'profileIconId': 546, 'summonerLevel': 30, 'revisionDate': 1414549582000L, 'id': 7265, 'name': 'ozm0tik'} 'mostUsedChampion': Jinx 
+{'profileIconId': 603, 'summonerLevel': 30, 'revisionDate': 1414727004000L, 'id': 42368, 'name': 'Fiepo'} 'mostUsedChampion': Varus
+{'profileIconId': 0, 'summonerLevel': 30, 'revisionDate': 1414634947000L, 'id': 434768, 'name': 'Boonwingman'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 17, 'summonerLevel': 30, 'revisionDate': 1410314116000L, 'id': 5219, 'name': 'SgtGrumbles187'} 'mostUsedChampion': Tristana
+{'profileIconId': 20, 'summonerLevel': 30, 'revisionDate': 1414454889000L, 'id': 39142, 'name': 'mandarc'} 'mostUsedChampion': Leona
+{'profileIconId': 709, 'summonerLevel': 30, 'revisionDate': 1414715404000L, 'id': 5172, 'name': 'Evestress'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 22, 'summonerLevel': 30, 'revisionDate': 1407191336000L, 'id': 33275, 'name': 'Harain'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 716, 'summonerLevel': 30, 'revisionDate': 1416186910000L, 'id': 7093, 'name': 'D3fender710'} 'mostUsedChampion': DrMundo
+{'profileIconId': 16, 'summonerLevel': 30, 'revisionDate': 1415694967000L, 'id': 399425, 'name': 'vegakuro'} 'mostUsedChampion': Varus
+{'profileIconId': 588, 'summonerLevel': 30, 'revisionDate': 1415861996000L, 'id': 7312, 'name': 'GunWing'} 'mostUsedChampion': Varus
+{'profileIconId': 576, 'summonerLevel': 30, 'revisionDate': 1414822234000L, 'id': 1808, 'name': 'RainbowBrite'} 'mostUsedChampion': Jinx 
+{'profileIconId': 682, 'summonerLevel': 30, 'revisionDate': 1411434027000L, 'id': 14017, 'name': 'Kowbasher'} 'mostUsedChampion': Volibear 
+{'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1413749845000L, 'id': 8200, 'name': 'Snewp'} 'mostUsedChampion': Jinx 
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1398024692000L, 'id': 327251, 'name': 'niko619'} 'mostUsedChampion': Jinx 
+{'profileIconId': 693, 'summonerLevel': 30, 'revisionDate': 1414474589000L, 'id': 2198, 'name': 'Sake'} 'mostUsedChampion': Jinx 
+{'profileIconId': 550, 'summonerLevel': 30, 'revisionDate': 1416124727000L, 'id': 28292, 'name': 'duhcao'} 'mostUsedChampion': Ezreal
+{'profileIconId': 10, 'summonerLevel': 30, 'revisionDate': 1416095134000L, 'id': 587801, 'name': 'DreamingOfTheSky'} 'mostUsedChampion': Varus
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1406000798000L, 'id': 33793, 'name': 'Danbotica'} 'mostUsedChampion': Sona
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1405395459000L, 'id': 2134, 'name': 'BigDaddyYur'} 'mostUsedChampion': Jinx 
+{'profileIconId': 566, 'summonerLevel': 30, 'revisionDate': 1414876134000L, 'id': 2097, 'name': 'Matt'} 'mostUsedChampion': Annie  'mostUsedChampion': FiddleSticks 
+{'profileIconId': 603, 'summonerLevel': 30, 'revisionDate': 1409063733000L, 'id': 37330, 'name': 'Worldismine'} 'mostUsedChampion': Sona
+{'profileIconId': 688, 'summonerLevel': 30, 'revisionDate': 1414180613000L, 'id': 28814, 'name': 'Nokturnal'} 'mostUsedChampion': FiddleSticks 
+{'profileIconId': 517, 'summonerLevel': 30, 'revisionDate': 1400877223000L, 'id': 512285, 'name': 'Rygura'} 'mostUsedChampion': Varus
+{'profileIconId': 522, 'summonerLevel': 30, 'revisionDate': 1414382683000L, 'id': 1087, 'name': 'Krytos'} 'mostUsedChampion': Jinx 
+{'profileIconId': 673, 'summonerLevel': 30, 'revisionDate': 1409775307000L, 'id': 3202, 'name': 'Maybe'} 'mostUsedChampion': Amumu

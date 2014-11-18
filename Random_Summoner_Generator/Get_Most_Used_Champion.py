@@ -14,7 +14,7 @@ f = open('loChampionPairs', 'r')
 champions = f.read()
 champions = champions.splitlines()
 
-with open('_out/Random_Summoners_1000.txt', 'r') as file:
+with open('_out/Random_Summoners_run5.txt', 'r') as file:
     # read a list of lines into data
     random_summoners_1k = file.readlines()
 
@@ -25,9 +25,10 @@ def main():
 
         # Keyword: u'id':
         # Keyword: u'totalSessionsPlayed':
+    print "MOST USED CHAMPIONS FOUND"
 
 def getSummoners():
-    f = open('_out/Random_Summoners_1000.txt', 'r')
+    f = open('_out/Random_Summoners_run5.txt', 'r')
     summoners = f.read()
     summoners = summoners.splitlines()
 
@@ -44,7 +45,7 @@ def getSummonerStats(summoner_id):
     try:
         summoner_stats = api.get_ranked_stats(summoner_id, region=None, season=None)
     except LoLException:
-        print "GAME DATA NOT FOUND FOR SUMMONER: " + str(summoner_id)
+        #print "GAME DATA NOT FOUND FOR SUMMONER: " + str(summoner_id)
         summoner_stats = "{u'modifyDate': 1406927571000L, u'summonerId': 0000, u'champions': [{u'stats': {u'totalPhysicalDamageDealt': 152101, u'totalTurretsKilled': 1, u'totalSessionsPlayed': 1000, u'totalAssists': 10, u'totalDamageDealt': 158764, u'mostChampionKillsPerSession': 2, u'totalPentaKills': 0, u'mostSpellsCast': 0, u'totalDoubleKills': 0, u'maxChampionsKilled': 2, u'totalDeathsPerSession': 8, u'totalSessionsWon': 0, u'totalGoldEarned': 12405, u'totalTripleKills': 0, u'totalChampionKills': 2, u'maxNumDeaths': 8, u'totalMinionKills': 199, u'totalMagicDamageDealt': 5315, u'totalQuadraKills': 0, u'totalUnrealKills': 0, u'totalDamageTaken': 17519, u'totalSessionsLost': 1, u'totalFirstBlood': 0}, u'id': XX}, 2]}"
         summoner_id += "XX"
 
@@ -91,8 +92,8 @@ def getChampionTitle(mostUsedCHampionPair, summoner_id):
                 mostUsedChampion = "GAME DATA NOT FOUND"
             else:
                 mostUsedChampion = line[1]
-            print "MOST USED CHAMPION FOR ID #" + str(summoner_id).strip("XX") +\
-                  " IS :" + str(mostUsedChampion)
+            #print "MOST USED CHAMPION FOR ID #" + str(summoner_id).strip("XX") +\
+            #      " IS: " + str(mostUsedChampion)
 
             writeMostUsedChampion(summoner_id, mostUsedChampion)
 
@@ -117,7 +118,7 @@ def writeMostUsedChampion(summoner_id, mostUsedChampion):
                                             str(mostUsedChampion) + " "), '\n'])
 
             # Write the new version of the line into the file
-            with open('_out/Random_Summoners_1000.txt', 'w') as file:
+            with open('_out/Random_Summoners_run5.txt', 'w') as file:
                 file.writelines(random_summoners_1k)
 
         lineCnt += 1

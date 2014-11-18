@@ -1,0 +1,14 @@
+{'profileIconId': 561, 'summonerLevel': 30, 'revisionDate': 1416107901000L, 'id': 81023, 'name': 'Ictheus'} 'mostUsedChampion': Renekton 
+{'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1416036365000L, 'id': 6271, 'name': 'Asphalt'} 'mostUsedChampion': Khazix 
+{'profileIconId': 589, 'summonerLevel': 30, 'revisionDate': 1416201640000L, 'id': 2712, 'name': 'Lifeform'} 'mostUsedChampion': Khazix 
+{'profileIconId': 578, 'summonerLevel': 30, 'revisionDate': 1416026452000L, 'id': 112161, 'name': 'Drifting Wood'} 'mostUsedChampion': Khazix 
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1413164933000L, 'id': 348380, 'name': 'Neo11'} 'mostUsedChampion': Khazix 
+{'profileIconId': 6, 'summonerLevel': 30, 'revisionDate': 1416180045000L, 'id': 281674, 'name': 'ThaThreat'} 'mostUsedChampion': Khazix 
+{'profileIconId': 534, 'summonerLevel': 30, 'revisionDate': 1416180440000L, 'id': 4297, 'name': 'MegaZero'} 'mostUsedChampion': Khazix 
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1416188583000L, 'id': 6677, 'name': 'betakyros'} 'mostUsedChampion': Khazix 
+{'profileIconId': 583, 'summonerLevel': 30, 'revisionDate': 1415770191000L, 'id': 37014, 'name': 'Its Ricardo'} 'mostUsedChampion': Khazix 
+{'profileIconId': 577, 'summonerLevel': 30, 'revisionDate': 1416181026000L, 'id': 88759, 'name': 'Katartin'} 'mostUsedChampion': Khazix 
+{'profileIconId': 548, 'summonerLevel': 30, 'revisionDate': 1415855852000L, 'id': 8558, 'name': 'Sway N Tech'} 'mostUsedChampion': Khazix 
+{'profileIconId': 716, 'summonerLevel': 30, 'revisionDate': 1416269852000L, 'id': 8482, 'name': 'Bathetz'} 'mostUsedChampion': Khazix 
+{'profileIconId': 22, 'summonerLevel': 30, 'revisionDate': 1391228753000L, 'id': 23089, 'name': 'Desy'} 'mostUsedChampion': Khazix 
+{'profileIconId': 607, 'summonerLevel': 30, 'revisionDate': 1410855229000L, 'id': 4698, 'name': 'Groundstate'} 'mostUsedChampion': Khazix 

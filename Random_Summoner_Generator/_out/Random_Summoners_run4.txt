@@ -1,0 +1,14 @@
+{'profileIconId': 24, 'summonerLevel': 30, 'revisionDate': 1416263404000L, 'id': 58852, 'name': 'Unleasher'} 'mostUsedChampion': Rammus 
+{'profileIconId': 717, 'summonerLevel': 30, 'revisionDate': 1416196110000L, 'id': 8524, 'name': 'Dager'} 'mostUsedChampion': Rammus 
+{'profileIconId': 717, 'summonerLevel': 30, 'revisionDate': 1416189971000L, 'id': 291436, 'name': 'Suck My Diabetes'} 'mostUsedChampion': Rammus 
+{'profileIconId': 550, 'summonerLevel': 30, 'revisionDate': 1413164132000L, 'id': 12716, 'name': 'AetherPrime'} 'mostUsedChampion': Rammus 
+{'profileIconId': 662, 'summonerLevel': 30, 'revisionDate': 1416269370000L, 'id': 6205, 'name': 'mindspin'} 'mostUsedChampion': Rammus 
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1414986044000L, 'id': 64338, 'name': 'NegativeNancy'} 'mostUsedChampion': Taric 
+{'profileIconId': 7, 'summonerLevel': 30, 'revisionDate': 1416200183000L, 'id': 278231, 'name': 'ColdSpark'} 'mostUsedChampion': Taric 
+{'profileIconId': 3, 'summonerLevel': 30, 'revisionDate': 1416130687000L, 'id': 6167, 'name': 'InternetToughGuy'} 'mostUsedChampion': Taric 
+{'profileIconId': 580, 'summonerLevel': 30, 'revisionDate': 1413186970000L, 'id': 86206, 'name': 'ironshadows666'} 'mostUsedChampion': Taric 
+{'profileIconId': 507, 'summonerLevel': 30, 'revisionDate': 1416025461000L, 'id': 1870, 'name': 'Houst'} 'mostUsedChampion': Taric 
+{'profileIconId': 688, 'summonerLevel': 30, 'revisionDate': 1411230848000L, 'id': 39987, 'name': 'Oriden'} 'mostUsedChampion': Sivir 
+{'profileIconId': 21, 'summonerLevel': 30, 'revisionDate': 1414203806000L, 'id': 63052, 'name': 'TokinTones'} 'mostUsedChampion': Sivir 
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1415984694000L, 'id': 69387, 'name': 'Confide'} 'mostUsedChampion': Sivir 
+{'profileIconId': 7, 'summonerLevel': 30, 'revisionDate': 1416152634000L, 'id': 63382, 'name': 'Graz'} 'mostUsedChampion': Sivir 

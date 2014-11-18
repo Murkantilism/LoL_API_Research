@@ -1,0 +1,5 @@
+{'profileIconId': 7, 'summonerLevel': 30, 'revisionDate': 1378291414000L, 'id': 8964, 'name': 'polynaoh'}
+{'profileIconId': 583, 'summonerLevel': 30, 'revisionDate': 1391992853000L, 'id': 84731, 'name': 'stanizL'}
+{'profileIconId': 27, 'summonerLevel': 17, 'revisionDate': 1274425381000L, 'id': 167233, 'name': 'LovelyKorea'}
+{'profileIconId': 4, 'summonerLevel': 30, 'revisionDate': 1378269441000L, 'id': 564301, 'name': 'MoF Jurisian'}
+{'profileIconId': 607, 'summonerLevel': 30, 'revisionDate': 1416206387000L, 'id': 14075, 'name': 'Mjollnir'}

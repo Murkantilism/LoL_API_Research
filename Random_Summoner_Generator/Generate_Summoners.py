@@ -4,6 +4,7 @@ from RiotWatcher.riotwatcher import RiotWatcher
 from RiotWatcher.riotwatcher import LoLException
 import re
 from random import randint
+import subprocess
 
 # Setup RiotWatcher object with api key
 api = RiotWatcher('17dd8043-3e16-4cad-a388-985bfd93d275')
@@ -12,26 +13,21 @@ api = RiotWatcher('17dd8043-3e16-4cad-a388-985bfd93d275')
 cnt = 0
 
 # The number of summoners we would like to generate
-numSummoners = 300
+numSummoners = 100
+
+numSummonersWritten = 0
 
 def main():
     # Check if we have API calls remaining
     if(api.can_make_request()):
-        me = api.get_summoner(None, '5908')
-        #me = api.get_summoner(name='dyrus')
-        #print(me)
-
-        # Get summoner stats based on summoner object
-        #my_ranked_stats = api.get_ranked_stats(me['id'])
-
-        # Get league data based on summoner ID
-        #my_league = api.get_league('5908')
-
         # Generate a bunch of random summoners
         while (cnt < numSummoners):
             Generate_Summoner_ID()
 
-    print(api.can_make_request())
+        print str(numSummonersWritten) + " SUMMONERS GENERATED"
+        subprocess.check_call('Check_Duplicate_Summoners.py', shell=True)
+        subprocess.check_call('Get_Most_Used_Champion.py', shell=True)
+        subprocess.check_call('Scrub_Useless_Summoners.py', shell=True)
 
 # Generate a random single summoner
 def Generate_Summoner_ID():
@@ -43,16 +39,18 @@ def Generate_Summoner_ID():
 
         # Check if the summoner exists
         if Check_Summoner(random_id, random_summoner):
-            # Check the summoner's ranking
-            if Check_Rank(random_id):
-                # Write the summoner to a text doc
-                Write_Summoner(random_summoner)
-
+            # Check the summoner's level
+            if Check_Level(random_id) == True:
+                # Check the summoner's ranking
+                if Check_Rank(random_id) == True:
+                    # Write the summoner to a text doc
+                    Write_Summoner(random_summoner)
 
 
     # If the random summoner ID isn't a real summoner, catch error
     except LoLException:
-        print "Summoner ID " + str(random_id) + " Does Not Exist"
+        return
+        #print "Summoner ID " + str(random_id) + " Does Not Exist"
 
 # Helper method to create random numbers of a certain digit length
 def random_with_N_digits(n):
@@ -66,14 +64,14 @@ def Check_Summoner(random_id, random_summoner):
     check_name = str(random_summoner).split("name': u'", 1)[1]
 
     if(check_name[0:3].__contains__("IS1")):
-        print("Summoner ID " + str(random_id) + " has been culled (fake)")
+        #print("Summoner ID " + str(random_id) + " has been culled (fake)")
         return False
     else:
         # Increment the counter if a real summoner is found
         global cnt
         cnt = cnt + 1
 
-        print "Summoner ID " + str(random_id) + " Exists!"
+        #print "Summoner ID " + str(random_id) + " Exists!"
 
         return True
 
@@ -86,7 +84,20 @@ def Check_Rank(random_id):
        str(check_rank)[0:40].__contains__("PLATINUM"):
         return True
     else:
-        print("Summoner ID " + str(random_id) + " is not in GOLD or PLATINUM")
+        #print("Summoner ID " + str(random_id) + " is not in GOLD or PLATINUM")
+        return False
+
+def Check_Level(random_id):
+    check_level = api.get_summoner(name=None, id=random_id, region=None)
+
+    start = "u'summonerLevel': "
+    end = ", u'revisionDate"
+
+    result = re.search("%s(.*)%s" % (start, end), str(check_level)).group(1)
+
+    if (str(result) == "30"):
+        return True
+    else:
         return False
 
 # Write this summoner to a text document
@@ -97,8 +108,10 @@ def Write_Summoner(summoner):
     # Cull all extraneous u' characters (leaving ' character)
     summoner = re.sub(r"([u]+['])", r"'", str(summoner))
 
-    f = open('Random_Summoners_1000.txt', 'a')
+    f = open('_out/Random_Summoners_run5.txt', 'a')
     f.write(str(summoner))
+    global numSummonersWritten
+    numSummonersWritten = numSummonersWritten + 1
     f.close()
 
 # Method to write a readable text file of the *crapton* of league data returned
