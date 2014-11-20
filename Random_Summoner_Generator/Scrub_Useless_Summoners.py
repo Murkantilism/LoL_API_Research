@@ -4,7 +4,7 @@ __author__ = 'Deniz'
 lo_summoners = []
 def main():
     global lo_summoners
-    f = open('_out/Random_Summoners_run5.txt', 'r')
+    f = open('_out/Random_Summoners_run12.txt', 'r')
     champions = f.read()
     champions = champions.splitlines()
 
@@ -31,7 +31,7 @@ def main():
 
     # Close file and reopen in write mode (to overwrite it)
     #f.close()
-    f = open('_out/Random_Summoners_run5.txt', 'w')
+    f = open('_out/Random_Summoners_run12.txt', 'w')
 
     # Write the new list sans duplicates
     for summoner in champions:

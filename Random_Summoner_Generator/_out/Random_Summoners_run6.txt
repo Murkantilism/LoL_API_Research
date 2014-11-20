@@ -1,0 +1,25 @@
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1410974582000L, 'id': 6896, 'name': 'Kaithe'} 'mostUsedChampion': Caitlyn 
+{'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1415610818000L, 'id': 548143, 'name': 'Mollz'} 'mostUsedChampion': Caitlyn 
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1416233651000L, 'id': 4942, 'name': 'riksin'} 'mostUsedChampion': Hecarim 
+{'profileIconId': 673, 'summonerLevel': 30, 'revisionDate': 1416173196000L, 'id': 151224, 'name': 'The Rofler'} 'mostUsedChampion': Hecarim 
+{'profileIconId': 682, 'summonerLevel': 30, 'revisionDate': 1416276418000L, 'id': 20538, 'name': 'Valmane'} 'mostUsedChampion': Hecarim 
+{'profileIconId': 715, 'summonerLevel': 30, 'revisionDate': 1416280511000L, 'id': 2855, 'name': 'Seekr'} 'mostUsedChampion': Hecarim 
+{'profileIconId': 21, 'summonerLevel': 30, 'revisionDate': 1416123352000L, 'id': 57070, 'name': 'Keltzon'} 'mostUsedChampion': Hecarim 
+{'profileIconId': 18, 'summonerLevel': 30, 'revisionDate': 1393897083000L, 'id': 22974, 'name': 'Desk'} 'mostUsedChampion': Hecarim 
+{'profileIconId': 23, 'summonerLevel': 30, 'revisionDate': 1414866175000L, 'id': 5118, 'name': 'popo'} 'mostUsedChampion': Hecarim 
+{'profileIconId': 7, 'summonerLevel': 30, 'revisionDate': 1408170225000L, 'id': 6965, 'name': 'Caboo'} 'mostUsedChampion': Hecarim 
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1416258950000L, 'id': 8629, 'name': 'nereus'} 'mostUsedChampion': Hecarim 
+{'profileIconId': 555, 'summonerLevel': 30, 'revisionDate': 1415937853000L, 'id': 2281, 'name': 'Blackwind'} 'mostUsedChampion': Hecarim 
+{'profileIconId': 533, 'summonerLevel': 30, 'revisionDate': 1416279578000L, 'id': 4980, 'name': 'Vylt'} 'mostUsedChampion': Hecarim 
+{'profileIconId': 519, 'summonerLevel': 30, 'revisionDate': 1412902824000L, 'id': 4988, 'name': 'ZXSythe'} 'mostUsedChampion': Hecarim 
+{'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1416282262000L, 'id': 20901, 'name': 'Chai'} 'mostUsedChampion': Hecarim 
+{'profileIconId': 10, 'summonerLevel': 30, 'revisionDate': 1416266499000L, 'id': 368531, 'name': 'Mennoknight'} 'mostUsedChampion': Hecarim 
+{'profileIconId': 657, 'summonerLevel': 30, 'revisionDate': 1415949413000L, 'id': 8555, 'name': 'Ryuuz'} 'mostUsedChampion': Hecarim 
+{'profileIconId': 14, 'summonerLevel': 30, 'revisionDate': 1398818833000L, 'id': 41891, 'name': 'Granddesign'} 'mostUsedChampion': Hecarim 
+{'profileIconId': 7, 'summonerLevel': 30, 'revisionDate': 1416281535000L, 'id': 7282, 'name': 'michaeldada'} 'mostUsedChampion': Hecarim 
+{'profileIconId': 578, 'summonerLevel': 30, 'revisionDate': 1413189513000L, 'id': 99688, 'name': 'Lord of Ruin'} 'mostUsedChampion': Hecarim 
+{'profileIconId': 544, 'summonerLevel': 30, 'revisionDate': 1415321396000L, 'id': 9125, 'name': 'empy'} 'mostUsedChampion': Hecarim 
+{'profileIconId': 660, 'summonerLevel': 30, 'revisionDate': 1415986103000L, 'id': 63107, 'name': 'migosh'} 'mostUsedChampion': Hecarim 
+{'profileIconId': 577, 'summonerLevel': 30, 'revisionDate': 1416191412000L, 'id': 248656, 'name': 'Bevenue'} 'mostUsedChampion': Hecarim 
+{'profileIconId': 688, 'summonerLevel': 30, 'revisionDate': 1410633761000L, 'id': 401082, 'name': 'acidbpbran'} 'mostUsedChampion': Hecarim 
+{'profileIconId': 627, 'summonerLevel': 30, 'revisionDate': 1416272513000L, 'id': 16246, 'name': 'foxx'} 'mostUsedChampion': Hecarim 

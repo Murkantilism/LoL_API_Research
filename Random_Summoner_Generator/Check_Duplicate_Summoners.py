@@ -1,44 +1,78 @@
 __author__ = 'Deniz'
 
+import re
+
 # Declare an empty list of summoners
 lo_summoners = []
+lo_ids = []
+duplicate_summoners = []
+final_lo_summoners = []
 def main():
     global lo_summoners
-    f = open('_out/Random_Summoners_run5.txt', 'r')
+    global lo_ids
+    global final_lo_summoners
+    f = open('_out/Random_Summoners_run0_run12_370.txt', 'r')
+    read_lines = f.readlines()
 
-    origCnt = 0
-    newCnt = 0
+    duplicate_cnt = 0
 
-    # For every line in the file
-    for line in f:
-        # Append each line of summoners into a list
-        lo_summoners.append(str(line))
-        origCnt += 1
+    start = "'id': "
+    end = ", 'name': '"
 
-    # Convert the list of summoners to a set. then back to a
-    # list to cull duplicates (does not preserve order, don't need to)
-    noDuplicates_lo_summoners = list(set(lo_summoners))
+    # For every line in the file, get the summoner ID
+    for line in read_lines:
+        result = re.search("%s(.*)%s" % (start, end), str(line)).group(1)
+        lo_ids.append(result)
 
-    # Close file and reopen in write mode (to overwrite it)
-    #f.close()
-    f = open('_out/Random_Summoners_run5.txt', 'w')
+    duplicate_ids = []
+    seen_ids = []
+    # Get all the duplicate IDs
+    for id in lo_ids:
+        if id not in seen_ids:
+            seen_ids.append(id)
+        else:
+            duplicate_ids.append(id)
 
-    # Write the new list sans duplicates
-    for summoner in noDuplicates_lo_summoners:
+    '''
+    # For every ID, add the non-duplicate summoners to final list
+    for id in duplicate_ids:
+        for line in read_lines:
+            # Get the ID of this line
+            line_id = re.search("%s(.*)%s" % (start, end), str(line)).group(1)
+
+             # If the ID is not in the list of duplicates, add to final list
+            if not(str(line_id) == str(id)):
+                final_lo_summoners.append(line)
+    '''
+
+    occurrenceCnt = 0  # Declare occurance counter
+    # For every ID, check if it's got a duplicate ID
+    for id in duplicate_ids:
+        for line in read_lines:
+            # Get the ID of this line
+            line_id = re.search("%s(.*)%s" % (start, end), str(line)).group(1)
+
+            # If the ID is in the list of dups, SAVE first occurrence then
+            # forget the rest of the occurrences
+            if str(line_id) == str(id):
+                if occurrenceCnt == 0:
+                    occurrenceCnt += 1
+                    #final_lo_summoners.append(line)
+                else:
+                    duplicate_cnt += 1
+                    duplicate_summoners.append(line)
+
+        occurrenceCnt = 0  # Reset occurrence counter when we try next ID
+
+    f = open('_out/Random_Summoners_run0_run12_370.txt', 'w')
+
+    # Write the final list
+    for summoner in final_lo_summoners:
         f.write(summoner)
-        newCnt += 1
 
-    print str(origCnt - newCnt) + ' DUPLICATE SUMMONERS DELETED'
+    print str(duplicate_cnt) + ' DUPLICATE SUMMONERS DELETED'
 
     f.close()
 
 if __name__ == "__main__":
     main()
-
-# Search for "'id': " keyword, take everything after, which includes:
-# the summoner id and summoner name
-#summoner_id = line.split("'id': ",1)[1]
-
-# Test duplicates subjects:
-# sleepymanny  Jascari
-# GoSoO        pheonixfenix

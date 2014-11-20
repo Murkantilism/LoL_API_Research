@@ -14,7 +14,7 @@ f = open('loChampionPairs', 'r')
 champions = f.read()
 champions = champions.splitlines()
 
-with open('_out/Random_Summoners_run5.txt', 'r') as file:
+with open('_out/Random_Summoners_run12.txt', 'r') as file:
     # read a list of lines into data
     random_summoners_1k = file.readlines()
 
@@ -28,7 +28,7 @@ def main():
     print "MOST USED CHAMPIONS FOUND"
 
 def getSummoners():
-    f = open('_out/Random_Summoners_run5.txt', 'r')
+    f = open('_out/Random_Summoners_run12.txt', 'r')
     summoners = f.read()
     summoners = summoners.splitlines()
 
@@ -118,7 +118,7 @@ def writeMostUsedChampion(summoner_id, mostUsedChampion):
                                             str(mostUsedChampion) + " "), '\n'])
 
             # Write the new version of the line into the file
-            with open('_out/Random_Summoners_run5.txt', 'w') as file:
+            with open('_out/Random_Summoners_run12.txt', 'w') as file:
                 file.writelines(random_summoners_1k)
 
         lineCnt += 1

@@ -1,0 +1,10 @@
+{'profileIconId': 584, 'summonerLevel': 30, 'revisionDate': 1415464982000L, 'id': 5881, 'name': 'Aeowind'} 'mostUsedChampion': Soraka 
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1412480603000L, 'id': 4736, 'name': 'Veritrix'} 'mostUsedChampion': Evelynn 
+{'profileIconId': 713, 'summonerLevel': 30, 'revisionDate': 1416205251000L, 'id': 197897, 'name': 'CeeL'} 'mostUsedChampion': Evelynn 
+{'profileIconId': 518, 'summonerLevel': 30, 'revisionDate': 1415296382000L, 'id': 208824, 'name': 'gniksivart'} 'mostUsedChampion': Evelynn 
+{'profileIconId': 577, 'summonerLevel': 30, 'revisionDate': 1414969451000L, 'id': 314435, 'name': 'taconight'} 'mostUsedChampion': Caitlyn 
+{'profileIconId': 20, 'summonerLevel': 30, 'revisionDate': 1415373009000L, 'id': 7526, 'name': 'Rellentless'} 'mostUsedChampion': Malzahar 
+{'profileIconId': 673, 'summonerLevel': 30, 'revisionDate': 1416279770000L, 'id': 2161, 'name': 'Alcoholic420'} 'mostUsedChampion': Malzahar 
+{'profileIconId': 659, 'summonerLevel': 30, 'revisionDate': 1416286770000L, 'id': 153837, 'name': 'Kaion'} 'mostUsedChampion': Malzahar 
+{'profileIconId': 13, 'summonerLevel': 30, 'revisionDate': 1412561597000L, 'id': 8793, 'name': 'kurnis'} 'mostUsedChampion': Malzahar 
+{'profileIconId': 716, 'summonerLevel': 30, 'revisionDate': 1416212584000L, 'id': 4220, 'name': 'Nathan'} 'mostUsedChampion': Malzahar 

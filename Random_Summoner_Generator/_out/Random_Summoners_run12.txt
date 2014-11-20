@@ -1,0 +1,26 @@
+{'profileIconId': 709, 'summonerLevel': 30, 'revisionDate': 1415933434000L, 'id': 1815, 'name': 'RedJakket'} 'mostUsedChampion': Shyvana
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1414367447000L, 'id': 7068, 'name': 'Voska'} 'mostUsedChampion': Maokai
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1416102361000L, 'id': 398556, 'name': 'PinkPenguin'} 'mostUsedChampion': Maokai
+{'profileIconId': 715, 'summonerLevel': 30, 'revisionDate': 1416372441000L, 'id': 9500, 'name': 'dansierra'} 'mostUsedChampion': Leona
+{'profileIconId': 716, 'summonerLevel': 30, 'revisionDate': 1416369125000L, 'id': 564353, 'name': 'AckNun'} 'mostUsedChampion': Leona 
+{'profileIconId': 657, 'summonerLevel': 30, 'revisionDate': 1416366527000L, 'id': 599245, 'name': 'Fingertrap'} 'mostUsedChampion': Leona 
+{'profileIconId': 10, 'summonerLevel': 30, 'revisionDate': 1409098161000L, 'id': 2787, 'name': 'Roburn'} 'mostUsedChampion': Leona 
+{'profileIconId': 552, 'summonerLevel': 30, 'revisionDate': 1414895465000L, 'id': 61937, 'name': 'Eladamrie'} 'mostUsedChampion': Leona 
+{'profileIconId': 549, 'summonerLevel': 30, 'revisionDate': 1394922739000L, 'id': 8033, 'name': 'VEKLOL'} 'mostUsedChampion': Leona 
+{'profileIconId': 607, 'summonerLevel': 30, 'revisionDate': 1415527009000L, 'id': 20461, 'name': 'Papachulo'} 'mostUsedChampion': Leona 
+{'profileIconId': 716, 'summonerLevel': 30, 'revisionDate': 1416206157000L, 'id': 131355, 'name': 'Hayami'} 'mostUsedChampion': Leona 
+{'profileIconId': 712, 'summonerLevel': 30, 'revisionDate': 1416349612000L, 'id': 51835, 'name': 'Borderline9'} 'mostUsedChampion': Xerath 
+{'profileIconId': 709, 'summonerLevel': 30, 'revisionDate': 1415928409000L, 'id': 5172, 'name': 'Evestress'} 'mostUsedChampion': LeeSin 
+{'profileIconId': 527, 'summonerLevel': 30, 'revisionDate': 1416352118000L, 'id': 6025, 'name': 'douja'} 'mostUsedChampion': LeeSin 
+{'profileIconId': 26, 'summonerLevel': 30, 'revisionDate': 1416370267000L, 'id': 15036, 'name': 'Studmuffin'} 'mostUsedChampion': JarvanIV 
+{'profileIconId': 20, 'summonerLevel': 30, 'revisionDate': 1408671798000L, 'id': 3062, 'name': 'FourBet'} 'mostUsedChampion': JarvanIV 
+{'profileIconId': 715, 'summonerLevel': 30, 'revisionDate': 1416177159000L, 'id': 77574, 'name': 'nezural'} 'mostUsedChampion': JarvanIV 
+{'profileIconId': 711, 'summonerLevel': 30, 'revisionDate': 1416361127000L, 'id': 5944, 'name': 'Ennui'} 'mostUsedChampion': JarvanIV 
+{'profileIconId': 7, 'summonerLevel': 30, 'revisionDate': 1414147413000L, 'id': 52883, 'name': 'SushiCatX'} 'mostUsedChampion': JarvanIV 
+{'profileIconId': 627, 'summonerLevel': 30, 'revisionDate': 1401239151000L, 'id': 1216, 'name': 'SeeFour'} 'mostUsedChampion': JarvanIV 
+{'profileIconId': 712, 'summonerLevel': 30, 'revisionDate': 1416364673000L, 'id': 6807, 'name': 'XenoX'} 'mostUsedChampion': JarvanIV 
+{'profileIconId': 9, 'summonerLevel': 30, 'revisionDate': 1412806106000L, 'id': 7106, 'name': 'SeeSawSin'} 'mostUsedChampion': JarvanIV 
+{'profileIconId': 588, 'summonerLevel': 30, 'revisionDate': 1414989395000L, 'id': 7445, 'name': 'iFlee'} 'mostUsedChampion': Jax 
+{'profileIconId': 716, 'summonerLevel': 30, 'revisionDate': 1415772513000L, 'id': 227259, 'name': 'Gronnstalker'} 'mostUsedChampion': Jax 
+{'profileIconId': 661, 'summonerLevel': 30, 'revisionDate': 1416308383000L, 'id': 3976, 'name': 'Walid'} 'mostUsedChampion': Jax 
+{'profileIconId': 503, 'summonerLevel': 30, 'revisionDate': 1414643707000L, 'id': 5553, 'name': 'Osryk Wrath'} 'mostUsedChampion': Thresh 
