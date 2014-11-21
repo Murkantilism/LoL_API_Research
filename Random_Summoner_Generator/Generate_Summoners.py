@@ -2,7 +2,7 @@ __author__ = 'Deniz'
 
 from RiotWatcher.riotwatcher import RiotWatcher
 from RiotWatcher.riotwatcher import LoLException
-import re
+import re, argparse
 from random import randint
 import subprocess
 
@@ -12,12 +12,24 @@ api = RiotWatcher('17dd8043-3e16-4cad-a388-985bfd93d275')
 # A global counter used by Generate_Summoner_ID
 cnt = 0
 
-# The number of summoners we would like to generate
-numSummoners = 250
-
 numSummonersWritten = 0
-
 def main():
+
+    # Command line parsing
+    global outputLocation
+
+    parser = argparse.ArgumentParser(description='Attempt to generate X number'
+                                                 ' of random summoners.')
+
+    parser.add_argument('-out', metavar='o', type=str)
+    parser.add_argument('-num', metavar='n', type=int)
+
+    args = parser.parse_args()
+
+    print vars(args).values()
+    numSummoners = vars(args).values()[0]
+    outputLocation = vars(args).values()[1]
+
     # Check if we have API calls remaining
     if(api.can_make_request()):
         # Generate a bunch of random summoners
@@ -25,9 +37,6 @@ def main():
             Generate_Summoner_ID()
 
         print str(numSummonersWritten) + " SUMMONERS GENERATED"
-        #subprocess.check_call('Check_Duplicate_Summoners.py', shell=True)
-        #subprocess.check_call('Get_Most_Used_Champion.py', shell=True)
-        #subprocess.check_call('Scrub_Useless_Summoners.py', shell=True)
 
 # Generate a random single summoner
 def Generate_Summoner_ID():
@@ -108,7 +117,7 @@ def Write_Summoner(summoner):
     # Cull all extraneous u' characters (leaving ' character)
     summoner = re.sub(r"([u]+['])", r"'", str(summoner))
 
-    f = open('_out/Random_Summoners_run12.txt', 'a')
+    f = open(outputLocation+".txt", 'a')
     f.write(str(summoner))
     global numSummonersWritten
     numSummonersWritten = numSummonersWritten + 1

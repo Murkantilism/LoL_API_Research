@@ -1,10 +1,26 @@
 __author__ = 'Deniz'
 
+import argparse
+
 # Declare an empty list of summoners
 lo_summoners = []
 def main():
+
+    # Command line parsing
+    global outputLocation
+
+    parser = argparse.ArgumentParser(description='Attempt to generate X number'
+                                                 ' of random summoners.')
+
+    parser.add_argument('-out', metavar='o', type=str)
+
+    args = parser.parse_args()
+
+    print vars(args).values()
+    outputLocation = vars(args).values()[0]
+
     global lo_summoners
-    f = open('_out/Random_Summoners_run12.txt', 'r')
+    f = open(outputLocation+'.txt', 'r')
     champions = f.read()
     champions = champions.splitlines()
 
@@ -31,7 +47,7 @@ def main():
 
     # Close file and reopen in write mode (to overwrite it)
     #f.close()
-    f = open('_out/Random_Summoners_run12.txt', 'w')
+    f = open(outputLocation+'.txt', 'w')
 
     # Write the new list sans duplicates
     for summoner in champions:

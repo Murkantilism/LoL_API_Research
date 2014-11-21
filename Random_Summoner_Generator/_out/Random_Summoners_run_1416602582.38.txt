@@ -1,0 +1,4 @@
+{'profileIconId': 666, 'summonerLevel': 30, 'revisionDate': 1413956833000L, 'id': 95680, 'name': 'MAlNWORD'} 'mostUsedChampion': Amumu 
+{'profileIconId': 566, 'summonerLevel': 30, 'revisionDate': 1414824000000L, 'id': 2097, 'name': 'Matt'} 'mostUsedChampion': Annie 
+{'profileIconId': 502, 'summonerLevel': 30, 'revisionDate': 1414869558000L, 'id': 3477, 'name': 'Mistryl'} 'mostUsedChampion': Jinx 
+{'profileIconId': 16, 'summonerLevel': 30, 'revisionDate': 1414870581000L, 'id': 56243, 'name': 'ykseP'} 'mostUsedChampion': Elise 

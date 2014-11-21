@@ -1,16 +1,31 @@
 __author__ = 'Deniz'
 
-import re
+import re, argparse
 
 # Declare an empty list of summoners
 lo_summoners = []
 lo_ids = []
 no_dups_lo_summoners = []
 def main():
+
+    # Command line parsing
+    global outputLocation
+
+    parser = argparse.ArgumentParser(description='Attempt to generate X number'
+                                                 ' of random summoners.')
+
+    parser.add_argument('-out', metavar='o', type=str)
+
+    args = parser.parse_args()
+
+    print vars(args).values()
+    outputLocation = vars(args).values()[0]
+
+
     global lo_summoners
     global lo_ids
     global no_dups_lo_summoners
-    f = open('_out/Random_Summoners_run0_run12_370.txt', 'r')
+    f = open(outputLocation+".txt", 'r')
     read_lines = f.readlines()
 
     duplicate_cnt = 0
@@ -47,12 +62,12 @@ def main():
             no_dups_lo_summoners.append(line)
 
     # Write the duplicates to a separate text file
-    g = open('_out/Random_Summoners_run0_run12_370_DUPLICATES.txt', 'w')
+    g = open(outputLocation+"_DUPLICATES.txt", 'w')
     for summoner in duplicate_summoners:
         g.write(summoner)
 
     # Write the non-duplicates to main file
-    f = open('_out/Random_Summoners_run0_run12_370.txt', 'w')
+    f = open(outputLocation+".txt", 'w')
     for summoner in no_dups_lo_summoners:
         f.write(summoner)
 

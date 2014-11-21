@@ -1,0 +1,2 @@
+{'profileIconId': 18, 'summonerLevel': 30, 'revisionDate': 1339227464000L, 'id': 1571, 'name': 'Crap on a Stick'} 'mostUsedChampion': GAME DATA NOT FOUND  'mostUsedChampion': GAME DATA NOT FOUND 
+{'profileIconId': 18, 'summonerLevel': 30, 'revisionDate': 1339227464000L, 'id': 1571, 'name': 'Crap on a Stick'} 'mostUsedChampion': GAME DATA NOT FOUND  'mostUsedChampion': GAME DATA NOT FOUND 

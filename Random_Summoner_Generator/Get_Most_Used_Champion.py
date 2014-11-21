@@ -2,7 +2,7 @@ __author__ = 'Deniz'
 
 from RiotWatcher.riotwatcher import RiotWatcher
 from RiotWatcher.riotwatcher import LoLException
-import re
+import re, argparse
 from operator import itemgetter
 
 # Setup RiotWatcher object with api key
@@ -14,11 +14,26 @@ f = open('loChampionPairs', 'r')
 champions = f.read()
 champions = champions.splitlines()
 
-with open('_out/Random_Summoners_run12.txt', 'r') as file:
-    # read a list of lines into data
-    random_summoners_1k = file.readlines()
-
 def main():
+    global random_summoners_1k
+
+    # Command line parsing
+    global outputLocation
+
+    parser = argparse.ArgumentParser(description='Attempt to generate X number'
+                                                 ' of random summoners.')
+
+    parser.add_argument('-out', metavar='o', type=str)
+
+    args = parser.parse_args()
+
+    print vars(args).values()
+    outputLocation = vars(args).values()[0]
+
+    with open(outputLocation+".txt", 'r') as file:
+        # read a list of lines into data
+        random_summoners_1k = file.readlines()
+
     # Check if we have API calls remaining
     if(api.can_make_request()):
         getSummoners()
@@ -28,7 +43,7 @@ def main():
     print "MOST USED CHAMPIONS FOUND"
 
 def getSummoners():
-    f = open('_out/Random_Summoners_run12.txt', 'r')
+    f = open(outputLocation+".txt", 'r')
     summoners = f.read()
     summoners = summoners.splitlines()
 
@@ -118,7 +133,7 @@ def writeMostUsedChampion(summoner_id, mostUsedChampion):
                                             str(mostUsedChampion) + " "), '\n'])
 
             # Write the new version of the line into the file
-            with open('_out/Random_Summoners_run12.txt', 'w') as file:
+            with open(outputLocation+".txt", 'w') as file:
                 file.writelines(random_summoners_1k)
 
         lineCnt += 1
