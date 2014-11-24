@@ -1,0 +1,26 @@
+{'profileIconId': 7, 'summonerLevel': 30, 'revisionDate': 1416535361000L, 'id': 229212, 'name': 'Taroxx'} 'mostUsedChampion': Katarina  'mostUsedChampion': Katarina  'mostUsedChampion': Katarina  'mostUsedChampion': Katarina  'mostUsedChampion': Katarina  'mostUsedChampion': Katarina  'mostUsedChampion': Katarina  'mostUsedChampion': Katarina  'mostUsedChampion': Katarina  'mostUsedChampion': Katarina 
+{'profileIconId': 552, 'summonerLevel': 30, 'revisionDate': 1416663754000L, 'id': 13284, 'name': 'Client May Crash'} 'mostUsedChampion': Ryze  'mostUsedChampion': Talon  'mostUsedChampion': Talon  'mostUsedChampion': Talon  'mostUsedChampion': Talon  'mostUsedChampion': Talon 
+{'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1416529885000L, 'id': 84480, 'name': 'WebWeaver'} 'mostUsedChampion': Ryze  'mostUsedChampion': Talon  'mostUsedChampion': Talon  'mostUsedChampion': Talon  'mostUsedChampion': Talon  'mostUsedChampion': Talon 
+{'profileIconId': 660, 'summonerLevel': 30, 'revisionDate': 1416741122000L, 'id': 14733, 'name': 'watercliff'} 'mostUsedChampion': Chogath  'mostUsedChampion': Ezreal  'mostUsedChampion': Ezreal  'mostUsedChampion': Ezreal  'mostUsedChampion': Talon 
+{'profileIconId': 709, 'summonerLevel': 30, 'revisionDate': 1415778502000L, 'id': 8393, 'name': 'TheNotoriousHub'} 'mostUsedChampion': Chogath  'mostUsedChampion': Ezreal  'mostUsedChampion': Ezreal  'mostUsedChampion': Ezreal  'mostUsedChampion': Talon 
+{'profileIconId': 18, 'summonerLevel': 30, 'revisionDate': 1415714770000L, 'id': 430856, 'name': 'Hrarry'} 'mostUsedChampion': Alistar  'mostUsedChampion': Alistar  'mostUsedChampion': Alistar  'mostUsedChampion': Talon 
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1416744808000L, 'id': 483157, 'name': 'piexfanx11'} 'mostUsedChampion': Alistar  'mostUsedChampion': Alistar  'mostUsedChampion': Alistar  'mostUsedChampion': Talon 
+{'profileIconId': 606, 'summonerLevel': 30, 'revisionDate': 1393422487000L, 'id': 12476, 'name': 'Militiades'} 'mostUsedChampion': Blitzcrank  'mostUsedChampion': Alistar  'mostUsedChampion': Talon 
+{'profileIconId': 716, 'summonerLevel': 30, 'revisionDate': 1415964355000L, 'id': 9183, 'name': 'Zombie Dobby'} 'mostUsedChampion': Blitzcrank  'mostUsedChampion': Alistar  'mostUsedChampion': Talon 
+{'profileIconId': 709, 'summonerLevel': 30, 'revisionDate': 1416367805000L, 'id': 230679, 'name': 'encrypted'} 'mostUsedChampion': Blitzcrank 
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1416694419000L, 'id': 14539, 'name': 'Magnious'} 'mostUsedChampion': Blitzcrank 
+{'profileIconId': 578, 'summonerLevel': 30, 'revisionDate': 1411819745000L, 'id': 2759, 'name': 'Elad'} 'mostUsedChampion': Blitzcrank 
+{'profileIconId': 683, 'summonerLevel': 30, 'revisionDate': 1416558518000L, 'id': 38261, 'name': 'No One Ganks Like Gaston'} 'mostUsedChampion': Blitzcrank 
+{'profileIconId': 540, 'summonerLevel': 30, 'revisionDate': 1404653808000L, 'id': 8753, 'name': 'Passive'} 'mostUsedChampion': Blitzcrank 
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1415447785000L, 'id': 6246, 'name': 'Im Sorry IV'} 'mostUsedChampion': Blitzcrank 
+{'profileIconId': 508, 'summonerLevel': 30, 'revisionDate': 1414663104000L, 'id': 4853, 'name': 'Zero'} 'mostUsedChampion': Blitzcrank 
+{'profileIconId': 580, 'summonerLevel': 30, 'revisionDate': 1412776052000L, 'id': 4024, 'name': 'Poopybuns'} 'mostUsedChampion': Blitzcrank 
+{'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1415696691000L, 'id': 188580, 'name': 'Belvyn'} 'mostUsedChampion': Blitzcrank 
+{'profileIconId': 20, 'summonerLevel': 30, 'revisionDate': 1408750428000L, 'id': 59768, 'name': 'Bikd'} 'mostUsedChampion': Blitzcrank 
+{'profileIconId': 710, 'summonerLevel': 30, 'revisionDate': 1416675969000L, 'id': 3983, 'name': 'Tim Timson'} 'mostUsedChampion': Blitzcrank 
+{'profileIconId': 659, 'summonerLevel': 30, 'revisionDate': 1416702011000L, 'id': 2204, 'name': 'Garoublade'} 'mostUsedChampion': Blitzcrank 
+{'profileIconId': 607, 'summonerLevel': 30, 'revisionDate': 1416665964000L, 'id': 7274, 'name': 'pandabear'} 'mostUsedChampion': Blitzcrank 
+{'profileIconId': 627, 'summonerLevel': 30, 'revisionDate': 1416749405000L, 'id': 3872, 'name': 'hoax15'} 'mostUsedChampion': Thresh 
+{'profileIconId': 505, 'summonerLevel': 30, 'revisionDate': 1401359882000L, 'id': 89492, 'name': 'Stickykill'} 'mostUsedChampion': Thresh 
+{'profileIconId': 717, 'summonerLevel': 30, 'revisionDate': 1416207028000L, 'id': 9973, 'name': 'Lisk'} 'mostUsedChampion': Thresh 
+{'profileIconId': 522, 'summonerLevel': 30, 'revisionDate': 1416743455000L, 'id': 486255, 'name': 'ToBsFallen'} 'mostUsedChampion': Thresh 

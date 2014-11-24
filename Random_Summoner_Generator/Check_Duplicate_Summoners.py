@@ -62,12 +62,13 @@ def main():
             no_dups_lo_summoners.append(line)
 
     # Write the duplicates to a separate text file
-    g = open(outputLocation+"_DUPLICATES.txt", 'w')
+    g = open(outputLocation+"_DUPLICATES.txt", 'a')
     for summoner in duplicate_summoners:
         g.write(summoner)
 
     # Write the non-duplicates to main file
-    f = open(outputLocation+".txt", 'w')
+    f = open(outputLocation+".txt", 'a')
+    f.write("==========================================================")
     for summoner in no_dups_lo_summoners:
         f.write(summoner)
 
