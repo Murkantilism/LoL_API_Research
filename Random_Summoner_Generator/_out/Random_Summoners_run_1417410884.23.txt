@@ -1,0 +1,107 @@
+{'profileIconId': 660, 'summonerLevel': 30, 'revisionDate': 1410185337000L, 'id': 283386, 'name': 'xBoOmx xX G Xx'} 'mostUsedChampion': Swain
+{'profileIconId': 717, 'summonerLevel': 30, 'revisionDate': 1416031380000L, 'id': 6240, 'name': 'clownhair'} 'mostUsedChampion': Swain
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1416223873000L, 'id': 52695, 'name': 'Grantag'} 'mostUsedChampion': Swain
+{'profileIconId': 660, 'summonerLevel': 30, 'revisionDate': 1410185337000L, 'id': 283386, 'name': 'xBoOmx xX G Xx'} 'mostUsedChampion': Swain
+{'profileIconId': 717, 'summonerLevel': 30, 'revisionDate': 1416031380000L, 'id': 6240, 'name': 'clownhair'} 'mostUsedChampion': Swain
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1416223873000L, 'id': 52695, 'name': 'Grantag'} 'mostUsedChampion': Swain
+{'profileIconId': 10, 'summonerLevel': 30, 'revisionDate': 1415292251000L, 'id': 57552, 'name': 'Vulgarian'} 'mostUsedChampion': Swain 
+{'profileIconId': 10, 'summonerLevel': 30, 'revisionDate': 1415292251000L, 'id': 57552, 'name': 'Vulgarian'} 'mostUsedChampion': Swain 
+{'profileIconId': 717, 'summonerLevel': 30, 'revisionDate': 1417414282000L, 'id': 4299, 'name': 'stygx'} 'mostUsedChampion': Tristana 
+{'profileIconId': 717, 'summonerLevel': 30, 'revisionDate': 1417414282000L, 'id': 4299, 'name': 'stygx'} 'mostUsedChampion': Tristana 
+{'profileIconId': 666, 'summonerLevel': 30, 'revisionDate': 1417251971000L, 'id': 35155, 'name': 'eiketsubur'} 'mostUsedChampion': Caitlyn
+{'profileIconId': 666, 'summonerLevel': 30, 'revisionDate': 1417251971000L, 'id': 35155, 'name': 'eiketsubur'} 'mostUsedChampion': Caitlyn
+{'profileIconId': 642, 'summonerLevel': 30, 'revisionDate': 1417421263000L, 'id': 6573, 'name': 'BoyBanhBeo'} 'mostUsedChampion': Lissandra
+{'profileIconId': 661, 'summonerLevel': 30, 'revisionDate': 1417064709000L, 'id': 6488, 'name': 'Morinehtar'} 'mostUsedChampion': Lissandra
+{'profileIconId': 717, 'summonerLevel': 30, 'revisionDate': 1417410632000L, 'id': 1516, 'name': 'Zarol'} 'mostUsedChampion': Lissandra
+{'profileIconId': 658, 'summonerLevel': 30, 'revisionDate': 1415793520000L, 'id': 81478, 'name': 'for3ver28'} 'mostUsedChampion': Lissandra
+{'profileIconId': 580, 'summonerLevel': 30, 'revisionDate': 1416976650000L, 'id': 186308, 'name': 'Pillage'} 'mostUsedChampion': Lissandra
+{'profileIconId': 506, 'summonerLevel': 30, 'revisionDate': 1417417090000L, 'id': 6698, 'name': 'Latoya'} 'mostUsedChampion': Lissandra
+{'profileIconId': 22, 'summonerLevel': 30, 'revisionDate': 1415492449000L, 'id': 28488, 'name': 'ZHour'} 'mostUsedChampion': Lissandra
+{'profileIconId': 536, 'summonerLevel': 30, 'revisionDate': 1408029528000L, 'id': 2434, 'name': 'Mavada'} 'mostUsedChampion': Lissandra
+{'profileIconId': 588, 'summonerLevel': 30, 'revisionDate': 1417417526000L, 'id': 7312, 'name': 'GunWing'} 'mostUsedChampion': Lissandra
+{'profileIconId': 642, 'summonerLevel': 30, 'revisionDate': 1417421263000L, 'id': 6573, 'name': 'BoyBanhBeo'} 'mostUsedChampion': Lissandra
+{'profileIconId': 661, 'summonerLevel': 30, 'revisionDate': 1417064709000L, 'id': 6488, 'name': 'Morinehtar'} 'mostUsedChampion': Lissandra
+{'profileIconId': 717, 'summonerLevel': 30, 'revisionDate': 1417410632000L, 'id': 1516, 'name': 'Zarol'} 'mostUsedChampion': Lissandra
+{'profileIconId': 658, 'summonerLevel': 30, 'revisionDate': 1415793520000L, 'id': 81478, 'name': 'for3ver28'} 'mostUsedChampion': Lissandra
+{'profileIconId': 580, 'summonerLevel': 30, 'revisionDate': 1416976650000L, 'id': 186308, 'name': 'Pillage'} 'mostUsedChampion': Lissandra
+{'profileIconId': 506, 'summonerLevel': 30, 'revisionDate': 1417417090000L, 'id': 6698, 'name': 'Latoya'} 'mostUsedChampion': Lissandra
+{'profileIconId': 22, 'summonerLevel': 30, 'revisionDate': 1415492449000L, 'id': 28488, 'name': 'ZHour'} 'mostUsedChampion': Lissandra
+{'profileIconId': 536, 'summonerLevel': 30, 'revisionDate': 1408029528000L, 'id': 2434, 'name': 'Mavada'} 'mostUsedChampion': Lissandra
+{'profileIconId': 588, 'summonerLevel': 30, 'revisionDate': 1417417526000L, 'id': 7312, 'name': 'GunWing'} 'mostUsedChampion': Lissandra
+{'profileIconId': 713, 'summonerLevel': 30, 'revisionDate': 1417409177000L, 'id': 35095, 'name': 'Amzin'} 'mostUsedChampion': Lissandra
+{'profileIconId': 606, 'summonerLevel': 30, 'revisionDate': 1417406972000L, 'id': 62396, 'name': 'Sanako'} 'mostUsedChampion': Lissandra
+{'profileIconId': 550, 'summonerLevel': 30, 'revisionDate': 1399814820000L, 'id': 5241, 'name': 'Mahoka'}  'mostUsedChampion': Nami
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1415889877000L, 'id': 2960, 'name': 'Walt'} 'mostUsedChampion': Nami
+{'profileIconId': 693, 'summonerLevel': 30, 'revisionDate': 1417419912000L, 'id': 37693, 'name': 'Gryph'} 'mostUsedChampion': Nami
+{'profileIconId': 713, 'summonerLevel': 30, 'revisionDate': 1417419389000L, 'id': 6244, 'name': 'EzDoeZit'} 'mostUsedChampion': Nami
+{'profileIconId': 597, 'summonerLevel': 30, 'revisionDate': 1415787126000L, 'id': 52376, 'name': 'Wabble'} 'mostUsedChampion': Nami
+{'profileIconId': 533, 'summonerLevel': 30, 'revisionDate': 1410636215000L, 'id': 2670, 'name': 'UncleRussell'} 'mostUsedChampion': Nami
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1411719718000L, 'id': 7118, 'name': 'psychoguy817'} 'mostUsedChampion': Nami
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1397883074000L, 'id': 51905, 'name': 'A GentIeman'} 'mostUsedChampion': Nami
+{'profileIconId': 661, 'summonerLevel': 30, 'revisionDate': 1417064709000L, 'id': 6488, 'name': 'Morinehtar'} 'mostUsedChampion': Jinx
+{'profileIconId': 713, 'summonerLevel': 30, 'revisionDate': 1417409177000L, 'id': 35095, 'name': 'Amzin'} 'mostUsedChampion': Nami
+{'profileIconId': 606, 'summonerLevel': 30, 'revisionDate': 1417406972000L, 'id': 62396, 'name': 'Sanako'} 'mostUsedChampion': Nami
+{'profileIconId': 550, 'summonerLevel': 30, 'revisionDate': 1399814820000L, 'id': 5241, 'name': 'Mahoka'} 'mostUsedChampion': Nami
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1415889877000L, 'id': 2960, 'name': 'Walt'} 'mostUsedChampion': Nami
+{'profileIconId': 693, 'summonerLevel': 30, 'revisionDate': 1417419912000L, 'id': 37693, 'name': 'Gryph'} 'mostUsedChampion': Nami
+{'profileIconId': 713, 'summonerLevel': 30, 'revisionDate': 1417419389000L, 'id': 6244, 'name': 'EzDoeZit'} 'mostUsedChampion': Nami
+{'profileIconId': 597, 'summonerLevel': 30, 'revisionDate': 1415787126000L, 'id': 52376, 'name': 'Wabble'} 'mostUsedChampion': Nami
+{'profileIconId': 533, 'summonerLevel': 30, 'revisionDate': 1410636215000L, 'id': 2670, 'name': 'UncleRussell'} 'mostUsedChampion': Nami
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1411719718000L, 'id': 7118, 'name': 'psychoguy817'} 'mostUsedChampion': Nami
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1397883074000L, 'id': 51905, 'name': 'A GentIeman'} 'mostUsedChampion': Nami
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1394850785000L, 'id': 18421, 'name': 'KarnoffeL'} 'mostUsedChampion': Morgana
+{'profileIconId': 716, 'summonerLevel': 30, 'revisionDate': 1417306111000L, 'id': 14112, 'name': 'Aymen'} 'mostUsedChampion': Morgana
+{'profileIconId': 508, 'summonerLevel': 30, 'revisionDate': 1415074443000L, 'id': 9902, 'name': 'Miro'} 'mostUsedChampion': Morgana
+{'profileIconId': 556, 'summonerLevel': 30, 'revisionDate': 1417409280000L, 'id': 12117, 'name': 'Alphie'} 'mostUsedChampion': Morgana
+{'profileIconId': 710, 'summonerLevel': 30, 'revisionDate': 1416710427000L, 'id': 384051, 'name': 'Innerasian'} 'mostUsedChampion': Morgana
+{'profileIconId': 575, 'summonerLevel': 30, 'revisionDate': 1417384314000L, 'id': 1067, 'name': 'Murder Turtle'} 'mostUsedChampion': Morgana
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1394850785000L, 'id': 18421, 'name': 'KarnoffeL'} 'mostUsedChampion': Nami
+{'profileIconId': 716, 'summonerLevel': 30, 'revisionDate': 1417306111000L, 'id': 14112, 'name': 'Aymen'} 'mostUsedChampion': Morgana
+{'profileIconId': 508, 'summonerLevel': 30, 'revisionDate': 1415074443000L, 'id': 9902, 'name': 'Miro'} 'mostUsedChampion': Morgana
+{'profileIconId': 556, 'summonerLevel': 30, 'revisionDate': 1417409280000L, 'id': 12117, 'name': 'Alphie'} 'mostUsedChampion': Morgana
+{'profileIconId': 710, 'summonerLevel': 30, 'revisionDate': 1416710427000L, 'id': 384051, 'name': 'Innerasian'} 'mostUsedChampion': Morgana
+{'profileIconId': 575, 'summonerLevel': 30, 'revisionDate': 1417384314000L, 'id': 1067, 'name': 'Murder Turtle'} 'mostUsedChampion': Morgana
+{'profileIconId': 665, 'summonerLevel': 30, 'revisionDate': 1405476478000L, 'id': 9672, 'name': 'Trick2Rick'} 'mostUsedChampion': Morgana
+{'profileIconId': 658, 'summonerLevel': 30, 'revisionDate': 1414922607000L, 'id': 283089, 'name': 'Alkolyk'} 'mostUsedChampion': Morgana
+{'profileIconId': 522, 'summonerLevel': 30, 'revisionDate': 1417080243000L, 'id': 91762, 'name': 'Narak'} 'mostUsedChampion': Morgana
+{'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1410146934000L, 'id': 9445, 'name': 'Krown'} 'mostUsedChampion': Morgana
+{'profileIconId': 20, 'summonerLevel': 30, 'revisionDate': 1394176433000L, 'id': 51915, 'name': 'itstk'} 'mostUsedChampion': Morgana
+{'profileIconId': 611, 'summonerLevel': 30, 'revisionDate': 1417154613000L, 'id': 1385, 'name': 'Cobalt'} 'mostUsedChampion': Morgana
+{'profileIconId': 588, 'summonerLevel': 30, 'revisionDate': 1417396193000L, 'id': 54254, 'name': 'Deathlocke'} 'mostUsedChampion': Morgana
+{'profileIconId': 665, 'summonerLevel': 30, 'revisionDate': 1405476478000L, 'id': 9672, 'name': 'Trick2Rick'} 'mostUsedChampion': Morgana
+{'profileIconId': 658, 'summonerLevel': 30, 'revisionDate': 1414922607000L, 'id': 283089, 'name': 'Alkolyk'} 'mostUsedChampion': Morgana
+{'profileIconId': 522, 'summonerLevel': 30, 'revisionDate': 1417080243000L, 'id': 91762, 'name': 'Narak'} 'mostUsedChampion': Morgana
+{'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1410146934000L, 'id': 9445, 'name': 'Krown'} 'mostUsedChampion': Morgana
+{'profileIconId': 20, 'summonerLevel': 30, 'revisionDate': 1394176433000L, 'id': 51915, 'name': 'itstk'} 'mostUsedChampion': Morgana
+{'profileIconId': 611, 'summonerLevel': 30, 'revisionDate': 1417154613000L, 'id': 1385, 'name': 'Cobalt'} 'mostUsedChampion': Morgana
+{'profileIconId': 588, 'summonerLevel': 30, 'revisionDate': 1417396193000L, 'id': 54254, 'name': 'Deathlocke'} 'mostUsedChampion': Morgana
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1415507985000L, 'id': 84184, 'name': 'Thugturtles'} 'mostUsedChampion': Morgana 
+{'profileIconId': 519, 'summonerLevel': 30, 'revisionDate': 1417242358000L, 'id': 9876, 'name': 'lts K'} 'mostUsedChampion': Morgana 
+{'profileIconId': 580, 'summonerLevel': 30, 'revisionDate': 1398423984000L, 'id': 99785, 'name': 'EverLast'} 'mostUsedChampion': Morgana 
+{'profileIconId': 663, 'summonerLevel': 30, 'revisionDate': 1417434398000L, 'id': 1951, 'name': 'Zathalos'} 'mostUsedChampion': Morgana 
+{'profileIconId': 25, 'summonerLevel': 30, 'revisionDate': 1416941880000L, 'id': 54508, 'name': 'Blazeriscool'} 'mostUsedChampion': Morgana 
+{'profileIconId': 550, 'summonerLevel': 30, 'revisionDate': 1417417818000L, 'id': 2132, 'name': 'Pissedfurby'} 'mostUsedChampion': Morgana 
+{'profileIconId': 549, 'summonerLevel': 30, 'revisionDate': 1394947939000L, 'id': 8033, 'name': 'VEKLOL'} 'mostUsedChampion': Morgana 
+{'profileIconId': 12, 'summonerLevel': 30, 'revisionDate': 1410778626000L, 'id': 397216, 'name': 'TylerJ'} 'mostUsedChampion': Morgana 
+{'profileIconId': 606, 'summonerLevel': 30, 'revisionDate': 1417327197000L, 'id': 8254, 'name': 'ScholarZero'} 'mostUsedChampion': Morgana 
+{'profileIconId': 712, 'summonerLevel': 30, 'revisionDate': 1417151290000L, 'id': 84205, 'name': 'Soyumi Lyunari'} 'mostUsedChampion': Morgana 
+{'profileIconId': 688, 'summonerLevel': 30, 'revisionDate': 1415877049000L, 'id': 181024, 'name': 'Kotonoha'} 'mostUsedChampion': Morgana 
+{'profileIconId': 673, 'summonerLevel': 30, 'revisionDate': 1414929865000L, 'id': 8351, 'name': 'Xehnon'} 'mostUsedChampion': Morgana 
+{'profileIconId': 551, 'summonerLevel': 30, 'revisionDate': 1415726512000L, 'id': 9507, 'name': 'KeyboardKnight'} 'mostUsedChampion': Morgana 
+{'profileIconId': 8, 'summonerLevel': 30, 'revisionDate': 1416717867000L, 'id': 86574, 'name': 'Fat Tom'} 'mostUsedChampion': Morgana 
+{'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1403859183000L, 'id': 45567, 'name': 'Dross'} 'mostUsedChampion': Morgana 
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1415507985000L, 'id': 84184, 'name': 'Thugturtles'} 'mostUsedChampion': Morgana 
+{'profileIconId': 519, 'summonerLevel': 30, 'revisionDate': 1417242358000L, 'id': 9876, 'name': 'lts K'} 'mostUsedChampion': Morgana 
+{'profileIconId': 580, 'summonerLevel': 30, 'revisionDate': 1398423984000L, 'id': 99785, 'name': 'EverLast'} 'mostUsedChampion': Morgana 
+{'profileIconId': 663, 'summonerLevel': 30, 'revisionDate': 1417434398000L, 'id': 1951, 'name': 'Zathalos'} 'mostUsedChampion': Morgana 
+{'profileIconId': 25, 'summonerLevel': 30, 'revisionDate': 1416941880000L, 'id': 54508, 'name': 'Blazeriscool'} 'mostUsedChampion': Morgana 
+{'profileIconId': 550, 'summonerLevel': 30, 'revisionDate': 1417417818000L, 'id': 2132, 'name': 'Pissedfurby'} 'mostUsedChampion': Morgana 
+{'profileIconId': 549, 'summonerLevel': 30, 'revisionDate': 1394947939000L, 'id': 8033, 'name': 'VEKLOL'} 'mostUsedChampion': Morgana 
+{'profileIconId': 12, 'summonerLevel': 30, 'revisionDate': 1410778626000L, 'id': 397216, 'name': 'TylerJ'} 'mostUsedChampion': Morgana 
+{'profileIconId': 606, 'summonerLevel': 30, 'revisionDate': 1417327197000L, 'id': 8254, 'name': 'ScholarZero'} 'mostUsedChampion': Morgana 
+{'profileIconId': 712, 'summonerLevel': 30, 'revisionDate': 1417151290000L, 'id': 84205, 'name': 'Soyumi Lyunari'} 'mostUsedChampion': Morgana 
+{'profileIconId': 688, 'summonerLevel': 30, 'revisionDate': 1415877049000L, 'id': 181024, 'name': 'Kotonoha'} 'mostUsedChampion': Morgana 
+{'profileIconId': 673, 'summonerLevel': 30, 'revisionDate': 1414929865000L, 'id': 8351, 'name': 'Xehnon'} 'mostUsedChampion': Morgana 
+{'profileIconId': 551, 'summonerLevel': 30, 'revisionDate': 1415726512000L, 'id': 9507, 'name': 'KeyboardKnight'} 'mostUsedChampion': Morgana 
+{'profileIconId': 8, 'summonerLevel': 30, 'revisionDate': 1416717867000L, 'id': 86574, 'name': 'Fat Tom'} 'mostUsedChampion': Morgana 
+{'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1403859183000L, 'id': 45567, 'name': 'Dross'} 'mostUsedChampion': Morgana

@@ -1,0 +1,26 @@
+{'profileIconId': 535, 'summonerLevel': 30, 'revisionDate': 1417240258000L, 'id': 98767, 'name': 'Kephas'} 'mostUsedChampion': Renekton  'mostUsedChampion': Renekton  'mostUsedChampion': GAME DATA NOT FOUND 
+{'profileIconId': 713, 'summonerLevel': 30, 'revisionDate': 1417319957000L, 'id': 6322, 'name': 'JaydenBug'} 'mostUsedChampion': Soraka  'mostUsedChampion': Soraka  'mostUsedChampion': GAME DATA NOT FOUND 
+{'profileIconId': 5, 'summonerLevel': 30, 'revisionDate': 1417130413000L, 'id': 85918, 'name': 'Silverdick'} 'mostUsedChampion': Soraka  'mostUsedChampion': Soraka  'mostUsedChampion': GAME DATA NOT FOUND 
+{'profileIconId': 7, 'summonerLevel': 30, 'revisionDate': 1399633520000L, 'id': 84200, 'name': 'Ashlen Rose'} 'mostUsedChampion': Soraka  'mostUsedChampion': Soraka  'mostUsedChampion': Soraka 
+{'profileIconId': 582, 'summonerLevel': 30, 'revisionDate': 1414383611000L, 'id': 73817, 'name': 'Touchingmyself'} 'mostUsedChampion': Soraka  'mostUsedChampion': Soraka  'mostUsedChampion': Soraka 
+{'profileIconId': 538, 'summonerLevel': 30, 'revisionDate': 1406909817000L, 'id': 20147, 'name': 'Hawkwood NHA'} 'mostUsedChampion': Soraka  'mostUsedChampion': Soraka  'mostUsedChampion': Soraka 
+{'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1417320299000L, 'id': 8350, 'name': 'Tasty Buiscuts'} 'mostUsedChampion': Soraka  'mostUsedChampion': GAME DATA NOT FOUND  'mostUsedChampion': Soraka 
+{'profileIconId': 664, 'summonerLevel': 30, 'revisionDate': 1411877049000L, 'id': 5005, 'name': 'Mozark'} 'mostUsedChampion': Soraka  'mostUsedChampion': GAME DATA NOT FOUND  'mostUsedChampion': Soraka 
+{'profileIconId': 23, 'summonerLevel': 30, 'revisionDate': 1398221654000L, 'id': 49721, 'name': 'forgotonone'} 'mostUsedChampion': Soraka  'mostUsedChampion': GAME DATA NOT FOUND  'mostUsedChampion': Soraka 
+{'profileIconId': 533, 'summonerLevel': 30, 'revisionDate': 1417235340000L, 'id': 8896, 'name': 'spaz'} 'mostUsedChampion': Soraka  'mostUsedChampion': GAME DATA NOT FOUND  'mostUsedChampion': Soraka 
+{'profileIconId': 712, 'summonerLevel': 30, 'revisionDate': 1417235159000L, 'id': 8115, 'name': 'Eggy'} 'mostUsedChampion': Soraka  'mostUsedChampion': GAME DATA NOT FOUND  'mostUsedChampion': Soraka 
+{'profileIconId': 615, 'summonerLevel': 30, 'revisionDate': 1403658213000L, 'id': 2553, 'name': 'Layesse'} 'mostUsedChampion': Shyvana  'mostUsedChampion': GAME DATA NOT FOUND  'mostUsedChampion': Shyvana 
+{'profileIconId': 687, 'summonerLevel': 30, 'revisionDate': 1416227826000L, 'id': 10830, 'name': 'David Davidson'} 'mostUsedChampion': Shyvana  'mostUsedChampion': GAME DATA NOT FOUND  'mostUsedChampion': Shyvana 
+{'profileIconId': 535, 'summonerLevel': 30, 'revisionDate': 1417240258000L, 'id': 98767, 'name': 'Kephas'} 'mostUsedChampion': Renekton  'mostUsedChampion': Renekton  'mostUsedChampion': GAME DATA NOT FOUND 
+{'profileIconId': 713, 'summonerLevel': 30, 'revisionDate': 1417319957000L, 'id': 6322, 'name': 'JaydenBug'} 'mostUsedChampion': Soraka  'mostUsedChampion': Soraka  'mostUsedChampion': GAME DATA NOT FOUND 
+{'profileIconId': 5, 'summonerLevel': 30, 'revisionDate': 1417130413000L, 'id': 85918, 'name': 'Silverdick'} 'mostUsedChampion': Soraka  'mostUsedChampion': Soraka  'mostUsedChampion': GAME DATA NOT FOUND 
+{'profileIconId': 7, 'summonerLevel': 30, 'revisionDate': 1399633520000L, 'id': 84200, 'name': 'Ashlen Rose'} 'mostUsedChampion': Soraka  'mostUsedChampion': Soraka  'mostUsedChampion': Soraka 
+{'profileIconId': 582, 'summonerLevel': 30, 'revisionDate': 1414383611000L, 'id': 73817, 'name': 'Touchingmyself'} 'mostUsedChampion': Soraka  'mostUsedChampion': Soraka  'mostUsedChampion': Soraka 
+{'profileIconId': 538, 'summonerLevel': 30, 'revisionDate': 1406909817000L, 'id': 20147, 'name': 'Hawkwood NHA'} 'mostUsedChampion': Soraka  'mostUsedChampion': Soraka  'mostUsedChampion': Soraka 
+{'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1417320299000L, 'id': 8350, 'name': 'Tasty Buiscuts'} 'mostUsedChampion': Soraka  'mostUsedChampion': GAME DATA NOT FOUND  'mostUsedChampion': Soraka 
+{'profileIconId': 664, 'summonerLevel': 30, 'revisionDate': 1411877049000L, 'id': 5005, 'name': 'Mozark'} 'mostUsedChampion': Soraka  'mostUsedChampion': GAME DATA NOT FOUND  'mostUsedChampion': Soraka 
+{'profileIconId': 23, 'summonerLevel': 30, 'revisionDate': 1398221654000L, 'id': 49721, 'name': 'forgotonone'} 'mostUsedChampion': Soraka  'mostUsedChampion': GAME DATA NOT FOUND  'mostUsedChampion': Soraka 
+{'profileIconId': 533, 'summonerLevel': 30, 'revisionDate': 1417235340000L, 'id': 8896, 'name': 'spaz'} 'mostUsedChampion': Soraka  'mostUsedChampion': GAME DATA NOT FOUND  'mostUsedChampion': Soraka 
+{'profileIconId': 712, 'summonerLevel': 30, 'revisionDate': 1417235159000L, 'id': 8115, 'name': 'Eggy'} 'mostUsedChampion': Soraka  'mostUsedChampion': GAME DATA NOT FOUND  'mostUsedChampion': Soraka 
+{'profileIconId': 615, 'summonerLevel': 30, 'revisionDate': 1403658213000L, 'id': 2553, 'name': 'Layesse'} 'mostUsedChampion': Shyvana  'mostUsedChampion': GAME DATA NOT FOUND  'mostUsedChampion': Shyvana 
+{'profileIconId': 687, 'summonerLevel': 30, 'revisionDate': 1416227826000L, 'id': 10830, 'name': 'David Davidson'} 'mostUsedChampion': Shyvana  'mostUsedChampion': GAME DATA NOT FOUND  'mostUsedChampion': Shyvana 

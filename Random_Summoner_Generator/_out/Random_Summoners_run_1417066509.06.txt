@@ -1,0 +1,31 @@
+{'profileIconId': 684, 'summonerLevel': 30, 'revisionDate': 1417065823000L, 'id': 3795, 'name': 'cyberzone'} 'mostUsedChampion': Warwick
+{'profileIconId': 713, 'summonerLevel': 30, 'revisionDate': 1417050482000L, 'id': 56241, 'name': 'Aeo for Yayo'} 'mostUsedChampion': Nami
+{'profileIconId': 714, 'summonerLevel': 30, 'revisionDate': 1416678435000L, 'id': 87193, 'name': '12soldierZ'} 'mostUsedChampion': XinZhao
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1415367055000L, 'id': 17876, 'name': 'waltz for jazz'} 'mostUsedChampion': Ezreal
+{'profileIconId': 519, 'summonerLevel': 30, 'revisionDate': 1412928024000L, 'id': 4988, 'name': 'ZXSythe'} 'mostUsedChampion': Ezreal
+{'profileIconId': 506, 'summonerLevel': 30, 'revisionDate': 1416981566000L, 'id': 6698, 'name': 'Latoya'} 'mostUsedChampion': Orianna
+{'profileIconId': 642, 'summonerLevel': 30, 'revisionDate': 1415796661000L, 'id': 4873, 'name': 'CogBias'} 'mostUsedChampion': Pantheon
+{'profileIconId': 683, 'summonerLevel': 30, 'revisionDate': 1416832861000L, 'id': 1566, 'name': 'tayuk'} 'mostUsedChampion': Warwick
+{'profileIconId': 716, 'summonerLevel': 30, 'revisionDate': 1415875581000L, 'id': 7088, 'name': 'snowstriker'} 'mostUsedChampion': Warwick
+{'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1417034256000L, 'id': 16223, 'name': 'Forhigher'} 'mostUsedChampion': Warwick
+{'profileIconId': 661, 'summonerLevel': 30, 'revisionDate': 1417035481000L, 'id': 6382, 'name': 'junkadorino'} 'mostUsedChampion': Zyra
+{'profileIconId': 555, 'summonerLevel': 30, 'revisionDate': 1417064138000L, 'id': 18388, 'name': 'Old Man Eyebrows'} 'mostUsedChampion': Warwick
+{'profileIconId': 12, 'summonerLevel': 30, 'revisionDate': 1415308644000L, 'id': 282516, 'name': 'DeadlyBlood'} 'mostUsedChampion': Warwick
+{'profileIconId': 23, 'summonerLevel': 30, 'revisionDate': 1400959713000L, 'id': 61062, 'name': 'Rottenluck'} 'mostUsedChampion': Soraka
+{'profileIconId': 16, 'summonerLevel': 30, 'revisionDate': 1416993428000L, 'id': 66618, 'name': 'The Magician'} 'mostUsedChampion': Velkoz
+{'profileIconId': 711, 'summonerLevel': 30, 'revisionDate': 1416835794000L, 'id': 7647, 'name': 'hirudinae'} 'mostUsedChampion': Velkoz
+{'profileIconId': 15, 'summonerLevel': 30, 'revisionDate': 1416941362000L, 'id': 103912, 'name': 'Candlejack'} 'mostUsedChampion': Garen
+{'profileIconId': 575, 'summonerLevel': 30, 'revisionDate': 1416983411000L, 'id': 394326, 'name': 'Pr0p4g4t0r'} 'mostUsedChampion': Garen
+{'profileIconId': 518, 'summonerLevel': 30, 'revisionDate': 1408957040000L, 'id': 307017, 'name': 'HyperK2'} 'mostUsedChampion': Lucian
+{'profileIconId': 718, 'summonerLevel': 30, 'revisionDate': 1417037476000L, 'id': 292610, 'name': 'The Faith'} 'mostUsedChampion': Lucian
+{'profileIconId': 673, 'summonerLevel': 30, 'revisionDate': 1417055202000L, 'id': 8383, 'name': 'JessiCatx3'} 'mostUsedChampion': Lucian
+{'profileIconId': 603, 'summonerLevel': 30, 'revisionDate': 1415665786000L, 'id': 6200, 'name': 'Testify Gaming'} 'mostUsedChampion': Lucian
+{'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1416819155000L, 'id': 3886, 'name': 'Skates'} 'mostUsedChampion': Lucian
+{'profileIconId': 711, 'summonerLevel': 30, 'revisionDate': 1416951585000L, 'id': 5315, 'name': 'Kreed'} 'mostUsedChampion': Lucian
+{'profileIconId': 9, 'summonerLevel': 30, 'revisionDate': 1416982558000L, 'id': 7903, 'name': 'Neokorus'} 'mostUsedChampion': Lucian
+{'profileIconId': 580, 'summonerLevel': 30, 'revisionDate': 1396358876000L, 'id': 69992, 'name': 'Ichita'} 'mostUsedChampion': Lucian
+{'profileIconId': 580, 'summonerLevel': 30, 'revisionDate': 1416984853000L, 'id': 9645, 'name': '0ffense'} 'mostUsedChampion': Lucian
+{'profileIconId': 588, 'summonerLevel': 30, 'revisionDate': 1417052477000L, 'id': 2406, 'name': 'Igloopiss'} 'mostUsedChampion': Lucian
+{'profileIconId': 19, 'summonerLevel': 30, 'revisionDate': 1401971969000L, 'id': 29486, 'name': 'Swervinmonks'} 'mostUsedChampion': Lucian
+{'profileIconId': 659, 'summonerLevel': 30, 'revisionDate': 1417067005000L, 'id': 7512, 'name': 'vVv Starman'} 'mostUsedChampion': Lucian
+{'profileIconId': 673, 'summonerLevel': 30, 'revisionDate': 1413758797000L, 'id': 39356, 'name': 'Degar'} 'mostUsedChampion': Lucian

@@ -1,2 +1,1 @@
-{'profileIconId': 718, 'summonerLevel': 30, 'revisionDate': 1416669796000L, 'id': 3908, 'name': 'Sillyllamas'} 'mostUsedChampion': Blitzcrank 
 {'profileIconId': 718, 'summonerLevel': 30, 'revisionDate': 1416669796000L, 'id': 3908, 'name': 'Sillyllamas'}

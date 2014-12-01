@@ -1,0 +1,99 @@
+{'profileIconId': 712, 'summonerLevel': 30, 'revisionDate': 1416997135000L, 'id': 9138, 'name': 'enbr'} 'mostUsedChampion': Rengar
+{'profileIconId': 593, 'summonerLevel': 30, 'revisionDate': 1417046050000L, 'id': 546040, 'name': 'TheNightbearer'} 'mostUsedChampion': Rengar
+{'profileIconId': 712, 'summonerLevel': 30, 'revisionDate': 1416997135000L, 'id': 9138, 'name': 'enbr'} 'mostUsedChampion': Rengar
+{'profileIconId': 593, 'summonerLevel': 30, 'revisionDate': 1417046050000L, 'id': 546040, 'name': 'TheNightbearer'} 'mostUsedChampion': Rengar
+{'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1416466310000L, 'id': 5872, 'name': 'jyamubean'} 'mostUsedChampion': DrMundo
+{'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1416466310000L, 'id': 5872, 'name': 'jyamubean'} 'mostUsedChampion': DrMundo
+{'profileIconId': 7, 'summonerLevel': 30, 'revisionDate': 1416767172000L, 'id': 86727, 'name': 'Favortizm'} 'mostUsedChampion': Syndra
+{'profileIconId': 540, 'summonerLevel': 30, 'revisionDate': 1402919214000L, 'id': 48328, 'name': 'Altourus'} 'mostUsedChampion': Syndra
+{'profileIconId': 687, 'summonerLevel': 30, 'revisionDate': 1417061475000L, 'id': 1550, 'name': 'Shadowrayn'} 'mostUsedChampion': Syndra
+{'profileIconId': 508, 'summonerLevel': 30, 'revisionDate': 1417054264000L, 'id': 2726, 'name': 'smartaleq'} 'mostUsedChampion': Rammus
+{'profileIconId': 658, 'summonerLevel': 30, 'revisionDate': 1416920478000L, 'id': 9348, 'name': 'Shikuya'} 'mostUsedChampion': Rammus
+{'profileIconId': 713, 'summonerLevel': 30, 'revisionDate': 1417025267000L, 'id': 7993, 'name': 'Riot Aeon'} 'mostUsedChampion': Nocturne
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1416971082000L, 'id': 6677, 'name': 'betakyros'} 'mostUsedChampion': Nocturne
+{'profileIconId': 659, 'summonerLevel': 30, 'revisionDate': 1416670427000L, 'id': 8601, 'name': 'Magus'} 'mostUsedChampion': Nocturne
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1416788539000L, 'id': 281310, 'name': 'AJMC'} 'mostUsedChampion': Nocturne
+{'profileIconId': 712, 'summonerLevel': 30, 'revisionDate': 1417057617000L, 'id': 16174, 'name': 'Eish'} 'mostUsedChampion': Nocturne
+{'profileIconId': 7, 'summonerLevel': 30, 'revisionDate': 1416767172000L, 'id': 86727, 'name': 'Favortizm'} 'mostUsedChampion': Syndra
+{'profileIconId': 540, 'summonerLevel': 30, 'revisionDate': 1402919214000L, 'id': 48328, 'name': 'Altourus'} 'mostUsedChampion': Syndra
+{'profileIconId': 687, 'summonerLevel': 30, 'revisionDate': 1417061475000L, 'id': 1550, 'name': 'Shadowrayn'} 'mostUsedChampion': Syndra
+{'profileIconId': 508, 'summonerLevel': 30, 'revisionDate': 1417054264000L, 'id': 2726, 'name': 'smartaleq'} 'mostUsedChampion': Rammus
+{'profileIconId': 658, 'summonerLevel': 30, 'revisionDate': 1416920478000L, 'id': 9348, 'name': 'Shikuya'} 'mostUsedChampion': Rammus
+{'profileIconId': 713, 'summonerLevel': 30, 'revisionDate': 1417025267000L, 'id': 7993, 'name': 'Riot Aeon'} 'mostUsedChampion': Nocturne
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1416971082000L, 'id': 6677, 'name': 'betakyros'} 'mostUsedChampion': Nocturne
+{'profileIconId': 659, 'summonerLevel': 30, 'revisionDate': 1416670427000L, 'id': 8601, 'name': 'Magus'} 'mostUsedChampion': Nocturne
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1416788539000L, 'id': 281310, 'name': 'AJMC'} 'mostUsedChampion': Nocturne
+{'profileIconId': 712, 'summonerLevel': 30, 'revisionDate': 1417057617000L, 'id': 16174, 'name': 'Eish'} 'mostUsedChampion': Nocturne
+{'profileIconId': 603, 'summonerLevel': 30, 'revisionDate': 1416663508000L, 'id': 9875, 'name': 'Null Pointer'} 'mostUsedChampion': Elise 
+{'profileIconId': 715, 'summonerLevel': 30, 'revisionDate': 1416959662000L, 'id': 2177, 'name': 'iLLee7'} 'mostUsedChampion': Elise 
+{'profileIconId': 654, 'summonerLevel': 30, 'revisionDate': 1400696306000L, 'id': 65723, 'name': 'Stokes'} 'mostUsedChampion': Elise 
+{'profileIconId': 715, 'summonerLevel': 30, 'revisionDate': 1416978170000L, 'id': 56946, 'name': 'lonekthx'} 'mostUsedChampion': Elise 
+{'profileIconId': 536, 'summonerLevel': 30, 'revisionDate': 1408029528000L, 'id': 2434, 'name': 'Mavada'} 'mostUsedChampion': Elise 
+{'profileIconId': 7, 'summonerLevel': 30, 'revisionDate': 1416158164000L, 'id': 4223, 'name': 'Spencer'} 'mostUsedChampion': Elise 
+{'profileIconId': 605, 'summonerLevel': 30, 'revisionDate': 1414232619000L, 'id': 4255, 'name': 'Ryoshi'} 'mostUsedChampion': Elise 
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1415976746000L, 'id': 12089, 'name': 'Noobie'} 'mostUsedChampion': Elise 
+{'profileIconId': 23, 'summonerLevel': 30, 'revisionDate': 1414891375000L, 'id': 5118, 'name': 'popo'} 'mostUsedChampion': Elise 
+{'profileIconId': 685, 'summonerLevel': 30, 'revisionDate': 1415586302000L, 'id': 214442, 'name': 'Adeodatus'} 'mostUsedChampion': Elise 
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1407799992000L, 'id': 1544, 'name': 'muffinman'} 'mostUsedChampion': Elise 
+{'profileIconId': 4, 'summonerLevel': 30, 'revisionDate': 1415258061000L, 'id': 6032, 'name': 'Meraxes'} 'mostUsedChampion': Elise 
+{'profileIconId': 658, 'summonerLevel': 30, 'revisionDate': 1414206452000L, 'id': 5115, 'name': 'Ultimatum'} 'mostUsedChampion': Elise 
+{'profileIconId': 21, 'summonerLevel': 30, 'revisionDate': 1417035494000L, 'id': 126311, 'name': 'Emortal'} 'mostUsedChampion': Elise 
+{'profileIconId': 508, 'summonerLevel': 30, 'revisionDate': 1417051640000L, 'id': 3210, 'name': 'Frozt'} 'mostUsedChampion': Elise 
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1416069654000L, 'id': 5926, 'name': 'Sparro'} 'mostUsedChampion': Elise 
+{'profileIconId': 716, 'summonerLevel': 30, 'revisionDate': 1415875581000L, 'id': 7088, 'name': 'snowstriker'} 'mostUsedChampion': Elise 
+{'profileIconId': 5, 'summonerLevel': 30, 'revisionDate': 1417052578000L, 'id': 7539, 'name': 'Winter Soldier'} 'mostUsedChampion': Elise 
+{'profileIconId': 562, 'summonerLevel': 30, 'revisionDate': 1416538376000L, 'id': 5854, 'name': 'Aevin'} 'mostUsedChampion': Elise 
+{'profileIconId': 603, 'summonerLevel': 30, 'revisionDate': 1415980845000L, 'id': 60778, 'name': 'Suikots'} 'mostUsedChampion': Elise 
+{'profileIconId': 642, 'summonerLevel': 30, 'revisionDate': 1416404477000L, 'id': 8723, 'name': 'jeffay'} 'mostUsedChampion': Elise 
+{'profileIconId': 577, 'summonerLevel': 30, 'revisionDate': 1402057846000L, 'id': 527797, 'name': 'fattymalone'} 'mostUsedChampion': Elise 
+{'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1415606409000L, 'id': 5270, 'name': 'Gogey'} 'mostUsedChampion': Elise 
+{'profileIconId': 665, 'summonerLevel': 30, 'revisionDate': 1405476478000L, 'id': 9672, 'name': 'Trick2Rick'} 'mostUsedChampion': Elise 
+{'profileIconId': 550, 'summonerLevel': 30, 'revisionDate': 1411200945000L, 'id': 36251, 'name': 'Unrivaled'} 'mostUsedChampion': Elise 
+{'profileIconId': 547, 'summonerLevel': 30, 'revisionDate': 1400246857000L, 'id': 2527, 'name': 'Dromars'} 'mostUsedChampion': Elise 
+{'profileIconId': 23, 'summonerLevel': 30, 'revisionDate': 1416928680000L, 'id': 8443, 'name': '2MLGJavale McGee'} 'mostUsedChampion': Elise 
+{'profileIconId': 657, 'summonerLevel': 30, 'revisionDate': 1416970492000L, 'id': 78821, 'name': 'EFINI408'} 'mostUsedChampion': Elise 
+{'profileIconId': 603, 'summonerLevel': 30, 'revisionDate': 1416663508000L, 'id': 9875, 'name': 'Null Pointer'} 'mostUsedChampion': Elise 
+{'profileIconId': 715, 'summonerLevel': 30, 'revisionDate': 1416959662000L, 'id': 2177, 'name': 'iLLee7'} 'mostUsedChampion': Elise 
+{'profileIconId': 654, 'summonerLevel': 30, 'revisionDate': 1400696306000L, 'id': 65723, 'name': 'Stokes'} 'mostUsedChampion': Elise 
+{'profileIconId': 715, 'summonerLevel': 30, 'revisionDate': 1416978170000L, 'id': 56946, 'name': 'lonekthx'} 'mostUsedChampion': Elise 
+{'profileIconId': 536, 'summonerLevel': 30, 'revisionDate': 1408029528000L, 'id': 2434, 'name': 'Mavada'} 'mostUsedChampion': Elise 
+{'profileIconId': 7, 'summonerLevel': 30, 'revisionDate': 1416158164000L, 'id': 4223, 'name': 'Spencer'} 'mostUsedChampion': Elise 
+{'profileIconId': 605, 'summonerLevel': 30, 'revisionDate': 1414232619000L, 'id': 4255, 'name': 'Ryoshi'} 'mostUsedChampion': Elise 
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1415976746000L, 'id': 12089, 'name': 'Noobie'} 'mostUsedChampion': Elise 
+{'profileIconId': 23, 'summonerLevel': 30, 'revisionDate': 1414891375000L, 'id': 5118, 'name': 'popo'} 'mostUsedChampion': Elise 
+{'profileIconId': 685, 'summonerLevel': 30, 'revisionDate': 1415586302000L, 'id': 214442, 'name': 'Adeodatus'} 'mostUsedChampion': Elise 
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1407799992000L, 'id': 1544, 'name': 'muffinman'} 'mostUsedChampion': Elise 
+{'profileIconId': 4, 'summonerLevel': 30, 'revisionDate': 1415258061000L, 'id': 6032, 'name': 'Meraxes'} 'mostUsedChampion': Elise 
+{'profileIconId': 658, 'summonerLevel': 30, 'revisionDate': 1414206452000L, 'id': 5115, 'name': 'Ultimatum'} 'mostUsedChampion': Elise 
+{'profileIconId': 21, 'summonerLevel': 30, 'revisionDate': 1417035494000L, 'id': 126311, 'name': 'Emortal'} 'mostUsedChampion': Elise 
+{'profileIconId': 508, 'summonerLevel': 30, 'revisionDate': 1417051640000L, 'id': 3210, 'name': 'Frozt'} 'mostUsedChampion': Elise 
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1416069654000L, 'id': 5926, 'name': 'Sparro'} 'mostUsedChampion': Elise 
+{'profileIconId': 716, 'summonerLevel': 30, 'revisionDate': 1415875581000L, 'id': 7088, 'name': 'snowstriker'} 'mostUsedChampion': Elise 
+{'profileIconId': 5, 'summonerLevel': 30, 'revisionDate': 1417052578000L, 'id': 7539, 'name': 'Winter Soldier'} 'mostUsedChampion': Elise 
+{'profileIconId': 562, 'summonerLevel': 30, 'revisionDate': 1416538376000L, 'id': 5854, 'name': 'Aevin'} 'mostUsedChampion': Elise 
+{'profileIconId': 603, 'summonerLevel': 30, 'revisionDate': 1415980845000L, 'id': 60778, 'name': 'Suikots'} 'mostUsedChampion': Elise 
+{'profileIconId': 642, 'summonerLevel': 30, 'revisionDate': 1416404477000L, 'id': 8723, 'name': 'jeffay'} 'mostUsedChampion': Elise 
+{'profileIconId': 577, 'summonerLevel': 30, 'revisionDate': 1402057846000L, 'id': 527797, 'name': 'fattymalone'} 'mostUsedChampion': Elise 
+{'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1415606409000L, 'id': 5270, 'name': 'Gogey'} 'mostUsedChampion': Elise 
+{'profileIconId': 665, 'summonerLevel': 30, 'revisionDate': 1405476478000L, 'id': 9672, 'name': 'Trick2Rick'} 'mostUsedChampion': Elise 
+{'profileIconId': 550, 'summonerLevel': 30, 'revisionDate': 1411200945000L, 'id': 36251, 'name': 'Unrivaled'} 'mostUsedChampion': Elise 
+{'profileIconId': 547, 'summonerLevel': 30, 'revisionDate': 1400246857000L, 'id': 2527, 'name': 'Dromars'} 'mostUsedChampion': Elise 
+{'profileIconId': 23, 'summonerLevel': 30, 'revisionDate': 1416928680000L, 'id': 8443, 'name': '2MLGJavale McGee'} 'mostUsedChampion': Elise 
+{'profileIconId': 657, 'summonerLevel': 30, 'revisionDate': 1416970492000L, 'id': 78821, 'name': 'EFINI408'} 'mostUsedChampion': Elise
+{'profileIconId': 716, 'summonerLevel': 30, 'revisionDate': 1416711263000L, 'id': 153855, 'name': 'znac'} 'mostUsedChampion': LeeSin
+{'profileIconId': 588, 'summonerLevel': 30, 'revisionDate': 1416899373000L, 'id': 411137, 'name': 'rukibah'} 'mostUsedChampion': LeeSin
+{'profileIconId': 579, 'summonerLevel': 30, 'revisionDate': 1416808022000L, 'id': 96092, 'name': 'PHANT0MFACE'} 'mostUsedChampion': LeeSin
+{'profileIconId': 713, 'summonerLevel': 30, 'revisionDate': 1416990658000L, 'id': 5229, 'name': 'Trystral'} 'mostUsedChampion': LeeSin
+{'profileIconId': 654, 'summonerLevel': 30, 'revisionDate': 1410609525000L, 'id': 69711, 'name': 'Yardsale'} 'mostUsedChampion': LeeSin
+{'profileIconId': 9, 'summonerLevel': 30, 'revisionDate': 1417023747000L, 'id': 2366, 'name': 'Naukan'} 'mostUsedChampion': Warwick
+{'profileIconId': 673, 'summonerLevel': 30, 'revisionDate': 1414929865000L, 'id': 8351, 'name': 'Xehnon'} 'mostUsedChampion': Ezreal
+{'profileIconId': 715, 'summonerLevel': 30, 'revisionDate': 1415796035000L, 'id': 42741, 'name': 'burke'} 'mostUsedChampion': Ezreal
+{'profileIconId': 693, 'summonerLevel': 30, 'revisionDate': 1416776250000L, 'id': 166158, 'name': 'Kosaka'} 'mostUsedChampion': Ezreal
+{'profileIconId': 23, 'summonerLevel': 30, 'revisionDate': 1399373744000L, 'id': 2486, 'name': 'BRAHCANT'} 'mostUsedChampion': Ezreal
+{'profileIconId': 508, 'summonerLevel': 30, 'revisionDate': 1415202659000L, 'id': 209261, 'name': 'Deschain'} 'mostUsedChampion': Ezreal
+{'profileIconId': 657, 'summonerLevel': 30, 'revisionDate': 1416980605000L, 'id': 6257, 'name': 'Reaper'} 'mostUsedChampion': Ezreal
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1415538076000L, 'id': 52890, 'name': 'Kaes'} 'mostUsedChampion': Ezreal
+{'profileIconId': 21, 'summonerLevel': 30, 'revisionDate': 1416914734000L, 'id': 83106, 'name': 'kumakhwara'} 'mostUsedChampion': Udyr
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1415447785000L, 'id': 6246, 'name': 'Im Sorry IV'} 'mostUsedChampion': Udyr
+{'profileIconId': 36, 'summonerLevel': 30, 'revisionDate': 1409066214000L, 'id': 2638, 'name': 'Crip'} 'mostUsedChampion': Udyr
+{'profileIconId': 659, 'summonerLevel': 30, 'revisionDate': 1416721923000L, 'id': 35641, 'name': 'tn5421'} 'mostUsedChampion': Udyr

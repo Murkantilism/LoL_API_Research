@@ -1,0 +1,42 @@
+{'profileIconId': 10, 'summonerLevel': 30, 'revisionDate': 1416835450000L, 'id': 53700, 'name': 'TheRiver'} 'mostUsedChampion': Xerath 
+{'profileIconId': 3, 'summonerLevel': 30, 'revisionDate': 1411730079000L, 'id': 7228, 'name': 'dioke'} 'mostUsedChampion': Xerath 
+{'profileIconId': 589, 'summonerLevel': 30, 'revisionDate': 1416819136000L, 'id': 544231, 'name': 'Techfall'} 'mostUsedChampion': Malphite 
+{'profileIconId': 538, 'summonerLevel': 30, 'revisionDate': 1416837520000L, 'id': 5093, 'name': '13atman'} 'mostUsedChampion': Malphite 
+{'profileIconId': 605, 'summonerLevel': 30, 'revisionDate': 1410265091000L, 'id': 3037, 'name': 'Furtivo'} 'mostUsedChampion': Fizz 
+{'profileIconId': 715, 'summonerLevel': 30, 'revisionDate': 1416750499000L, 'id': 341552, 'name': 'BastardinaBasket'} 'mostUsedChampion': MonkeyKing 
+{'profileIconId': 5, 'summonerLevel': 30, 'revisionDate': 1407131340000L, 'id': 95989, 'name': 'The Waffler'} 'mostUsedChampion': MonkeyKing 
+{'profileIconId': 18, 'summonerLevel': 30, 'revisionDate': 1416841230000L, 'id': 4543, 'name': 'Zingerpinger'} 'mostUsedChampion': MonkeyKing 
+{'profileIconId': 535, 'summonerLevel': 30, 'revisionDate': 1416752209000L, 'id': 3827, 'name': 'Heyo'} 'mostUsedChampion': MonkeyKing 
+{'profileIconId': 534, 'summonerLevel': 30, 'revisionDate': 1416718408000L, 'id': 9870, 'name': 'instakiller'} 'mostUsedChampion': MonkeyKing 
+{'profileIconId': 554, 'summonerLevel': 30, 'revisionDate': 1416138177000L, 'id': 31922, 'name': 'Stormeye'} 'mostUsedChampion': MonkeyKing 
+{'profileIconId': 23, 'summonerLevel': 30, 'revisionDate': 1416844809000L, 'id': 8691, 'name': 'NeoDharma'} 'mostUsedChampion': JarvanIV 
+{'profileIconId': 664, 'summonerLevel': 30, 'revisionDate': 1416671665000L, 'id': 2722, 'name': 'OnePunchSaitama'} 'mostUsedChampion': JarvanIV 
+{'profileIconId': 709, 'summonerLevel': 30, 'revisionDate': 1415845749000L, 'id': 39417, 'name': 'damitdang'} 'mostUsedChampion': JarvanIV 
+{'profileIconId': 585, 'summonerLevel': 30, 'revisionDate': 1415799722000L, 'id': 1925, 'name': 'zYn'} 'mostUsedChampion': JarvanIV 
+{'profileIconId': 546, 'summonerLevel': 30, 'revisionDate': 1414765739000L, 'id': 15427, 'name': 'Aol Hangover'} 'mostUsedChampion': JarvanIV 
+{'profileIconId': 713, 'summonerLevel': 30, 'revisionDate': 1416821462000L, 'id': 538250, 'name': 'xpliowars'} 'mostUsedChampion': JarvanIV 
+{'profileIconId': 660, 'summonerLevel': 30, 'revisionDate': 1416816385000L, 'id': 3279, 'name': 'Takhuan'} 'mostUsedChampion': Warwick 
+{'profileIconId': 505, 'summonerLevel': 30, 'revisionDate': 1416401388000L, 'id': 92803, 'name': 'Casmir Calhoun'} 'mostUsedChampion': Warwick 
+{'profileIconId': 10, 'summonerLevel': 30, 'revisionDate': 1407248834000L, 'id': 5988, 'name': 'Zokrao'} 'mostUsedChampion': Warwick 
+{'profileIconId': 607, 'summonerLevel': 30, 'revisionDate': 1416546358000L, 'id': 4895, 'name': 'Mattamer'} 'mostUsedChampion': Warwick 
+{'profileIconId': 10, 'summonerLevel': 30, 'revisionDate': 1416835450000L, 'id': 53700, 'name': 'TheRiver'} 'mostUsedChampion': Xerath 
+{'profileIconId': 3, 'summonerLevel': 30, 'revisionDate': 1411730079000L, 'id': 7228, 'name': 'dioke'} 'mostUsedChampion': Xerath 
+{'profileIconId': 589, 'summonerLevel': 30, 'revisionDate': 1416819136000L, 'id': 544231, 'name': 'Techfall'} 'mostUsedChampion': Malphite 
+{'profileIconId': 538, 'summonerLevel': 30, 'revisionDate': 1416837520000L, 'id': 5093, 'name': '13atman'} 'mostUsedChampion': Malphite 
+{'profileIconId': 605, 'summonerLevel': 30, 'revisionDate': 1410265091000L, 'id': 3037, 'name': 'Furtivo'} 'mostUsedChampion': Fizz 
+{'profileIconId': 715, 'summonerLevel': 30, 'revisionDate': 1416750499000L, 'id': 341552, 'name': 'BastardinaBasket'} 'mostUsedChampion': MonkeyKing 
+{'profileIconId': 5, 'summonerLevel': 30, 'revisionDate': 1407131340000L, 'id': 95989, 'name': 'The Waffler'} 'mostUsedChampion': MonkeyKing 
+{'profileIconId': 18, 'summonerLevel': 30, 'revisionDate': 1416841230000L, 'id': 4543, 'name': 'Zingerpinger'} 'mostUsedChampion': MonkeyKing 
+{'profileIconId': 535, 'summonerLevel': 30, 'revisionDate': 1416752209000L, 'id': 3827, 'name': 'Heyo'} 'mostUsedChampion': MonkeyKing 
+{'profileIconId': 534, 'summonerLevel': 30, 'revisionDate': 1416718408000L, 'id': 9870, 'name': 'instakiller'} 'mostUsedChampion': MonkeyKing 
+{'profileIconId': 554, 'summonerLevel': 30, 'revisionDate': 1416138177000L, 'id': 31922, 'name': 'Stormeye'} 'mostUsedChampion': MonkeyKing 
+{'profileIconId': 23, 'summonerLevel': 30, 'revisionDate': 1416844809000L, 'id': 8691, 'name': 'NeoDharma'} 'mostUsedChampion': JarvanIV 
+{'profileIconId': 664, 'summonerLevel': 30, 'revisionDate': 1416671665000L, 'id': 2722, 'name': 'OnePunchSaitama'} 'mostUsedChampion': JarvanIV 
+{'profileIconId': 709, 'summonerLevel': 30, 'revisionDate': 1415845749000L, 'id': 39417, 'name': 'damitdang'} 'mostUsedChampion': JarvanIV 
+{'profileIconId': 585, 'summonerLevel': 30, 'revisionDate': 1415799722000L, 'id': 1925, 'name': 'zYn'} 'mostUsedChampion': JarvanIV 
+{'profileIconId': 546, 'summonerLevel': 30, 'revisionDate': 1414765739000L, 'id': 15427, 'name': 'Aol Hangover'} 'mostUsedChampion': JarvanIV 
+{'profileIconId': 713, 'summonerLevel': 30, 'revisionDate': 1416821462000L, 'id': 538250, 'name': 'xpliowars'} 'mostUsedChampion': JarvanIV 
+{'profileIconId': 660, 'summonerLevel': 30, 'revisionDate': 1416816385000L, 'id': 3279, 'name': 'Takhuan'} 'mostUsedChampion': Warwick 
+{'profileIconId': 505, 'summonerLevel': 30, 'revisionDate': 1416401388000L, 'id': 92803, 'name': 'Casmir Calhoun'} 'mostUsedChampion': Warwick 
+{'profileIconId': 10, 'summonerLevel': 30, 'revisionDate': 1407248834000L, 'id': 5988, 'name': 'Zokrao'} 'mostUsedChampion': Warwick 
+{'profileIconId': 607, 'summonerLevel': 30, 'revisionDate': 1416546358000L, 'id': 4895, 'name': 'Mattamer'} 'mostUsedChampion': Warwick 

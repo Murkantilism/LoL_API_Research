@@ -132,7 +132,7 @@ def Write_League_Data(_id):
     # Cull all extraneous u' characters (leaving ' character)
     my_league = re.sub(r"([u]+['])", r"'", str(my_league))
 
-    f = open('Leage_Data', 'w')
+    f = open('League_Data', 'w')
     f.write(str(my_league))
     f.close()
 

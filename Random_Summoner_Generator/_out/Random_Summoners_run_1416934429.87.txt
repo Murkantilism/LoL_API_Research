@@ -1,0 +1,46 @@
+{'profileIconId': 505, 'summonerLevel': 30, 'revisionDate': 1416891755000L, 'id': 53229, 'name': 'linstar'} 'mostUsedChampion': Tristana 
+{'profileIconId': 712, 'summonerLevel': 30, 'revisionDate': 1416930875000L, 'id': 126643, 'name': 'JTuck25'} 'mostUsedChampion': LeeSin 
+{'profileIconId': 665, 'summonerLevel': 30, 'revisionDate': 1416686289000L, 'id': 6256, 'name': 'Geckoz'} 'mostUsedChampion': Kassadin 
+{'profileIconId': 588, 'summonerLevel': 30, 'revisionDate': 1390391453000L, 'id': 1655, 'name': 'Kekko'} 'mostUsedChampion': Kassadin 
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1392772349000L, 'id': 606992, 'name': 'Bearmang'} 'mostUsedChampion': Kassadin 
+{'profileIconId': 522, 'summonerLevel': 30, 'revisionDate': 1415633095000L, 'id': 1682, 'name': 'Provoke'} 'mostUsedChampion': Khazix 
+{'profileIconId': 580, 'summonerLevel': 30, 'revisionDate': 1415112548000L, 'id': 2338, 'name': 'Lolzorr'} 'mostUsedChampion': Khazix 
+{'profileIconId': 683, 'summonerLevel': 30, 'revisionDate': 1416895344000L, 'id': 2540, 'name': 'Planeswalker'} 'mostUsedChampion': Khazix 
+{'profileIconId': 687, 'summonerLevel': 30, 'revisionDate': 1416083457000L, 'id': 33525, 'name': 'Cuedadar'} 'mostUsedChampion': Khazix 
+{'profileIconId': 10, 'summonerLevel': 30, 'revisionDate': 1416657673000L, 'id': 2075, 'name': 'LTTelamon'} 'mostUsedChampion': Khazix 
+{'profileIconId': 659, 'summonerLevel': 30, 'revisionDate': 1416774289000L, 'id': 6651, 'name': 'Heroin Shooter'} 'mostUsedChampion': Khazix 
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1408615704000L, 'id': 13022, 'name': 'zaza'} 'mostUsedChampion': Khazix 
+{'profileIconId': 22, 'summonerLevel': 30, 'revisionDate': 1416559933000L, 'id': 57780, 'name': 'shoesama'} 'mostUsedChampion': Tristana 
+{'profileIconId': 607, 'summonerLevel': 30, 'revisionDate': 1415965734000L, 'id': 32796, 'name': 'DatSmurfizzle'} 'mostUsedChampion': Tristana 
+{'profileIconId': 24, 'summonerLevel': 30, 'revisionDate': 1416632321000L, 'id': 20243, 'name': 'Jhabberwoky'} 'mostUsedChampion': Tristana 
+{'profileIconId': 22, 'summonerLevel': 30, 'revisionDate': 1416901987000L, 'id': 5335, 'name': 'The Black Fog'} 'mostUsedChampion': Tristana 
+{'profileIconId': 502, 'summonerLevel': 30, 'revisionDate': 1416894982000L, 'id': 1997, 'name': 'Shinovi Versus'} 'mostUsedChampion': Tristana 
+{'profileIconId': 522, 'summonerLevel': 30, 'revisionDate': 1415056448000L, 'id': 5559, 'name': 'asdf7389'} 'mostUsedChampion': Tristana 
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1416226628000L, 'id': 291635, 'name': 'BradtheMan'} 'mostUsedChampion': Tristana 
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1416034444000L, 'id': 457834, 'name': 'Bowaka'} 'mostUsedChampion': Tristana 
+{'profileIconId': 715, 'summonerLevel': 30, 'revisionDate': 1416921050000L, 'id': 2177, 'name': 'iLLee7'} 'mostUsedChampion': Tristana 
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1416323470000L, 'id': 1172, 'name': 'Le3t'} 'mostUsedChampion': Tristana 
+{'profileIconId': 603, 'summonerLevel': 30, 'revisionDate': 1416893612000L, 'id': 23469, 'name': 'Morose'} 'mostUsedChampion': Tristana 
+{'profileIconId': 505, 'summonerLevel': 30, 'revisionDate': 1416891755000L, 'id': 53229, 'name': 'linstar'} 'mostUsedChampion': Tristana
+{'profileIconId': 712, 'summonerLevel': 30, 'revisionDate': 1416930875000L, 'id': 126643, 'name': 'JTuck25'} 'mostUsedChampion': LeeSin 
+{'profileIconId': 665, 'summonerLevel': 30, 'revisionDate': 1416686289000L, 'id': 6256, 'name': 'Geckoz'} 'mostUsedChampion': Kassadin 
+{'profileIconId': 588, 'summonerLevel': 30, 'revisionDate': 1390391453000L, 'id': 1655, 'name': 'Kekko'} 'mostUsedChampion': Kassadin 
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1392772349000L, 'id': 606992, 'name': 'Bearmang'} 'mostUsedChampion': Kassadin 
+{'profileIconId': 522, 'summonerLevel': 30, 'revisionDate': 1415633095000L, 'id': 1682, 'name': 'Provoke'} 'mostUsedChampion': Khazix 
+{'profileIconId': 580, 'summonerLevel': 30, 'revisionDate': 1415112548000L, 'id': 2338, 'name': 'Lolzorr'} 'mostUsedChampion': Khazix 
+{'profileIconId': 683, 'summonerLevel': 30, 'revisionDate': 1416895344000L, 'id': 2540, 'name': 'Planeswalker'} 'mostUsedChampion': Khazix 
+{'profileIconId': 687, 'summonerLevel': 30, 'revisionDate': 1416083457000L, 'id': 33525, 'name': 'Cuedadar'} 'mostUsedChampion': Khazix 
+{'profileIconId': 10, 'summonerLevel': 30, 'revisionDate': 1416657673000L, 'id': 2075, 'name': 'LTTelamon'} 'mostUsedChampion': Khazix 
+{'profileIconId': 659, 'summonerLevel': 30, 'revisionDate': 1416774289000L, 'id': 6651, 'name': 'Heroin Shooter'} 'mostUsedChampion': Khazix 
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1408615704000L, 'id': 13022, 'name': 'zaza'} 'mostUsedChampion': Khazix 
+{'profileIconId': 22, 'summonerLevel': 30, 'revisionDate': 1416559933000L, 'id': 57780, 'name': 'shoesama'} 'mostUsedChampion': Tristana 
+{'profileIconId': 607, 'summonerLevel': 30, 'revisionDate': 1415965734000L, 'id': 32796, 'name': 'DatSmurfizzle'} 'mostUsedChampion': Tristana 
+{'profileIconId': 24, 'summonerLevel': 30, 'revisionDate': 1416632321000L, 'id': 20243, 'name': 'Jhabberwoky'} 'mostUsedChampion': Tristana 
+{'profileIconId': 22, 'summonerLevel': 30, 'revisionDate': 1416901987000L, 'id': 5335, 'name': 'The Black Fog'} 'mostUsedChampion': Tristana 
+{'profileIconId': 502, 'summonerLevel': 30, 'revisionDate': 1416894982000L, 'id': 1997, 'name': 'Shinovi Versus'} 'mostUsedChampion': Tristana 
+{'profileIconId': 522, 'summonerLevel': 30, 'revisionDate': 1415056448000L, 'id': 5559, 'name': 'asdf7389'} 'mostUsedChampion': Tristana 
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1416226628000L, 'id': 291635, 'name': 'BradtheMan'} 'mostUsedChampion': Tristana 
+{'profileIconId': 28, 'summonerLevel': 30, 'revisionDate': 1416034444000L, 'id': 457834, 'name': 'Bowaka'} 'mostUsedChampion': Tristana 
+{'profileIconId': 715, 'summonerLevel': 30, 'revisionDate': 1416921050000L, 'id': 2177, 'name': 'iLLee7'} 'mostUsedChampion': Tristana 
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1416323470000L, 'id': 1172, 'name': 'Le3t'} 'mostUsedChampion': Tristana 
+{'profileIconId': 603, 'summonerLevel': 30, 'revisionDate': 1416893612000L, 'id': 23469, 'name': 'Morose'} 'mostUsedChampion': Tristana

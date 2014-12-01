@@ -19,6 +19,7 @@ def main():
     args = parser.parse_args()
 
     print vars(args).values()
+    #outputLocation = '_out/Compiled_Summoners'
     outputLocation = vars(args).values()[0]
 
 
@@ -68,7 +69,7 @@ def main():
 
     # Write the non-duplicates to main file
     f = open(outputLocation+".txt", 'a')
-    f.write("==========================================================")
+    f.write("===============================================================\n")
     for summoner in no_dups_lo_summoners:
         f.write(summoner)
 

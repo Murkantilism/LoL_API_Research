@@ -16,6 +16,4 @@
 {'profileIconId': 709, 'summonerLevel': 30, 'revisionDate': 1415880910000L, 'id': 89374, 'name': 'Delnare'} 'mostUsedChampion': Lissandra 
 {'profileIconId': 663, 'summonerLevel': 30, 'revisionDate': 1416553680000L, 'id': 14388, 'name': 'Its Sunday Mang'} 'mostUsedChampion': Ezreal 
 {'profileIconId': 660, 'summonerLevel': 30, 'revisionDate': 1416555272000L, 'id': 4843, 'name': 'melek'} 'mostUsedChampion': Teemo 
-{'profileIconId': 716, 'summonerLevel': 30, 'revisionDate': 1416470956000L, 'id': 7048, 'name': 'Anthra'} 'mostUsedChampion': Teemo 
-{'profileIconId': 20, 'summonerLevel': 30, 'revisionDate': 1378316614000L, 'id': 4192, 'name': 'Nachturnus'}
-{'profileIconId': -1, 'summonerLevel': 30, 'revisionDate': 1389819601000L, 'id': 5601, 'name': 'v1A295criw'}
+{'profileIconId': 716, 'summonerLevel': 30, 'revisionDate': 1416470956000L, 'id': 7048, 'name': 'Anthra'} 'mostUsedChampion': Teemo
