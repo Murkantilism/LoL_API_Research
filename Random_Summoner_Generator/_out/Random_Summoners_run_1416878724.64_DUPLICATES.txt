@@ -1,4 +1,0 @@
-{'profileIconId': 16, 'summonerLevel': 30, 'revisionDate': 1370835005000L, 'id': 2545, 'name': 'Machina'} 'mostUsedChampion': GAME DATA NOT FOUND  'mostUsedChampion': GAME DATA NOT FOUND 
-{'profileIconId': 16, 'summonerLevel': 30, 'revisionDate': 1370835005000L, 'id': 2545, 'name': 'Machina'} 'mostUsedChampion': GAME DATA NOT FOUND  'mostUsedChampion': GAME DATA NOT FOUND 
-{'profileIconId': 664, 'summonerLevel': 30, 'revisionDate': 1406435886000L, 'id': 7410, 'name': 'Miraxis'} 'mostUsedChampion': GAME DATA NOT FOUND  'mostUsedChampion': GAME DATA NOT FOUND 
-{'profileIconId': 664, 'summonerLevel': 30, 'revisionDate': 1406435886000L, 'id': 7410, 'name': 'Miraxis'} 'mostUsedChampion': GAME DATA NOT FOUND  'mostUsedChampion': GAME DATA NOT FOUND 

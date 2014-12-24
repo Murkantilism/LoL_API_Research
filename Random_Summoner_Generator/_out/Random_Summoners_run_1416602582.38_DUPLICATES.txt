@@ -1,4 +1,0 @@
-{'profileIconId': 0, 'summonerLevel': 30, 'revisionDate': 1414767285000L, 'id': 74992, 'name': 'Utinni'} 'mostUsedChampion': Jinx  'mostUsedChampion': Jinx  'mostUsedChampion': GAME DATA NOT FOUND
-{'profileIconId': 10, 'summonerLevel': 10, 'revisionDate': 1347820156000L, 'id': 7967, 'name': 'Matt Jones'} 'mostUsedChampion': GAME DATA NOT FOUND  'mostUsedChampion': GAME DATA NOT FOUND
-{'profileIconId': 10, 'summonerLevel': 10, 'revisionDate': 1347820156000L, 'id': 7967, 'name': 'Matt Jones'} 'mostUsedChampion': GAME DATA NOT FOUND  'mostUsedChampion': GAME DATA NOT FOUND 
-{'profileIconId': 0, 'summonerLevel': 30, 'revisionDate': 1414767285000L, 'id': 74992, 'name': 'Utinni'} 'mostUsedChampion': Jinx  'mostUsedChampion': Jinx  'mostUsedChampion': GAME DATA NOT FOUND 

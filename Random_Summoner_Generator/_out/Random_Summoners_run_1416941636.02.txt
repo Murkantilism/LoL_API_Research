@@ -1,4 +1,0 @@
-{'profileIconId': 508, 'summonerLevel': 30, 'revisionDate': 1416665765000L, 'id': 423082, 'name': 'ClitCommander'} 'mostUsedChampion': LeeSin 
-{'profileIconId': 552, 'summonerLevel': 30, 'revisionDate': 1413931907000L, 'id': 17328, 'name': 'Scoop Em Up'} 'mostUsedChampion': LeeSin 
-{'profileIconId': 508, 'summonerLevel': 30, 'revisionDate': 1416665765000L, 'id': 423082, 'name': 'ClitCommander'} 'mostUsedChampion': LeeSin 
-{'profileIconId': 552, 'summonerLevel': 30, 'revisionDate': 1413931907000L, 'id': 17328, 'name': 'Scoop Em Up'} 'mostUsedChampion': LeeSin

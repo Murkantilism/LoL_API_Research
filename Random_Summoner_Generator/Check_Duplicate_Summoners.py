@@ -19,7 +19,7 @@ def main():
     args = parser.parse_args()
 
     print vars(args).values()
-    #outputLocation = '_out/Compiled_Summoners'
+    #outputLocation = '_out/Compiled_Summoners_1000'
     outputLocation = vars(args).values()[0]
 
 

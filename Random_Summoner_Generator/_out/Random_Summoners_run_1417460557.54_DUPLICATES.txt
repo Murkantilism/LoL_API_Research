@@ -1,4 +1,0 @@
-{'profileIconId': 582, 'summonerLevel': 30, 'revisionDate': 1400927423000L, 'id': 8773, 'name': 'trutH'}
-{'profileIconId': 23, 'summonerLevel': 30, 'revisionDate': 1397789506000L, 'id': 6547, 'name': 'ZOPnzAYb2J'}
-{'profileIconId': 582, 'summonerLevel': 30, 'revisionDate': 1400927423000L, 'id': 8773, 'name': 'trutH'}
-{'profileIconId': 23, 'summonerLevel': 30, 'revisionDate': 1397789506000L, 'id': 6547, 'name': 'ZOPnzAYb2J'}
