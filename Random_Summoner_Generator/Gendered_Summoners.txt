@@ -1,0 +1,20 @@
+{'profileIconId': 561, 'summonerLevel': 30, 'revisionDate': 1413454083000L, 'id': 18561, 'name': 'Xylla'} 'mostUsedChampion': Caitlyn
+{'profileIconId': 709, 'summonerLevel': 30, 'revisionDate': 1416954908000L, 'id': 594265, 'name': 'LadyPanther'} 'mostUsedChampion': Lulu
+{'profileIconId': 673, 'summonerLevel': 30, 'revisionDate': 1417055202000L, 'id': 8383, 'name': 'JessiCatx3'} 'mostUsedChampion': Lucian
+{'profileIconId': 584, 'summonerLevel': 30, 'revisionDate': 1415464982000L, 'id': 5881, 'name': 'Aeowind'} 'mostUsedChampion': Soraka
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1414115319000L, 'id': 246863, 'name': 'Indigo Girls'} 'mostUsedChampion': Renekton
+{'profileIconId': 504, 'summonerLevel': 30, 'revisionDate': 1416025535000L, 'id': 4765, 'name': 'Ysera'} 'mostUsedChampion': FiddleSticks
+{'profileIconId': 4, 'summonerLevel': 30, 'revisionDate': 1405299908000L, 'id': 4885, 'name': 'Alestria'} 'mostUsedChampion': Jinx
+{'profileIconId': 692, 'summonerLevel': 30, 'revisionDate': 1413807094000L, 'id': 387389, 'name': 'Lady Frost321'} 'mostUsedChampion': Jinx
+{'profileIconId': 512, 'summonerLevel': 30, 'revisionDate': 1414533958000L, 'id': 6645, 'name': 'Xantcha'} 'mostUsedChampion': Thresh
+{'profileIconId': 660, 'summonerLevel': 30, 'revisionDate': 1411001386000L, 'id': 20417, 'name': 'Azora'} 'mostUsedChampion': XinZhao
+{'profileIconId': 22, 'summonerLevel': 30, 'revisionDate': 1406358758000L, 'id': 459353, 'name': 'ALECIITA'} 'mostUsedChampion': Riven
+{'profileIconId': 562, 'summonerLevel': 30, 'revisionDate': 1416538376000L, 'id': 5854, 'name': 'Aevin'} 'mostUsedChampion': Elise
+{'profileIconId': 506, 'summonerLevel': 30, 'revisionDate': 1417417090000L, 'id': 6698, 'name': 'Latoya'} 'mostUsedChampion': Lissandra
+{'profileIconId': 607, 'summonerLevel': 30, 'revisionDate': 1411075166000L, 'id': 63816, 'name': 'Araxanandra'} 'mostUsedChampion': Soraka  'mostUsedChampion': Soraka
+{'profileIconId': 588, 'summonerLevel': 30, 'revisionDate': 1417594711000L, 'id': 87333, 'name': 'MrsDylandy'} 'mostUsedChampion': Soraka  'mostUsedChampion': Soraka
+{'profileIconId': 504, 'summonerLevel': 30, 'revisionDate': 1417220554000L, 'id': 4765, 'name': 'Ysera'} 'mostUsedChampion': Akali
+{'profileIconId': 539, 'summonerLevel': 30, 'revisionDate': 1417742373000L, 'id': 126676, 'name': 'Milanda'} 'mostUsedChampion': Thresh
+{'profileIconId': 691, 'summonerLevel': 30, 'revisionDate': 1415894222000L, 'id': 21897, 'name': 'Alice'} 'mostUsedChampion': Ryze
+{'profileIconId': 21, 'summonerLevel': 30, 'revisionDate': 1411290279000L, 'id': 120430, 'name': 'Princess Slaya'} 'mostUsedChampion': Caitlyn
+{'profileIconId': 604, 'summonerLevel': 30, 'revisionDate': 1417846670000L, 'id': 209003, 'name': 'agirljedi'} 'mostUsedChampion': Soraka
