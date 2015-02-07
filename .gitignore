@@ -21,6 +21,7 @@
 .idea/uiDesigner.xml
 
 *.iml
-*.iws
+
+*apikey.txt
 
 **/*.pyc
