@@ -3,6 +3,9 @@ LoL API Research
 
 A Northeastern University research project studying the effects of perceived gender on League of Legends player behavior via Riot's official API.
 
+## Goal
+To study League of Legends statistical data and search for a corellation or connection between player behavior and perceived gender.
+
 ## Overview
 We gathered a large data set of summoner and match history data via [RiotWatcher (a Python wrapper)](https://github.com/pseudonym117/Riot-Watcher) and Riot's developer API. Now we are in the process of building three statistical prediction models:
 
