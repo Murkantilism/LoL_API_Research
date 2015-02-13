@@ -2,8 +2,6 @@ __author__ = 'Deniz'
 
 import re, argparse
 
-
-
 def main():
 
     parser = argparse.ArgumentParser(description='Attempt to generate X number'
@@ -38,8 +36,7 @@ def calcWinLoss(inputLocation):
         elif winner == "False":
             numLosses += 1
 
-    netWins = numWins - numLosses
-    winPercentage = (netWins / 15) * 100
+    winPercentage = (numWins / 15) * 100
     return winPercentage
 
 # Given the ELO rating of two players, calculate the expected outcome using:

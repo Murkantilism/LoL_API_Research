@@ -25,14 +25,14 @@ def main():
     # Assign the output path
     outputLocation = vars(args).values()[1]
 
-    subprocess.check_call('Generate_Summoners.py' + ' -out ' +
+    subprocess.check_call('python Generate_Summoners.py' + ' -out ' +
                           str(outputLocation) + ' -num ' +
                           str(numSummoners), shell=True)
-    subprocess.check_call('Get_Most_Used_Champion.py' + ' -out ' +
+    subprocess.check_call('python Get_Most_Used_Champion.py' + ' -out ' +
                           str(outputLocation), shell=True)
-    subprocess.check_call('Check_Duplicate_Summoners.py' + ' -out ' +
+    subprocess.check_call('python Check_Duplicate_Summoners.py' + ' -out ' +
                           str(outputLocation), shell=True)
-    subprocess.check_call('Scrub_Useless_Summoners.py' + ' -out ' +
+    subprocess.check_call('python Scrub_Useless_Summoners.py' + ' -out ' +
                           str(outputLocation), shell=True)
     time.sleep(3600-time.time()%3600)
     main()
