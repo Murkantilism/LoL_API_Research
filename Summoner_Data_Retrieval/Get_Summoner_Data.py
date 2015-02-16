@@ -8,9 +8,11 @@ import re, argparse, os
 f = open('apikey.txt', 'r')
 api = RiotWatcher(f.read())
 
+match_history_data = []
 match_data = []
 
 def main():
+    global match_history_data
     global match_data
 
     parser = argparse.ArgumentParser(description='Attempt to grab data for given list of summoners.')
@@ -31,7 +33,7 @@ def main():
 
     write_summoner_data(inputLocation)
 
-    print "DATA FOR " + str(len(match_data)) + " SUMMONERS ACQUIRED"
+    print "DATA FOR " + str(len(match_history_data)) + " SUMMONERS ACQUIRED"
 
 
 def get_summoner_data(summoners_list):
@@ -46,7 +48,7 @@ def get_summoner_data(summoners_list):
         try:
              #s_data = api.get_match_history(summoner_id=tmp_id, region=None, champion_ids=None, ranked_queues=None, begin_index=0, end_index=15)
              s_data = api._match_history_request(end_url=tmp_id+"?includeTimeline=true&beginIndex=0&endIndex=15&api_key=17dd8043-3e16-4cad-a388-985bfd93d275", region=None)
-             match_data.append("'id': "+tmp_id+", ' "+str(s_data))
+             match_history_data.append("'id': "+tmp_id+", ' "+str(s_data))
         except LoLException:
             print 'DATA NOT FOUND FOR SUMMONER ' + str(tmp_id)
 
@@ -55,7 +57,7 @@ def write_summoner_data(inputLocation):
     start = "'id': "
     end = ", '"
 
-    for summoner in match_data:
+    for summoner in match_history_data:
         # Get the summoner id again, used to write individual files for each summoner
         tmp_id = re.search("%s(.*)%s" % (start, end), str(summoner)).group(1)
         # Write summoner data to output folder
