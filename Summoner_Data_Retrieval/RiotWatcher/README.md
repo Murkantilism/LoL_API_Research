@@ -1,5 +1,5 @@
-# RiotWatcher v1.2.1
-RiotWatcher is a thin wrapper on top of the [Riot Games API for League of Legends][1]. All public methods as of 10/17/2014 are supported in full. All game constants are also included in variable declarations.
+# RiotWatcher v1.2.4
+RiotWatcher is a thin wrapper on top of the [Riot Games API for League of Legends][1]. All public methods as of 2/12/2015 are supported in full. All game constants are also included in variable declarations.
 Requests are kept track of so that you can stay below your rate limit. The default rate limits are set to 10 requests every 10 seconds and 500 requests every 6 minutes (the limit for development keys).
 The rate limiter does not prevent you from making requests that will be blocked and cause an exception, it simply allows you to check if you request will go through.
 
@@ -8,7 +8,7 @@ RiotWatcher uses the Requests Python package. To install:
 ```
 pip install requests
 ```
-You also need to be a have an API from Riot. Get that from [here][1].
+You also need to have an API key from Riot. Get that from [here][1].
 
 ## Using it...
 All methods return dictionaries representing the json objects described by the official Riot API.
@@ -55,7 +55,7 @@ froggen = w.get_summoner(name='froggen', region=EUROPE_WEST)
 print(froggen)
 
 # create watcher with EUW as its default region
-euw = RiotClient('<your-api-key>', default_region=EUROPE_WEST)
+euw = RiotWatcher('<your-api-key>', default_region=EUROPE_WEST)
 
 # proper way to send names with spaces is to remove them, still works with spaces though
 xpeke = w.get_summoner(name='fnaticxmid')
@@ -74,6 +74,17 @@ The tests included are not perfect, and don't have full code coverage, but they 
 
 
 ## Changelog
+
+###v1.2.4 - 2/13/2015
+Added current-game-v1.0 and featured-games-v1.0 api's
+
+###v1.2.3 - 12/31/2014
+Fixed bug/undocumented feature when getting a single summoner with space in the name. Also added static method `RiotWatcher.sanitize_name(name)` for stripping special characters from summoner names.
+
+###v1.2.2 - 12/22/2014
+Tiny changes, function signature of get_summoner changed, to get by ID the keyword is now `_id`, not `id`, tests updated to reflect this
+
+Some game constants updated, if anyone has actually been using them.
 
 ###v1.2.1 - 10/14/2014
 Add lol-status API. not a huge thing but i had time to do it.
