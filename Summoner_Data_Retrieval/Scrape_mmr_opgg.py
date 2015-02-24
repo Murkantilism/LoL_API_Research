@@ -61,7 +61,7 @@ def get_summoner_ids_names(inputLocation, BASE_URL):
             # Attempt to click Check MMR button
             click_check_mmr(browser, fullpath, tmp_name)
             # Parse the webpage to find mmr
-            #find_mmr(browser, fullpath, tmp_name)
+            find_mmr(browser, fullpath, tmp_name)
 
 
 def navigate_to_summoner_page(BASE_URL, summonerName):
