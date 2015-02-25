@@ -41,6 +41,9 @@ def parse_input(filepath, filename):
     # Save the match history info like matchId, mapId,
     match_history_header = split_file[0]
 
+    # Wipe the array of dicts
+    summoner_match_history_arryOfDicts[:] = []
+
     # For every match find the field and it's value, add them to dict
     for match in split_file:
         # Split based on commas
@@ -50,6 +53,8 @@ def parse_input(filepath, filename):
 
         # Declare temp dict
         tmp_dict = OrderedDict()
+
+
 
         for field in split_match:
             # Strip out all unneeded characters
@@ -74,14 +79,15 @@ def parse_input(filepath, filename):
                 # Populate the tmp dict with fields
                 tmp_dict[split_field[0]] = split_field[1]
 
-        # Get the MMR and AVG mmr keys and values
-        mmr_k, mmr_v = get_mmr(filename=filename)
-        avg_mmr_k, avg_mmr_v = get_avg_mmr(filename=filename)
-        # Append them at the end of the tmp dict
-        tmp_dict[mmr_k] = mmr_v
-        tmp_dict[avg_mmr_k] = avg_mmr_v
-        # Append tmp dict to the array of dicts
-        summoner_match_history_arryOfDicts.append(tmp_dict)
+        if len(tmp_dict.keys()) > 0:
+            # Get the MMR and AVG mmr keys and values
+            mmr_k, mmr_v = get_mmr(filename=filename)
+            avg_mmr_k, avg_mmr_v = get_avg_mmr(filename=filename)
+            # Append them at the end of the tmp dict
+            tmp_dict[mmr_k] = mmr_v
+            tmp_dict[avg_mmr_k] = avg_mmr_v
+            # Append tmp dict to the array of dicts
+            summoner_match_history_arryOfDicts.append(tmp_dict)
 
 
 def get_mmr(filename):
@@ -132,6 +138,7 @@ def write_csv(filename):
         # Assign fieldnames (headers)
         fieldnames = summoner_match_history_arryOfDicts[0].keys()
         print len(fieldnames)
+        print len(summoner_match_history_arryOfDicts)
         # Create CSV writer object
         writer = csv.DictWriter(csvfile, quoting=csv.QUOTE_NONE, fieldnames=fieldnames, extrasaction='ignore')
         # Write headers
