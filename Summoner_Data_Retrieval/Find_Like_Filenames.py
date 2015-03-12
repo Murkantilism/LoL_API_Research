@@ -1,6 +1,6 @@
 __author__ = 'Deniz'
 
-import argparse, os, os.path
+import argparse, os, os.path, sys
 
 input_dir0_filenames = []
 input_dir1_filenames = []
@@ -48,20 +48,23 @@ def find_unlike_filenames(dir0, dir1):
         fileFound = False
         cnt = 0
         #for filename1 in input_dir1_filenames:
+        print "HERE:" + str(filename)
+        print "HERE:" + str(filename[23:-24]+'.txt')
+        sys.exit()
         while fileFound == False:
             try:
                 #print str(filename)[25:] + " == " + str(input_dir1_filenames[cnt])[26:]
                 #print input_dir1_filenames[cnt] == input_dir1_filenames[-1]
                 # If filenames are the same, we've found are match and can
                 # stop inner loop temporarily
-                if str(filename)[25:] == str(input_dir1_filenames[cnt])[26:]:
+                if str(filename)[23:-24]+'.txt' == str(input_dir1_filenames[cnt])[26:]:
                     fileFound = True
                 # Otherwise check if this is the last file of dir1. If it is
                 # this must be an unlike file.
                 elif(input_dir1_filenames[cnt] == input_dir1_filenames[-1]):
-                    print "UNLIKE FILE FOUND: ./dir0/" + filename[25:]
+                    print "UNLIKE FILE FOUND: ./dir0/" + filename[23:-24]+'.txt'
                     #unlike_filenames.append(filename[25:])
-                    os.remove(dir0+'/'+(filename[25:]))
+                    os.remove(dir0+'/'+(filename[23:]))
                 # Otherwise pass and continue inner loop
                 else:
                     pass
@@ -79,14 +82,14 @@ def find_unlike_filenames(dir0, dir1):
                 #print input_dir0_filenames[cnt] == input_dir0_filenames[-1]
                 # If filenames are the same, we've found are match and can
                 # stop inner loop temporarily
-                if str(filename)[26:] == str(input_dir0_filenames[cnt])[25:]:
+                if str(filename)[24:] == str(input_dir0_filenames[cnt])[23:-24]+'.txt':
                     fileFound = True
                 # Otherwise check if this is the last file of dir1. If it is
                 # this must be an unlike file.
                 elif(input_dir0_filenames[cnt] == input_dir0_filenames[-1]):
-                    print "UNLIKE FILE FOUND: ./dir1/" + filename[26:]
-                    #unlike_filenames.append(filename[26:])
-                    os.remove(dir1+'/'+(filename[26:]))
+                    print "UNLIKE FILE FOUND: ./dir1/" + filename[24:]
+                    #unlike_filenames.append(filename[24:])
+                    os.remove(dir1+'/'+(filename[24:]))
                 # Otherwise pass and continue inner loop
                 else:
                     pass

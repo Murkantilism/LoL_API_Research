@@ -46,7 +46,7 @@ def get_summoner_data(summoners_list):
         # Try to retrieve the summoner data for the ID we just got
         if api.can_make_request():
             try:
-                s_data = api._match_history_request(end_url=tmp_id+"?includeTimeline=true&beginIndex=16&endIndex=30&api_key="+str(api_key), region=None)
+                s_data = api._match_history_request(end_url=tmp_id+"?includeTimeline=true&beginIndex=16&endIndex=31&api_key="+str(api_key), region=None)
                 match_history_data.append("`"+str(tmp_id)+"`:"+str(s_data))
                 print 'DATA FOUND FOR SUMMONER ' + str(tmp_id)
             except LoLException:
@@ -64,7 +64,7 @@ def write_summoner_data(inputLocation):
         # Get the summoner id again, used to write individual files for each summoner
         tmp_id = re.search("%s(.*)%s" % (start, end), str(summoner)).group(1)
         # Write summoner data to output folder
-        with open(os.curdir+"\_outMatchHistory_16to30\_"+tmp_id+"_"+inputLocation, 'w') as writeFile:
+        with open(os.curdir+"\_outMatchHistory_16to31\_"+tmp_id+"_"+inputLocation, 'w') as writeFile:
             writeFile.writelines(str(summoner)+r"\n")
 
 if __name__ == "__main__":

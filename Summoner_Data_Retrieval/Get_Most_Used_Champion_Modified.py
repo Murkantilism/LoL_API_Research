@@ -28,8 +28,7 @@ def main():
     global inputLocation
     global outputLocation
 
-    parser = argparse.ArgumentParser(description='Attempt to generate X number'
-                                                 ' of random summoners.')
+    parser = argparse.ArgumentParser(description='Attempt to find every given summoners most used champion.')
 
     parser.add_argument('-in', metavar='i', type=str)
     parser.add_argument('-out', metavar='o', type=str)
@@ -43,13 +42,11 @@ def main():
     # Check if we have API calls remaining
     createDictOfSummoners()
 
-    # For every key in the dict, get the summoner stats
-    for k in summoner_name_id_dict:
-        getSummonerStats(k, summoner_name_id_dict.get(k))
+    print len(summoner_name_id_dict)
 
-    # For every key value pair in the dict of most used champs, write data
-    #for k, v in summoner_most_used_champ_dict.iteritems():
-    #    writeMostUsedChampion(k, v)
+    # For every key in the dict, get the summoner stats
+    for k, v in summoner_name_id_dict.iteritems():
+        getSummonerStats(k, v)
 
     print "MOST USED CHAMPIONS FOUND"
 
@@ -65,24 +62,29 @@ def createDictOfSummoners():
 
 # Get the ranked stats of the given summoner ID
 def getSummonerStats(summoner_id, summoner_name):
+    if api.can_make_request():
+        try:
+            summoner_stats = api.get_ranked_stats(summoner_id, region=None, season=None)
+        except LoLException:
+            print "GAME DATA NOT FOUND FOR SUMMONER: " + str(summoner_id)
+            summoner_stats = "{u'modifyDate': 1406927571000L, u'summonerId': 0000, u'champions': [{u'stats': {u'totalPhysicalDamageDealt': 152101, u'totalTurretsKilled': 1, u'totalSessionsPlayed': 1000, u'totalAssists': 10, u'totalDamageDealt': 158764, u'mostChampionKillsPerSession': 2, u'totalPentaKills': 0, u'mostSpellsCast': 0, u'totalDoubleKills': 0, u'maxChampionsKilled': 2, u'totalDeathsPerSession': 8, u'totalSessionsWon': 0, u'totalGoldEarned': 12405, u'totalTripleKills': 0, u'totalChampionKills': 2, u'maxNumDeaths': 8, u'totalMinionKills': 199, u'totalMagicDamageDealt': 5315, u'totalQuadraKills': 0, u'totalUnrealKills': 0, u'totalDamageTaken': 17519, u'totalSessionsLost': 1, u'totalFirstBlood': 0}, u'id': XX}, 2]}"
+            summoner_id += "XX"
 
-    # 1 second buffer
-    if not api.can_make_request():
-        time.sleep(1)
+        parseSummonerStats(summoner_stats, summoner_id, summoner_name)
+    else:
+        print "Not enough API calls for ID: " + summoner_id + " waiting 4 seconds"
+        time.sleep(4)
+        getSummonerStats(summoner_id, summoner_name)
 
-    try:
-        summoner_stats = api.get_ranked_stats(summoner_id, region=None, season=None)
-    except LoLException:
-        print "GAME DATA NOT FOUND FOR SUMMONER: " + str(summoner_id)
-        summoner_stats = "{u'modifyDate': 1406927571000L, u'summonerId': 0000, u'champions': [{u'stats': {u'totalPhysicalDamageDealt': 152101, u'totalTurretsKilled': 1, u'totalSessionsPlayed': 1000, u'totalAssists': 10, u'totalDamageDealt': 158764, u'mostChampionKillsPerSession': 2, u'totalPentaKills': 0, u'mostSpellsCast': 0, u'totalDoubleKills': 0, u'maxChampionsKilled': 2, u'totalDeathsPerSession': 8, u'totalSessionsWon': 0, u'totalGoldEarned': 12405, u'totalTripleKills': 0, u'totalChampionKills': 2, u'maxNumDeaths': 8, u'totalMinionKills': 199, u'totalMagicDamageDealt': 5315, u'totalQuadraKills': 0, u'totalUnrealKills': 0, u'totalDamageTaken': 17519, u'totalSessionsLost': 1, u'totalFirstBlood': 0}, u'id': XX}, 2]}"
-        summoner_id += "XX"
-
-    parseSummonerStats(summoner_stats, summoner_id, summoner_name)
 
 # Given the ranked stats, parse it to get the totalSessionsPlayed and
 # corresponding champion id value
 def parseSummonerStats(summoner_stats, summoner_id, summoner_name):
+    championsUsed = []
+    # Break up the stats by summoner
     summoner_stats = str(summoner_stats).split(', {')
+    # Throw away the last summoner (id = 0 this is the combined stats)
+    summoner_stats = summoner_stats[:-1]
 
     start = "'totalSessionsPlayed': "
     end = ", u'totalAssists"
@@ -96,18 +98,19 @@ def parseSummonerStats(summoner_stats, summoner_id, summoner_name):
         # And the corresponding champion
         result1 = re.search("%s(.*)%s" % (start1, end1), str(s)).group(1)
         # And create a pair [totalSessionsPlayed, id]
-        allChampionsUsed.append([result, result1])
+        championsUsed.append([result, result1])
 
-    sortChampions(summoner_id, summoner_name)
+    sortChampions(summoner_id, summoner_name, championsUsed)
 
 # Sort the list of all champions used by this summoner based on the number
 # of totalSessionsPlayed (which is the first value in the pair)
-def sortChampions(summoner_id, summoner_name):
-    allChampionsUsed_sorted = sorted(allChampionsUsed, key=itemgetter(0))
-
-    # Pass only the LAST pair to getChampionTitle (most used champion!)
-    getChampionTitle(allChampionsUsed_sorted[-1], summoner_id, summoner_name)
-    #print str(summoner_id) + " most used champ: " + str(allChampionsUsed_sorted[-1])
+def sortChampions(summoner_id, summoner_name, championsUsed):
+    if len(championsUsed) > 0:
+        allChampionsUsed_sorted = sorted(championsUsed, key=itemgetter(0))
+        # Pass only the LAST pair to getChampionTitle (most used champion!)
+        getChampionTitle(allChampionsUsed_sorted[-1], summoner_id, summoner_name)
+    else:
+        getChampionTitle([0, 1], summoner_id, summoner_name)
 
 # Given a champion ID, look at the loChampionPairs file to get it's
 # corresponding champion title
@@ -120,8 +123,8 @@ def getChampionTitle(mostUsedChampionPair, summoner_id, summoner_name):
                 mostUsedChampion = "GAME DATA NOT FOUND"
             else:
                 mostUsedChampion = line[1]
-                summoner_most_used_champ_dict.update({summoner_id: str(summoner_name)+":"+mostUsedChampion})
                 writeMostUsedChampion(summoner_id, str(summoner_name)+":"+mostUsedChampion)
+
             print "MOST USED CHAMPION FOR ID #" + str(summoner_id).strip("XX") +\
                   " IS: " + str(mostUsedChampion)
 

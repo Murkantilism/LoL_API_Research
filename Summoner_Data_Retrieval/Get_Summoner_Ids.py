@@ -72,7 +72,7 @@ def Get_Summoner_Ids(summoner):
 
     # Get the summoner object
     try:
-        summonerObj = api.get_summoner(name=summoner, id=None, region=None)
+        summonerObj = api.get_summoner(name=summoner, _id=None, region=None)
     except LoLException:
         print "Summoner " + summoner + " not found."
         return False
@@ -107,7 +107,7 @@ def Check_Level(summoner):
     end = ", u'revisionDate"
 
     if(api.can_make_request()):
-        check_level = api.get_summoner(name=None, id=summonerDict[str(summoner)], region=None)
+        check_level = api.get_summoner(name=None, _id=summonerDict[str(summoner)], region=None)
 
         result = re.search("%s(.*)%s" % (start, end), str(check_level)).group(1)
 

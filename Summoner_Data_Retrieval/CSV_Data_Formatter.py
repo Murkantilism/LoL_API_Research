@@ -31,7 +31,7 @@ def parse_input(filepath, filename):
     read_file = f.read()
     f.close()
     # Split the file into each match
-    split_file = read_file.split("u'queueType': ")
+    split_file = read_file.split("u'matchId': ")
 
     # Define search terms
     start = ", u'"
@@ -133,8 +133,8 @@ def write_csv(filename):
     # Pop the first empty dict from array of dicts
     summoner_match_history_arryOfDicts.pop(0)
 
-    # Open CSV file at output folder + filename minus .txt + .csv
-    with open('.\_outMatchHistoryCSV_0to15\\'+filename[:-4]+'.csv', 'w') as csvfile:
+    # Open CSV file at output folder + filename minus _mmr=x,xxx_avg=x,xxx.txt + .csv
+    with open('.\_outMatchHistoryCSV_0to15\\'+filename[:-4]+'.csv', 'a') as csvfile:
         # Assign fieldnames (headers)
         fieldnames = summoner_match_history_arryOfDicts[0].keys()
         print len(fieldnames)
