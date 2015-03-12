@@ -7,8 +7,7 @@ def main():
     # Command line parsing
     global inputLocation
 
-    parser = argparse.ArgumentParser(description='Attempt to generate X number'
-                                                 ' of random summoners.')
+    parser = argparse.ArgumentParser(description='Remove duplicate summoners.')
 
     parser.add_argument('-in', metavar='i', type=str)
 

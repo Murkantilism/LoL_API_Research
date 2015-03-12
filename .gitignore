@@ -20,6 +20,9 @@
 .idea/dynamic.xml
 .idea/uiDesigner.xml
 
+# Deprecated folder
+Summoner_Data_Retrieval/DEPRECATED/*
+
 *.iml
 
 *apikey.txt
