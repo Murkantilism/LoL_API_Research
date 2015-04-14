@@ -10,7 +10,7 @@ To study League of Legends statistical data and search for a correlation or conn
 
 The code in this repository is a bird's nest. Even looking through the commit history of this README will give a glimpse at the rapidly changing requirements of this research project. Because of how often the requirements of the project changed, it was difficult to write a proper piece of software. 8 months ago, had I known this, I might have been able to architect a better code base. But alas, each time the requirements changed (a total of 5-6 times) I ended up writing a slew of new scripts and deprecating several old ones. Thus is the tale of a 2nd semester senior with few hours to spare each week.
 
-To those looking to use this repository, I wish you the best of luck. It's not amazingly well documented nor organized, and likely riddled with dozens of bugs. One day I hope to go through and clean out this repo, maybe even rewriting everything into a single usable tool. For now, this is best used an an example, but attempting to use these scripts yourself may be fruitless.
+To those looking to use this repository, I wish you the best of luck. It's not amazingly well documented nor organized, and likely riddled with dozens of bugs. One day I hope to go through and clean out this repo, maybe even rewrite everything into a single usable tool. For now, this is best used as an example; attempting to use these scripts yourself may be fruitless.
 
 ## Overview
 We gathered a large data set of summoner and match history data via [RiotWatcher (a Python wrapper)](https://github.com/pseudonym117/Riot-Watcher) and Riot's developer API.
